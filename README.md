@@ -20,6 +20,10 @@ client-side: geen eigen backend-server, geen scraping-infrastructuur om te onder
   - `service-worker.js` — offline app-shell caching + best-effort achtergrondsync
   - `manifest.json` — PWA-manifest (naam, iconen, kleuren)
   - `icons/` — app-iconen (192px, 512px)
+  - `data/nl-markten.json` — dagelijks ververst door GitHub Actions, zie hieronder
+  - `scripts/fetch-nl-markten.js` + `scripts/geocode-cache.json` — het ophaal-/geocode-script
+  - `.github/workflows/update-nl-markten.yml` — de dagelijkse GitHub Actions-workflow
+  - `cf-worker/` — de Cloudflare Worker-proxy voor wattedoenin.nl (België/NL feesten)
 
 ## Databronnen
 
@@ -33,6 +37,7 @@ datum landelijk dekt. Daarom combineert de app meerdere CORS-vriendelijke bronne
 | **Gemeente Amsterdam open data** | Alleen Amsterdam | Officiële weekmarkten met dagen | Nee |
 | **UiTdatabank (publiq)** | België (Vlaanderen/Brussel) | Actuele evenementen mét datum: markten, kermis, braderie, festivals | **Ja, gratis** |
 | **NL feesten-proxy (eigen Cloudflare Worker)** | Nederland | Jaarmarkten/braderieën met datum, via wattedoenin.nl | **Ja** (Worker-URL invullen, zie hieronder) |
+| **NL markten (dagelijks bestand)** | Nederland | Markten/braderieën/jaarmarkten met datum, via marktenmeer.nl, evenementenlijst.nl, wildro.nl en marbo.nl | Nee (staat al klaar) |
 
 ### Nederlandse feesten/kermis/braderieën
 
@@ -49,6 +54,36 @@ Zie [`cf-worker/README.md`](cf-worker/README.md) om deze (gratis) te deployen. D
 een andere naam/account deployt. Zonder een geldige URL hier toont de app voor Nederland
 alleen vaste weekmarkten (OSM/Wikidata/Amsterdam); met UiTdatabank werkt
 evenementen-met-datum al voor België.
+
+## NL markten: dagelijks ververst bestand (GitHub Actions)
+
+Voor marktenmeer.nl, evenementenlijst.nl, wildro.nl en marbo.nl bestaat geen CORS-vriendelijke
+live API — maar in tegenstelling tot wattedoenin.nl (waar een Cloudflare Worker als proxy
+nodig was) lost deze bron het anders op: **een GitHub Actions-workflow haalt deze 4 bronnen
+1x per dag server-side op** (daar bestaat geen CORS-beperking), voegt ze samen, geocodeert
+ontbrekende coördinaten (via PDOK Locatieserver) en schrijft het resultaat weg als
+[`data/nl-markten.json`](data/nl-markten.json) — gewoon een statisch bestand naast de app op
+GitHub Pages. De app haalt dit bestand simpelweg op zoals elk ander bestand, geen Worker of
+sleutel nodig.
+
+- **Script:** [`scripts/fetch-nl-markten.js`](scripts/fetch-nl-markten.js) (Node.js, geen
+  externe packages nodig — gebruikt de ingebouwde `fetch`).
+- **Workflow:** [`.github/workflows/update-nl-markten.yml`](.github/workflows/update-nl-markten.yml),
+  draait dagelijks om 03:00 UTC en is ook handmatig te starten via de **Actions**-tab van de
+  GitHub-repository ("Run workflow").
+- **Geocode-cache:** [`scripts/geocode-cache.json`](scripts/geocode-cache.json) — voorkomt dat
+  elke dag alle locaties opnieuw geocodeerd worden; alleen nieuwe locaties worden aangevraagd
+  bij PDOK.
+- **marktenmeer.nl, evenementenlijst.nl, wildro.nl** draaien op dezelfde WordPress-plugin
+  ("The Events Calendar") met een officiële REST API
+  (`/wp-json/tribe/events/v1/events`) — geen HTML-scraping. **marbo.nl** is een
+  kraamverhuur-boekingspagina met een eenvoudige, stabiele HTML-tabel; deze wordt met een
+  gerichte regex geparsed (geen generieke scraper).
+- **Let op (marbo.nl):** de bron-URL bevat het jaartal (`marbo.nl/markten-2026/`) — dit moet
+  jaarlijks handmatig bijgewerkt worden in `scripts/fetch-nl-markten.js` zodra marbo.nl een
+  nieuwe jaarpagina publiceert.
+- **Nieuwe bron toevoegen die ook op "The Events Calendar" draait?** Voeg het domein toe aan
+  `EVENTS_CALENDAR_SITES` in het script — verder is er geen nieuwe code nodig.
 
 ## UiTdatabank API-sleutel aanvragen
 

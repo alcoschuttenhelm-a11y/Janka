@@ -7,7 +7,7 @@
  *   geen server die dit afdwingt (bewust, om zonder eigen backend te werken).
  */
 
-const CACHE_NAME = "jankas-appie-v5";
+const CACHE_NAME = "jankas-appie-v6";
 const APP_SHELL = [
   "./",
   "index.html",
@@ -38,8 +38,11 @@ self.addEventListener("activate", event => {
 });
 
 self.addEventListener("fetch", event => {
-  // Alleen de eigen app-shell uit cache serveren; databronnen (Overpass/Wikidata/etc.) altijd live ophalen.
+  // Alleen de eigen app-shell uit cache serveren; databronnen (Overpass/Wikidata/etc.) altijd
+  // live ophalen. data/nl-markten.json wordt dagelijks ververst door GitHub Actions — die
+  // moet dus ook altijd live opgehaald worden, nooit uit de app-shell-cache.
   if (event.request.method !== "GET" || !event.request.url.startsWith(self.location.origin)) return;
+  if (event.request.url.includes("/data/nl-markten.json")) return;
   event.respondWith(
     caches.match(event.request).then(cached => cached || fetch(event.request))
   );

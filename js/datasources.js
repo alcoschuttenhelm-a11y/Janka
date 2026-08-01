@@ -196,6 +196,38 @@ const DataSources = (() => {
     }));
   }
 
+  // --- NL markten/braderieën (statisch, dagelijks ververst via GitHub Actions) ---
+  // Bron: marktenmeer.nl, evenementenlijst.nl, wildro.nl en marbo.nl — server-side opgehaald
+  // (geen CORS-probleem daar) door scripts/fetch-nl-markten.js, weggeschreven als
+  // data/nl-markten.json en hier als gewoon statisch bestand ingeladen (geen Worker nodig).
+  async function fetchNlMarktenStatic(lat, lon, radiusKm, daysAhead) {
+    const res = await fetchWithTimeout("data/nl-markten.json");
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+
+    const now = Date.now();
+    const until = now + daysAhead * 86400000;
+
+    return (data.events || [])
+      .filter(ev => distanceKm(lat, lon, ev.lat, ev.lon) <= radiusKm)
+      .filter(ev => {
+        if (!ev.date) return true;
+        const t = new Date(ev.date).getTime();
+        return t <= until;
+      })
+      .map(ev => ({
+        id: ev.id,
+        title: ev.title,
+        category: ev.category || "evenement",
+        lat: ev.lat,
+        lon: ev.lon,
+        date: ev.date || null,
+        dateLabel: ev.date ? new Date(ev.date).toLocaleDateString("nl-NL") : "Datum onbekend",
+        source: ev.source,
+        url: ev.url || null
+      }));
+  }
+
   // Labelt een afgewezen promise met de bronnaam, zodat de gebruiker (en wij bij het
   // uitzoeken van problemen) precies zien welke bron het was — niet alleen een aantal.
   function labelSource(name, promise) {
@@ -209,7 +241,8 @@ const DataSources = (() => {
       labelSource("Wikidata", fetchWikidataMarkets(lat, lon, radiusKm)),
       labelSource("Gemeente Amsterdam", fetchAmsterdamMarkets(lat, lon, radiusKm)),
       labelSource("UiTdatabank", fetchUitdatabankEvents(lat, lon, radiusKm, daysAhead, uitdatabankKey)),
-      labelSource("NL feesten-proxy", fetchNlFeesten(lat, lon, radiusKm, daysAhead, nlFeestenProxyUrl))
+      labelSource("NL feesten-proxy", fetchNlFeesten(lat, lon, radiusKm, daysAhead, nlFeestenProxyUrl)),
+      labelSource("NL markten", fetchNlMarktenStatic(lat, lon, radiusKm, daysAhead))
     ]);
 
     const items = [];
@@ -219,10 +252,14 @@ const DataSources = (() => {
       else errors.push(r.reason?.message || String(r.reason));
     });
 
-    // Dedupliceren op basis van naam + afgeronde locatie (OSM/Wikidata overlappen soms)
+    // Dedupliceren: bij items mét datum is dezelfde dag + vrijwel dezelfde locatie een sterk
+    // signaal voor hetzelfde evenement (verschillende NL-bronnen benoemen hetzelfde
+    // evenement soms net anders) — daar telt de titel niet mee. Zonder datum (vaste
+    // marktlocaties zoals OSM/Wikidata) blijft titel + locatie de dedup-sleutel.
     const seen = new Set();
     const deduped = items.filter(it => {
-      const key = it.title.toLowerCase() + "-" + it.lat.toFixed(3) + "-" + it.lon.toFixed(3);
+      const locKey = it.lat.toFixed(3) + "-" + it.lon.toFixed(3);
+      const key = it.date ? it.date.slice(0, 10) + "-" + locKey : it.title.toLowerCase() + "-" + locKey;
       if (seen.has(key)) return false;
       seen.add(key);
       return true;
