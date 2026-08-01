@@ -1,11 +1,11 @@
 :root {
-  --brand: #e67e22;
-  --brand-dark: #ca6f1e;
-  --bg: #fff8f0;
+  --brand: #9c8370;
+  --brand-dark: #86705f;
+  --bg: #faf6f2;
   --text: #2c2c2c;
   --muted: #767676;
   --card-bg: #ffffff;
-  --border: #eadfd2;
+  --border: #e6ddd4;
 }
 
 * { box-sizing: border-box; }
@@ -113,7 +113,7 @@ html, body {
   font-size: 0.7rem;
   padding: 2px 8px;
   border-radius: 999px;
-  background: #fdf0e3;
+  background: #f0e9e2;
   color: var(--brand-dark);
   margin-right: 6px;
   font-weight: 600;
