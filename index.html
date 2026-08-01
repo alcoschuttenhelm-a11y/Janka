@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Janka's Appie</title>
+<meta name="description" content="Markten, braderieën en feesten bij jou in de buurt — thuis en op vakantie">
+<meta name="theme-color" content="#e67e22">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="app-header">
+  <h1>Janka's Appie</h1>
+  <button id="settingsBtn" class="icon-btn" title="Instellingen" aria-label="Instellingen">⚙️</button>
+</header>
+
+<nav class="tabs">
+  <button class="tab-btn active" data-tab="list">Lijst</button>
+  <button class="tab-btn" data-tab="map">Kaart</button>
+</nav>
+
+<main>
+  <section id="statusBar" class="status-bar"></section>
+
+  <section id="listView" class="view active">
+    <ul id="resultList" class="result-list"></ul>
+  </section>
+
+  <section id="mapView" class="view">
+    <div id="map"></div>
+  </section>
+</main>
+
+<div id="settingsModal" class="modal hidden">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h2>Instellingen</h2>
+      <button id="closeSettingsBtn" class="icon-btn" aria-label="Sluiten">✕</button>
+    </div>
+
+    <label class="field">
+      Zoekstraal (km)
+      <input type="range" id="radiusInput" min="1" max="50" step="1" value="10">
+      <span id="radiusValue">10 km</span>
+    </label>
+
+    <label class="field">
+      Aantal dagen vooruit
+      <input type="range" id="daysInput" min="1" max="14" step="1" value="7">
+      <span id="daysValue">7 dagen</span>
+    </label>
+
+    <label class="field">
+      UiTdatabank API-sleutel (België, optioneel)
+      <input type="text" id="uitdatabankKeyInput" placeholder="Plak hier je gratis API-sleutel">
+      <small>Gratis aan te vragen op <a href="https://docs.publiq.be" target="_blank" rel="noopener">docs.publiq.be</a>. Nodig voor evenementen (kermis/braderie/markt) in België.</small>
+    </label>
+
+    <button id="enableNotificationsBtn" class="primary-btn">Meldingen inschakelen</button>
+    <p class="hint">Meldingen werken betrouwbaar zolang de app open staat. Meldingen op de achtergrond zijn best-effort (afhankelijk van je browser) — zie de documentatie.</p>
+
+    <button id="refreshBtn" class="primary-btn">Nu verversen</button>
+  </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="js/datasources.js"></script>
+<script src="js/map.js"></script>
+<script src="js/notifications.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
