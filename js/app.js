@@ -82,7 +82,9 @@ async function loadAndRender() {
 
   const hiddenCount = items.length - filtered.length;
   const hiddenNote = hiddenCount ? ` (${hiddenCount} verborgen door filter)` : "";
-  const errorNote = errors.length ? ` (${errors.length} bron(nen) tijdelijk niet bereikbaar)` : "";
+  const errorNote = errors.length
+    ? ` (niet bereikbaar: ${errors.map(e => e.split(":")[0]).join(", ")})`
+    : "";
   setStatus(`${filtered.length} resultaten binnen ${currentSettings.radiusKm} km${hiddenNote}${errorNote}`);
 }
 

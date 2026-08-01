@@ -96,6 +96,16 @@ Geen serverbeheer nodig: GitHub Pages ververst automatisch bij elke nieuwe push.
   server vereisen die iemand moet onderhouden) — dit is de afweging die hoort bij "geen
   backend, alles op de telefoon".
 
+## "1 bron(nen) tijdelijk niet bereikbaar"
+
+Elke bron heeft een tijdslimiet van 20 seconden — komt er binnen die tijd geen antwoord (of
+een foutcode), dan wordt die ene bron overgeslagen zonder de rest te blokkeren. De
+statusregel toont voortaan **welke** bron het was, bv. "(niet bereikbaar: Wikidata)". Dit is
+meestal een tijdelijke hapering van een gratis publieke API (Wikidata en, bij een grote
+zoekstraal, OpenStreetMap Overpass kunnen 15–20 sec. duren) — een volgende verversing lukt
+doorgaans gewoon. Blijft steeds dezelfde bron structureel falen, dan is dat het vermelden
+waard.
+
 ## Instellingen
 
 - **Locatie:** standaard je GPS-locatie. Via "Locatie" in Instellingen kun je ook een

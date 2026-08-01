@@ -18,16 +18,33 @@ const DataSources = (() => {
     return R * 2 * Math.asin(Math.sqrt(a));
   }
 
+  // Sommige bronnen (vooral Wikidata en Overpass bij een grote zoekstraal) kunnen 15-20+
+  // seconden duren of soms helemaal blijven hangen. Zonder tijdslimiet zou zo'n trage bron
+  // de hele app onbepaalde tijd laten wachten — deze wrapper breekt na `timeoutMs` af zodat
+  // andere bronnen gewoon getoond worden en de gebruiker een duidelijke reden ziet.
+  async function fetchWithTimeout(url, options = {}, timeoutMs = 20000) {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), timeoutMs);
+    try {
+      return await fetch(url, { ...options, signal: controller.signal });
+    } catch (e) {
+      if (e.name === "AbortError") throw new Error("timeout na " + Math.round(timeoutMs / 1000) + "s");
+      throw e;
+    } finally {
+      clearTimeout(timer);
+    }
+  }
+
   // --- OpenStreetMap Overpass API: vaste marktlocaties (amenity=marketplace) ---
   async function fetchOsmMarkets(lat, lon, radiusKm) {
     const radiusM = Math.round(radiusKm * 1000);
     const query = `[out:json][timeout:25];(node["amenity"="marketplace"](around:${radiusM},${lat},${lon});way["amenity"="marketplace"](around:${radiusM},${lat},${lon}););out center tags;`;
 
-    const res = await fetch("https://overpass-api.de/api/interpreter", {
+    const res = await fetchWithTimeout("https://overpass-api.de/api/interpreter", {
       method: "POST",
       body: "data=" + encodeURIComponent(query)
     });
-    if (!res.ok) throw new Error("Overpass API fout: " + res.status);
+    if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
 
     return (data.elements || []).map(el => {
@@ -62,8 +79,8 @@ const DataSources = (() => {
       } LIMIT 30`;
 
     const url = "https://query.wikidata.org/sparql?format=json&query=" + encodeURIComponent(sparql);
-    const res = await fetch(url, { headers: { Accept: "application/sparql-results+json" } });
-    if (!res.ok) throw new Error("Wikidata fout: " + res.status);
+    const res = await fetchWithTimeout(url, { headers: { Accept: "application/sparql-results+json" } });
+    if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
 
     return (data.results?.bindings || []).map(b => {
@@ -89,8 +106,8 @@ const DataSources = (() => {
     const amsterdamCenter = { lat: 52.3676, lon: 4.9041 };
     if (distanceKm(lat, lon, amsterdamCenter.lat, amsterdamCenter.lon) > 25) return [];
 
-    const res = await fetch("https://maps.amsterdam.nl/open_geodata/geojson_lnglat.php?KAARTLAAG=MARKTEN&THEMA=markten");
-    if (!res.ok) throw new Error("Amsterdam open data fout: " + res.status);
+    const res = await fetchWithTimeout("https://maps.amsterdam.nl/open_geodata/geojson_lnglat.php?KAARTLAAG=MARKTEN&THEMA=markten");
+    if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
 
     return (data.features || []).map((f, i) => {
@@ -129,10 +146,10 @@ const DataSources = (() => {
       limit: "30"
     });
 
-    const res = await fetch("https://search.uitdatabank.be/events/?" + params.toString(), {
+    const res = await fetchWithTimeout("https://search.uitdatabank.be/events/?" + params.toString(), {
       headers: { "x-api-key": apiKey, Accept: "application/json" }
     });
-    if (!res.ok) throw new Error("UiTdatabank fout: " + res.status);
+    if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
 
     return (data.member || data["@graph"] || []).map(ev => {
@@ -162,8 +179,8 @@ const DataSources = (() => {
     if (!proxyUrl) return [];
 
     const params = new URLSearchParams({ lat, lon, radiusKm, days: daysAhead });
-    const res = await fetch(proxyUrl.replace(/\/$/, "") + "/events?" + params.toString());
-    if (!res.ok) throw new Error("NL feesten-proxy fout: " + res.status);
+    const res = await fetchWithTimeout(proxyUrl.replace(/\/$/, "") + "/events?" + params.toString());
+    if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
 
     return (data.events || []).map(ev => ({
@@ -179,14 +196,20 @@ const DataSources = (() => {
     }));
   }
 
+  // Labelt een afgewezen promise met de bronnaam, zodat de gebruiker (en wij bij het
+  // uitzoeken van problemen) precies zien welke bron het was — niet alleen een aantal.
+  function labelSource(name, promise) {
+    return promise.catch(err => { throw new Error(name + ": " + (err?.message || err)); });
+  }
+
   // Haalt alle bronnen parallel op; een falende bron blokkeert de andere niet.
   async function fetchAll({ lat, lon, radiusKm, daysAhead, uitdatabankKey, nlFeestenProxyUrl }) {
     const results = await Promise.allSettled([
-      fetchOsmMarkets(lat, lon, radiusKm),
-      fetchWikidataMarkets(lat, lon, radiusKm),
-      fetchAmsterdamMarkets(lat, lon, radiusKm),
-      fetchUitdatabankEvents(lat, lon, radiusKm, daysAhead, uitdatabankKey),
-      fetchNlFeesten(lat, lon, radiusKm, daysAhead, nlFeestenProxyUrl)
+      labelSource("OpenStreetMap", fetchOsmMarkets(lat, lon, radiusKm)),
+      labelSource("Wikidata", fetchWikidataMarkets(lat, lon, radiusKm)),
+      labelSource("Gemeente Amsterdam", fetchAmsterdamMarkets(lat, lon, radiusKm)),
+      labelSource("UiTdatabank", fetchUitdatabankEvents(lat, lon, radiusKm, daysAhead, uitdatabankKey)),
+      labelSource("NL feesten-proxy", fetchNlFeesten(lat, lon, radiusKm, daysAhead, nlFeestenProxyUrl))
     ]);
 
     const items = [];
