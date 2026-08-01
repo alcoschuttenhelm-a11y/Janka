@@ -32,20 +32,21 @@ datum landelijk dekt. Daarom combineert de app meerdere CORS-vriendelijke bronne
 | **Wikidata** | Wereldwijd (wisselend compleet) | Aanvullende marktlocaties | Nee |
 | **Gemeente Amsterdam open data** | Alleen Amsterdam | Officiële weekmarkten met dagen | Nee |
 | **UiTdatabank (publiq)** | België (Vlaanderen/Brussel) | Actuele evenementen mét datum: markten, kermis, braderie, festivals | **Ja, gratis** |
+| **NL feesten-proxy (eigen Cloudflare Worker)** | Nederland | Jaarmarkten/braderieën met datum, via wattedoenin.nl | **Ja** (Worker-URL invullen, zie hieronder) |
 
-### Bekende beperking: Nederlandse feesten/kermis/braderieën
+### Nederlandse feesten/kermis/braderieën
 
-Voor het specifieke "feesten/kermis/braderie"-segment in **Nederland** bestaat geen
-CORS-vriendelijke API of feed (onderzocht: kermis.nu, wattedoenin.nl, dagjeweg.nl e.d. —
-alleen HTML-pagina's, geen API). Deze app gebruikt daarom bewust **geen scraping**, in lijn
-met de keuze om zonder eigen server/proxy te werken en scraping-grijs-gebied te vermijden.
-Praktisch gevolg: in Nederland toont de app vooral **vaste weekmarkten** (OSM/Wikidata/
-Amsterdam), nog geen eenmalige NL-braderieën/kermissen met datum. Voor België (en dus ook
-tijdens een vakantie daar) werkt dit wél volledig via UiTdatabank.
-
-**Als je dit later alsnog wilt uitbreiden:** een lichte, gratis CORS-proxy (bv. een
-Cloudflare Worker) zou de NL-kermis/braderie-sites kunnen ontsluiten. Overleg dit gerust
-opnieuw — dit is bewust nu niet gebouwd omdat je koos voor de optie zonder scraping.
+Voor dit segment bestaat geen kant-en-klare CORS-vriendelijke API. Onderzocht: kermis.nu
+(profileert zichzelf expliciet als niet-geautomatiseerde, handmatig gecureerde site — bewust
+overgeslagen) en wattedoenin.nl (publiceert evenementen wél in gestandaardiseerde
+`schema.org/Event`-microdata, hetzelfde format dat zoekmachines gebruiken, met een
+robots.txt die algemene bots toestaat op deze pagina's). Om deze laatste bron client-side
+bruikbaar te maken — browsers staan geen cross-origin scraping toe — is er een kleine,
+losstaande Cloudflare Worker gebouwd die de data ontsluit als CORS-vriendelijke JSON-API.
+Zie [`cf-worker/README.md`](cf-worker/README.md) om deze (gratis) te deployen en de
+resulterende URL in te vullen bij **Instellingen → "NL feesten-proxy URL"**. Zonder deze URL
+toont de app voor Nederland alleen vaste weekmarkten (OSM/Wikidata/Amsterdam); met UiTdatabank
+werkt evenementen-met-datum al voor België.
 
 ## UiTdatabank API-sleutel aanvragen
 
@@ -97,7 +98,7 @@ Geen serverbeheer nodig: GitHub Pages ververst automatisch bij elke nieuwe push.
 
 - **Zoekstraal:** 1–50 km, standaard 10 km.
 - **Dagen vooruit:** 1–14 dagen, standaard 7 (heeft alleen effect op bronnen met datums,
-  d.w.z. UiTdatabank — vaste marktlocaties hebben geen datum).
+  d.w.z. UiTdatabank en de NL feesten-proxy — vaste marktlocaties hebben geen datum).
 - Instellingen worden lokaal opgeslagen (localStorage), niet gesynchroniseerd tussen
   apparaten.
 

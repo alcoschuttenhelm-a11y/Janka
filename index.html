@@ -61,6 +61,12 @@
       <small>Gratis aan te vragen op <a href="https://docs.publiq.be" target="_blank" rel="noopener">docs.publiq.be</a>. Nodig voor evenementen (kermis/braderie/markt) in België.</small>
     </label>
 
+    <label class="field">
+      NL feesten-proxy URL (optioneel)
+      <input type="text" id="nlFeestenProxyInput" placeholder="https://jouw-worker.workers.dev">
+      <small>URL van je eigen Cloudflare Worker voor Nederlandse jaarmarkten/braderieën — zie <code>cf-worker/README.md</code> om deze gratis te deployen.</small>
+    </label>
+
     <button id="enableNotificationsBtn" class="primary-btn">Meldingen inschakelen</button>
     <p class="hint">Meldingen werken betrouwbaar zolang de app open staat. Meldingen op de achtergrond zijn best-effort (afhankelijk van je browser) — zie de documentatie.</p>
 

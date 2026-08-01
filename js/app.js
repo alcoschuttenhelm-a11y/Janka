@@ -2,7 +2,7 @@
 
 const Settings = (() => {
   const KEY = "jankasAppie.settings";
-  const defaults = { radiusKm: 10, daysAhead: 7, uitdatabankKey: "" };
+  const defaults = { radiusKm: 10, daysAhead: 7, uitdatabankKey: "", nlFeestenProxyUrl: "" };
 
   function load() {
     try { return { ...defaults, ...JSON.parse(localStorage.getItem(KEY) || "{}") }; }
@@ -64,7 +64,8 @@ async function loadAndRender() {
     lon: currentPosition.lon,
     radiusKm: currentSettings.radiusKm,
     daysAhead: currentSettings.daysAhead,
-    uitdatabankKey: currentSettings.uitdatabankKey
+    uitdatabankKey: currentSettings.uitdatabankKey,
+    nlFeestenProxyUrl: currentSettings.nlFeestenProxyUrl
   });
 
   renderList(items);
@@ -117,6 +118,7 @@ const radiusValue = document.getElementById("radiusValue");
 const daysInput = document.getElementById("daysInput");
 const daysValue = document.getElementById("daysValue");
 const uitdatabankKeyInput = document.getElementById("uitdatabankKeyInput");
+const nlFeestenProxyInput = document.getElementById("nlFeestenProxyInput");
 
 function openSettings() {
   radiusInput.value = currentSettings.radiusKm;
@@ -124,6 +126,7 @@ function openSettings() {
   daysInput.value = currentSettings.daysAhead;
   daysValue.textContent = currentSettings.daysAhead + " dagen";
   uitdatabankKeyInput.value = currentSettings.uitdatabankKey;
+  nlFeestenProxyInput.value = currentSettings.nlFeestenProxyUrl;
   settingsModal.classList.remove("hidden");
 }
 
@@ -131,7 +134,8 @@ function closeSettings() {
   currentSettings = {
     radiusKm: parseInt(radiusInput.value, 10),
     daysAhead: parseInt(daysInput.value, 10),
-    uitdatabankKey: uitdatabankKeyInput.value.trim()
+    uitdatabankKey: uitdatabankKeyInput.value.trim(),
+    nlFeestenProxyUrl: nlFeestenProxyInput.value.trim()
   };
   Settings.save(currentSettings);
   settingsModal.classList.add("hidden");

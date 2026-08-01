@@ -7,7 +7,7 @@
  *   geen server die dit afdwingt (bewust, om zonder eigen backend te werken).
  */
 
-const CACHE_NAME = "jankas-appie-v1";
+const CACHE_NAME = "jankas-appie-v2";
 const APP_SHELL = [
   "./",
   "index.html",

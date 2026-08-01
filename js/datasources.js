@@ -154,13 +154,39 @@ const DataSources = (() => {
     }).filter(Boolean);
   }
 
+  // --- NL feesten/kermis/braderie-proxy (eigen Cloudflare Worker, zie cf-worker/) ---
+  // Ontsluit wattedoenin.nl (schema.org/Event-data) als CORS-vriendelijke JSON-API.
+  // Vereist dat de gebruiker de Worker zelf heeft gedeployed en de URL heeft ingevuld
+  // bij Instellingen — zonder URL wordt deze bron overgeslagen (geen harde afhankelijkheid).
+  async function fetchNlFeesten(lat, lon, radiusKm, daysAhead, proxyUrl) {
+    if (!proxyUrl) return [];
+
+    const params = new URLSearchParams({ lat, lon, radiusKm, days: daysAhead });
+    const res = await fetch(proxyUrl.replace(/\/$/, "") + "/events?" + params.toString());
+    if (!res.ok) throw new Error("NL feesten-proxy fout: " + res.status);
+    const data = await res.json();
+
+    return (data.events || []).map(ev => ({
+      id: ev.id,
+      title: ev.title,
+      category: ev.category || "evenement",
+      lat: ev.lat,
+      lon: ev.lon,
+      date: ev.startDate || null,
+      dateLabel: ev.startDate ? new Date(ev.startDate).toLocaleDateString("nl-NL") : "Datum onbekend",
+      source: ev.source || "wattedoenin.nl",
+      url: ev.url || null
+    }));
+  }
+
   // Haalt alle bronnen parallel op; een falende bron blokkeert de andere niet.
-  async function fetchAll({ lat, lon, radiusKm, daysAhead, uitdatabankKey }) {
+  async function fetchAll({ lat, lon, radiusKm, daysAhead, uitdatabankKey, nlFeestenProxyUrl }) {
     const results = await Promise.allSettled([
       fetchOsmMarkets(lat, lon, radiusKm),
       fetchWikidataMarkets(lat, lon, radiusKm),
       fetchAmsterdamMarkets(lat, lon, radiusKm),
-      fetchUitdatabankEvents(lat, lon, radiusKm, daysAhead, uitdatabankKey)
+      fetchUitdatabankEvents(lat, lon, radiusKm, daysAhead, uitdatabankKey),
+      fetchNlFeesten(lat, lon, radiusKm, daysAhead, nlFeestenProxyUrl)
     ]);
 
     const items = [];
