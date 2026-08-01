@@ -43,10 +43,12 @@ overgeslagen) en wattedoenin.nl (publiceert evenementen wél in gestandaardiseer
 robots.txt die algemene bots toestaat op deze pagina's). Om deze laatste bron client-side
 bruikbaar te maken — browsers staan geen cross-origin scraping toe — is er een kleine,
 losstaande Cloudflare Worker gebouwd die de data ontsluit als CORS-vriendelijke JSON-API.
-Zie [`cf-worker/README.md`](cf-worker/README.md) om deze (gratis) te deployen en de
-resulterende URL in te vullen bij **Instellingen → "NL feesten-proxy URL"**. Zonder deze URL
-toont de app voor Nederland alleen vaste weekmarkten (OSM/Wikidata/Amsterdam); met UiTdatabank
-werkt evenementen-met-datum al voor België.
+Zie [`cf-worker/README.md`](cf-worker/README.md) om deze (gratis) te deployen. De app heeft
+`https://janka-appie-nl-feesten.mailvanakkie.workers.dev` al standaard ingevuld bij
+**Instellingen → "NL feesten-proxy URL"** — pas dit alleen aan als je je eigen Worker onder
+een andere naam/account deployt. Zonder een geldige URL hier toont de app voor Nederland
+alleen vaste weekmarkten (OSM/Wikidata/Amsterdam); met UiTdatabank werkt
+evenementen-met-datum al voor België.
 
 ## UiTdatabank API-sleutel aanvragen
 
@@ -96,9 +98,18 @@ Geen serverbeheer nodig: GitHub Pages ververst automatisch bij elke nieuwe push.
 
 ## Instellingen
 
-- **Zoekstraal:** 1–50 km, standaard 10 km.
+- **Locatie:** standaard je GPS-locatie. Via "Locatie" in Instellingen kun je ook een
+  plaatsnaam/adres opzoeken (via Nominatim/OpenStreetMap) en die handmatig instellen — handig
+  om ergens anders te kijken zonder er zelf te zijn. Met "Gebruik mijn GPS-locatie" schakel je
+  weer terug.
+- **Zoekstraal:** 1–100 km, standaard 10 km. Let op: bij een grote straal (bv. 100 km) kan het
+  laden merkbaar langer duren (10–20 sec.), omdat de OpenStreetMap-bron dan een veel groter
+  gebied moet doorzoeken.
 - **Dagen vooruit:** 1–14 dagen, standaard 7 (heeft alleen effect op bronnen met datums,
   d.w.z. UiTdatabank en de NL feesten-proxy — vaste marktlocaties hebben geen datum).
+- **Categorieën tonen:** Markt, Evenement, Braderie en Kermis zijn elk apart aan/uit te
+  zetten — bijvoorbeeld handig om vaste weekmarkten te verbergen en alleen eenmalige
+  evenementen te zien.
 - Instellingen worden lokaal opgeslagen (localStorage), niet gesynchroniseerd tussen
   apparaten.
 

@@ -44,8 +44,18 @@
     </div>
 
     <label class="field">
+      Locatie
+      <div class="location-row">
+        <input type="text" id="locationSearchInput" placeholder="Plaatsnaam of adres, bv. Tiel">
+        <button id="locationSearchBtn" type="button" class="secondary-btn">Zoek</button>
+      </div>
+      <small id="locationStatus"></small>
+      <button id="useGpsBtn" type="button" class="link-btn">Gebruik mijn GPS-locatie</button>
+    </label>
+
+    <label class="field">
       Zoekstraal (km)
-      <input type="range" id="radiusInput" min="1" max="50" step="1" value="10">
+      <input type="range" id="radiusInput" min="1" max="100" step="1" value="10">
       <span id="radiusValue">10 km</span>
     </label>
 
@@ -65,6 +75,17 @@
       NL feesten-proxy URL (optioneel)
       <input type="text" id="nlFeestenProxyInput" placeholder="https://jouw-worker.workers.dev">
       <small>URL van je eigen Cloudflare Worker voor Nederlandse jaarmarkten/braderieën — zie <code>cf-worker/README.md</code> om deze gratis te deployen.</small>
+    </label>
+
+    <label class="field">
+      Categorieën tonen
+      <div class="checkbox-row">
+        <label class="checkbox-label"><input type="checkbox" id="catMarkt" checked> Markt</label>
+        <label class="checkbox-label"><input type="checkbox" id="catEvenement" checked> Evenement</label>
+        <label class="checkbox-label"><input type="checkbox" id="catBraderie" checked> Braderie</label>
+        <label class="checkbox-label"><input type="checkbox" id="catKermis" checked> Kermis</label>
+      </div>
+      <small>Vink bijvoorbeeld "Markt" uit om vaste weekmarkten te verbergen.</small>
     </label>
 
     <button id="enableNotificationsBtn" class="primary-btn">Meldingen inschakelen</button>

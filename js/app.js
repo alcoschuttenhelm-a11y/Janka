@@ -2,7 +2,12 @@
 
 const Settings = (() => {
   const KEY = "jankasAppie.settings";
-  const defaults = { radiusKm: 10, daysAhead: 7, uitdatabankKey: "", nlFeestenProxyUrl: "" };
+  const defaults = {
+    radiusKm: 10, daysAhead: 7, uitdatabankKey: "",
+    nlFeestenProxyUrl: "https://janka-appie-nl-feesten.mailvanakkie.workers.dev",
+    manualLocation: null,
+    categoryFilters: { markt: true, evenement: true, braderie: true, kermis: true }
+  };
 
   function load() {
     try { return { ...defaults, ...JSON.parse(localStorage.getItem(KEY) || "{}") }; }
@@ -68,25 +73,38 @@ async function loadAndRender() {
     nlFeestenProxyUrl: currentSettings.nlFeestenProxyUrl
   });
 
-  renderList(items);
-  AppMap.setItems(items);
-  AppNotifications.notifyNewItems(items);
+  const filters = currentSettings.categoryFilters;
+  const filtered = items.filter(it => filters[it.category] !== false);
 
+  renderList(filtered);
+  AppMap.setItems(filtered);
+  AppNotifications.notifyNewItems(filtered);
+
+  const hiddenCount = items.length - filtered.length;
+  const hiddenNote = hiddenCount ? ` (${hiddenCount} verborgen door filter)` : "";
   const errorNote = errors.length ? ` (${errors.length} bron(nen) tijdelijk niet bereikbaar)` : "";
-  setStatus(`${items.length} resultaten binnen ${currentSettings.radiusKm} km${errorNote}`);
+  setStatus(`${filtered.length} resultaten binnen ${currentSettings.radiusKm} km${hiddenNote}${errorNote}`);
 }
 
-function handlePosition(pos) {
-  currentPosition = { lat: pos.coords.latitude, lon: pos.coords.longitude };
-  AppMap.setUserLocation(currentPosition.lat, currentPosition.lon);
+function usePosition(lat, lon) {
+  currentPosition = { lat, lon };
+  AppMap.setUserLocation(lat, lon);
   loadAndRender();
 }
 
+function handlePosition(pos) {
+  usePosition(pos.coords.latitude, pos.coords.longitude);
+}
+
 function handlePositionError(err) {
-  setStatus("Locatie niet beschikbaar: " + err.message + ". Geef locatietoegang om resultaten te zien.");
+  setStatus("Locatie niet beschikbaar: " + err.message + ". Geef locatietoegang om resultaten te zien, of stel een locatie handmatig in via Instellingen.");
 }
 
 function requestLocation() {
+  if (currentSettings.manualLocation) {
+    usePosition(currentSettings.manualLocation.lat, currentSettings.manualLocation.lon);
+    return;
+  }
   if (!("geolocation" in navigator)) {
     setStatus("Geolocation wordt niet ondersteund door deze browser.");
     return;
@@ -119,6 +137,20 @@ const daysInput = document.getElementById("daysInput");
 const daysValue = document.getElementById("daysValue");
 const uitdatabankKeyInput = document.getElementById("uitdatabankKeyInput");
 const nlFeestenProxyInput = document.getElementById("nlFeestenProxyInput");
+const locationSearchInput = document.getElementById("locationSearchInput");
+const locationStatus = document.getElementById("locationStatus");
+const catInputs = {
+  markt: document.getElementById("catMarkt"),
+  evenement: document.getElementById("catEvenement"),
+  braderie: document.getElementById("catBraderie"),
+  kermis: document.getElementById("catKermis")
+};
+
+function renderLocationStatus() {
+  locationStatus.textContent = currentSettings.manualLocation
+    ? "Handmatig ingesteld: " + currentSettings.manualLocation.label
+    : "GPS-locatie wordt gebruikt.";
+}
 
 function openSettings() {
   radiusInput.value = currentSettings.radiusKm;
@@ -127,20 +159,60 @@ function openSettings() {
   daysValue.textContent = currentSettings.daysAhead + " dagen";
   uitdatabankKeyInput.value = currentSettings.uitdatabankKey;
   nlFeestenProxyInput.value = currentSettings.nlFeestenProxyUrl;
+  Object.keys(catInputs).forEach(cat => { catInputs[cat].checked = currentSettings.categoryFilters[cat] !== false; });
+  renderLocationStatus();
   settingsModal.classList.remove("hidden");
 }
 
 function closeSettings() {
+  const categoryFilters = {};
+  Object.keys(catInputs).forEach(cat => { categoryFilters[cat] = catInputs[cat].checked; });
+
   currentSettings = {
+    ...currentSettings,
     radiusKm: parseInt(radiusInput.value, 10),
     daysAhead: parseInt(daysInput.value, 10),
     uitdatabankKey: uitdatabankKeyInput.value.trim(),
-    nlFeestenProxyUrl: nlFeestenProxyInput.value.trim()
+    nlFeestenProxyUrl: nlFeestenProxyInput.value.trim(),
+    categoryFilters
   };
   Settings.save(currentSettings);
   settingsModal.classList.add("hidden");
   loadAndRender();
 }
+
+// --- Handmatige locatie (Nominatim/OpenStreetMap plaatsnaam-zoek) ---
+async function searchLocation() {
+  const query = locationSearchInput.value.trim();
+  if (!query) return;
+  locationStatus.textContent = "Zoeken naar \"" + query + "\"...";
+  try {
+    const url = "https://nominatim.openstreetmap.org/search?format=jsonv2&limit=1&q=" + encodeURIComponent(query);
+    const res = await fetch(url);
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const results = await res.json();
+    if (!results.length) {
+      locationStatus.textContent = "Niets gevonden voor \"" + query + "\".";
+      return;
+    }
+    const r = results[0];
+    currentSettings.manualLocation = { lat: parseFloat(r.lat), lon: parseFloat(r.lon), label: r.display_name };
+    Settings.save(currentSettings);
+    renderLocationStatus();
+    usePosition(currentSettings.manualLocation.lat, currentSettings.manualLocation.lon);
+  } catch (e) {
+    locationStatus.textContent = "Zoeken mislukt: " + e.message;
+  }
+}
+
+document.getElementById("locationSearchBtn").addEventListener("click", searchLocation);
+locationSearchInput.addEventListener("keydown", e => { if (e.key === "Enter") searchLocation(); });
+document.getElementById("useGpsBtn").addEventListener("click", () => {
+  currentSettings.manualLocation = null;
+  Settings.save(currentSettings);
+  renderLocationStatus();
+  requestLocation();
+});
 
 document.getElementById("settingsBtn").addEventListener("click", openSettings);
 document.getElementById("closeSettingsBtn").addEventListener("click", closeSettings);
