@@ -2934,5 +2934,37 @@
   "Baal, Baal": {
     "lat": 51.89053626,
     "lon": 5.92770863
+  },
+  "Camping de Heldense Bossen, Helden, De Heldense Bossen 6, Helden": {
+    "lat": 51.31617845,
+    "lon": 6.01835556
+  },
+  "Parking Ambulance Dienst Ramsel, Harmoniestraat 9a, Ramsel": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Camping Laarbrug, Vilsterseweg 2, Vilsteren": {
+    "lat": 52.50777265,
+    "lon": 6.38409962
+  },
+  "Meersel-Dreef, Meersel-Dreef": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Lange Voorhout, Lange Voorhout, Den Haag": {
+    "lat": 52.08254509,
+    "lon": 4.31247407
+  },
+  "H.J. van Heekplein, H.J. van Heekplein, Enschede": {
+    "lat": 52.21764291,
+    "lon": 6.897952
+  },
+  "Delflandplein, Amsterdam": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Veluws Museum Hagedoorns Plaatse, Ledderweg 11, Epe": {
+    "lat": 52.33501197,
+    "lon": 5.99428922
   }
 }
