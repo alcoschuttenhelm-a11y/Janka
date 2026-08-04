@@ -2966,5 +2966,37 @@
   "Veluws Museum Hagedoorns Plaatse, Ledderweg 11, Epe": {
     "lat": 52.33501197,
     "lon": 5.99428922
+  },
+  "Achter gebouw &#8216;de Ark&#8217;, Sint Joostdijk 11, Oosterland": {
+    "lat": 51.64963374,
+    "lon": 4.03527059
+  },
+  "Camping de Poppe Markelo, Holterweg 23, Markelo": {
+    "lat": 52.2554249,
+    "lon": 6.46034605
+  },
+  "Aalten, Aalten": {
+    "lat": 51.92174151,
+    "lon": 6.56058823
+  },
+  "Centrum Aalten, Aalten": {
+    "lat": 51.92174151,
+    "lon": 6.56058823
+  },
+  "Jan van Cuijkdijk, Grave, Jan van Cuijkdijk 1, Grave": {
+    "lat": 51.7546885,
+    "lon": 5.7494607
+  },
+  "Oud-Winterslag, in de omgeving van Genker Plantencentrum, Genk": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Centrum van Aalten, Aalten": {
+    "lat": 51.92174151,
+    "lon": 6.56058823
+  },
+  "Mosthoeve, Oostakker, Moststraat 48, Oostakker": {
+    "lat": 52.77027294,
+    "lon": 5.75185552
   }
 }
