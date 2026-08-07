@@ -3134,5 +3134,17 @@
   "Caribbean Corner, Zoetermeer, Dorpsstraat 114A, Zoetermeer": {
     "lat": 52.05561423,
     "lon": 4.49928745
+  },
+  "Marktplein Haaksbergen, Marktplein, Haaksbergen": {
+    "lat": 52.15550341,
+    "lon": 6.75586451
+  },
+  "Historische binnenstad Oudestraat, Kampen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Niekerk, Niekerk": {
+    "lat": 53.22621701,
+    "lon": 6.3681233
   }
 }
