@@ -3146,5 +3146,141 @@
   "Niekerk, Niekerk": {
     "lat": 53.22621701,
     "lon": 6.3681233
+  },
+  "RCN Camping Epe, Epe": {
+    "lat": 52.32551004,
+    "lon": 5.95496795
+  },
+  "oud Edam, oud Edam, Edam": {
+    "lat": 52.51723415,
+    "lon": 5.06504936
+  },
+  "Centrum Ruinerwold, Dijkhuizen, Dijkhuizen (centrum), Ruinerwold, Ruinerwold": {
+    "lat": 52.72474284,
+    "lon": 6.25407349
+  },
+  "Tielt, Tielt (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Koning Albertplein, Hamme (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Woerden, Woerden": {
+    "lat": 52.10693981,
+    "lon": 4.89889927
+  },
+  "Doornzeledries, tussen de kerk en de feesttenten, Evergem": {
+    "lat": 51.48322243,
+    "lon": 3.65732324
+  },
+  "Kerkplein, Woerden, Kerkplein 1, Woerden": {
+    "lat": 52.08576007,
+    "lon": 4.88365447
+  },
+  "Klein Vlaanderen en directe omgeving, Middelburg": {
+    "lat": 51.50164729,
+    "lon": 3.60789476
+  },
+  "Boerderij aan het Westerse Wijkje, Westerse Wijkje 47, Kerkenveld": {
+    "lat": 52.66990646,
+    "lon": 6.49731996
+  },
+  "Middenweg, Middenweg 66, Muntendam": {
+    "lat": 53.13079977,
+    "lon": 6.87481448
+  },
+  "Diverse locaties in het Waasland en Zeeuws-Vlaanderen, onder meer Sint-Niklaas, Beveren, Lokeren, Terneuzen en omgeving, Sint-Niklaas": {
+    "lat": 52.71784979,
+    "lon": 5.7221199
+  },
+  "Kloosterstraat, Kloosterstraat, Steyl": {
+    "lat": 51.33913839,
+    "lon": 6.12359133
+  },
+  "WillemII Stadion, Tilburg, Goirleseweg 34, Tilburg": {
+    "lat": 51.54183753,
+    "lon": 5.06606629
+  },
+  "Grote grasveld in de wijk Zandseveld, Zandseveldpad, Sint anthonis": {
+    "lat": 51.62518249,
+    "lon": 5.8821082
+  },
+  "Camping RCN het Grote Bos, Doorn": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Landwinkel Weststrate, Middelburg, Sandberglaan 10, Middelburg": {
+    "lat": 51.50705346,
+    "lon": 3.60101459
+  },
+  "Leezdorf, Leezdorf": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Wilhelminapark, Wandelweg, Wormerveer": {
+    "lat": 52.48629301,
+    "lon": 4.80281911
+  },
+  "Speelplaatsen Aan De Lucas Van Leijdenstraat, Lucas Van Leijdenstraat 27, ’s-Hertogenbosch": {
+    "lat": 51.69676333,
+    "lon": 5.3234537
+  },
+  "CULT=US, naast het Unilever-gebouw aan de Maas, Nassaukade 3, Rotterdam": {
+    "lat": 51.4448658,
+    "lon": 6.04163949
+  },
+  "Evenemententerrein Reeuwijkse plassen, Reeuwijksehoutwal 4, Reeuwijk": {
+    "lat": 52.05763608,
+    "lon": 4.73629814
+  },
+  "Westerblokker, Blokker": {
+    "lat": 52.66016615,
+    "lon": 5.08606685
+  },
+  "Centrum Beilen (Brinkstraat en omgeving), Beilen": {
+    "lat": 52.85922266,
+    "lon": 6.51489007
+  },
+  "Expo Hal Houten, Meidoornkade 24, Houten": {
+    "lat": 52.03833601,
+    "lon": 5.14142232
+  },
+  "Promenadeplein, Zoetermeer": {
+    "lat": 52.06128657,
+    "lon": 4.48967643
+  },
+  "Leidschendam, Leidschendam": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Overloon, Overloon": {
+    "lat": 51.57444043,
+    "lon": 5.93186114
+  },
+  "Evenemententerrein Down under, Laagravense plas, Ravensewetering 1, Nieuwegein": {
+    "lat": 52.04980993,
+    "lon": 5.12205092
+  },
+  "IJSBAAN APELDOORN / Skeelerbaan evenemententerrein, De voorwaarts 440, Apeldoorn": {
+    "lat": 52.21024716,
+    "lon": 5.99264551
+  },
+  "Parking Super Smaczny, Brusselsesteenweg 168a, Lebbeke": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Bij Nijholt, Veulen, Veulen": {
+    "lat": 51.4787365,
+    "lon": 5.95610066
+  },
+  "Markt 1, Markt 1, Gennep": {
+    "lat": 51.70163787,
+    "lon": 5.96876022
+  },
+  "Marktplein, Cuijk, Markt 1, Cuijk": {
+    "lat": 51.72648257,
+    "lon": 5.88233108
   }
 }
