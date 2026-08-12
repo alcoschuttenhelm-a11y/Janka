@@ -3282,5 +3282,61 @@
   "Marktplein, Cuijk, Markt 1, Cuijk": {
     "lat": 51.72648257,
     "lon": 5.88233108
+  },
+  "Museumpark, Museumpark 24, Rotterdam": {
+    "lat": 51.9139661,
+    "lon": 4.47110794
+  },
+  "Oudenburg Centrum, Hoogstraat 8, Oudenburg (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Boom, Boom": {
+    "lat": 51.56568304,
+    "lon": 4.83601824
+  },
+  "Lodewijkstraat Groningen, Lodewijkstraat, Groningen": {
+    "lat": 53.2101771,
+    "lon": 6.57439996
+  },
+  "Aalst, Aalst (BE)": {
+    "lat": 51.78456707,
+    "lon": 5.13270407
+  },
+  "Centrum Halle, Grote Markt, Halle (BE)": {
+    "lat": 51.99994952,
+    "lon": 6.42927301
+  },
+  "Brabantpark, Couperuslaan, hoek Stijn Struivelslaan, Etten-Leur": {
+    "lat": 51.56920732,
+    "lon": 4.6487933
+  },
+  "Koningslo, Koningslo (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Park Spoor Oost Antwerpen, Schijnpoortweg, Antwerpen (BE)": {
+    "lat": 51.95427899,
+    "lon": 6.26539837
+  },
+  "Minitopia Poeldonk, De Vaartgraaf, Den Bosch": {
+    "lat": 51.68328904,
+    "lon": 5.33792365
+  },
+  "Dorpsplein Koudekerke, Koudekerke": {
+    "lat": 51.48220747,
+    "lon": 3.55464725
+  },
+  "Markt 11, Gennep, Markt 11, Gennep": {
+    "lat": 51.70156395,
+    "lon": 5.96916432
+  },
+  "Ylst, IJlst": {
+    "lat": 53.00874943,
+    "lon": 5.6274603
+  },
+  "Balderhof, Pastorijstraat, Berlaar (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
   }
 }
