@@ -3338,5 +3338,49 @@
   "Balderhof, Pastorijstraat, Berlaar (BE)": {
     "lat": 52.75180122,
     "lon": 5.96778501
+  },
+  "Winkelcentrum Dieren, Dieren": {
+    "lat": 52.05142357,
+    "lon": 6.08533752
+  },
+  "Straten rond buurtplein Kouter, Oudstrijderslaan 15, Lochristi": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Diverse adressen in Hegelsom, Hegelsom": {
+    "lat": 51.43168472,
+    "lon": 6.03753224
+  },
+  "Wijk Nieuw Middelburg, Middelburg": {
+    "lat": 51.48299339,
+    "lon": 3.66950929
+  },
+  "Zwarteweg 29, Zwarteweg 29, Nieuw Amsterdam": {
+    "lat": 52.7057035,
+    "lon": 6.8593061
+  },
+  "Oranjestraat Assen, Oranjestraat, Assen": {
+    "lat": 52.99418188,
+    "lon": 6.56884285
+  },
+  "Koning Boudewijnstraat 9, Koning Boudewijnstraat 9, Menen": {
+    "lat": 51.66815624,
+    "lon": 4.54092376
+  },
+  "Biesboschstraat, Biesboschstraat, Alkmaar": {
+    "lat": 52.63096891,
+    "lon": 4.76085716
+  },
+  "Huis van de Wijk &#8220;De Nieuwe Nachtegaal&#8221;, Mezenhof 1, Rotterdam": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Egmond aan zee, Egmond aan Zee": {
+    "lat": 52.61831221,
+    "lon": 4.61939656
+  },
+  "Oudegracht, Oudegracht, Weesp": {
+    "lat": 52.30649385,
+    "lon": 5.04218162
   }
 }
