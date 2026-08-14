@@ -3382,5 +3382,21 @@
   "Oudegracht, Oudegracht, Weesp": {
     "lat": 52.30649385,
     "lon": 5.04218162
+  },
+  "Rondom de Ichthus Kerk, Lemele": {
+    "lat": 51.74348286,
+    "lon": 5.74582377
+  },
+  "Bathmen, Bathmen": {
+    "lat": 52.24846637,
+    "lon": 6.3216363
+  },
+  "Centrum Beekbergen, Dorpstraat, Kerkallee en Papenberg, Beekbergen": {
+    "lat": 52.16032527,
+    "lon": 5.96761365
+  },
+  "Woonzorgpark Willem van den Bergh, bij Plein 6, Wintertuinlaan, Noordwijk": {
+    "lat": 52.22203973,
+    "lon": 4.4290232
   }
 }
