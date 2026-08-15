@@ -3398,5 +3398,61 @@
   "Woonzorgpark Willem van den Bergh, bij Plein 6, Wintertuinlaan, Noordwijk": {
     "lat": 52.22203973,
     "lon": 4.4290232
+  },
+  "Dadizele, Dadizele (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Sint-lambrechts-herk, Sint-Lambrechts-Herk": {
+    "lat": 51.83191811,
+    "lon": 4.99550496
+  },
+  "Brugge, Brugge": {
+    "lat": 51.84671626,
+    "lon": 4.50868209
+  },
+  "Centraal Station Antwerpen,, Mediaplein, Antwerpen": {
+    "lat": 51.95427899,
+    "lon": 6.26539837
+  },
+  "Munsterplein, Munsterplein, Roermond": {
+    "lat": 51.1936794,
+    "lon": 5.98807518
+  },
+  "Bolivarplaats, Antwerpen, Bolivarplaats, Antwerpen": {
+    "lat": 51.95427899,
+    "lon": 6.26539837
+  },
+  "Lillo, Lillo": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Sportpark Almelo, Almelo": {
+    "lat": 52.34789061,
+    "lon": 6.65819554
+  },
+  "Torenplein, Barneveld, Torenplein, Barneveld": {
+    "lat": 52.13971751,
+    "lon": 5.58345086
+  },
+  "Hoek 4B, Nederweert, Hoek 4B, Nederweert": {
+    "lat": 51.28777193,
+    "lon": 5.71628886
+  },
+  "Health Center Hoenderdaal, Hoendersteeg 7, Driebergen": {
+    "lat": 52.05569093,
+    "lon": 5.26321401
+  },
+  "Wijk De Trisken, Drachten, Drachten": {
+    "lat": 53.09725525,
+    "lon": 6.0381514
+  },
+  "Diverse adressen in Meppel Noord, Meppel": {
+    "lat": 52.70428831,
+    "lon": 6.20642186
+  },
+  "Expo Houten, Meidoornkade 24, Houten": {
+    "lat": 52.03833601,
+    "lon": 5.14142232
   }
 }
