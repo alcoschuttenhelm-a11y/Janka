@@ -3454,5 +3454,49 @@
   "Expo Houten, Meidoornkade 24, Houten": {
     "lat": 52.03833601,
     "lon": 5.14142232
+  },
+  "Wapenveld, Wapenveld": {
+    "lat": 52.43049897,
+    "lon": 6.06836998
+  },
+  "Zeebrugge, Zeebrugge": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Evenemententerrein Stevensbeek, Radioweg 1, Stevensbeek": {
+    "lat": 51.61373996,
+    "lon": 5.92554076
+  },
+  "Eelde, Eelde": {
+    "lat": 53.13060127,
+    "lon": 6.57415851
+  },
+  "Flevonice, Strandgaperweg 20, Biddinghuizen": {
+    "lat": 52.42270093,
+    "lon": 5.69254152
+  },
+  "Plooschehof 85 / Manis Krijgsmanhof, Plooschehof 85, ’s-Hertogenbosch": {
+    "lat": 51.71680217,
+    "lon": 5.32682834
+  },
+  "Hoeve Ravenstein, Landgoed Groeneveld, Ravensteinselaan 3, Baarn": {
+    "lat": 52.21434159,
+    "lon": 5.24303472
+  },
+  "Muziekwijk Helmond-Noord, Basstraat, Baritonstraat, Harmoniestraat, Tubapad e.o., Helmond": {
+    "lat": 51.49733281,
+    "lon": 5.66390578
+  },
+  "Centrum Meerssen, rondom de Oude Basiliek &#038; Markt, Meerssen": {
+    "lat": 50.88397024,
+    "lon": 5.75498772
+  },
+  "NAC-Stadion Breda, Rat Verleghstraat 2, Breda": {
+    "lat": 51.59382342,
+    "lon": 4.74629688
+  },
+  "Site Le Bon, Turnhout": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
   }
 }
