@@ -3502,5 +3502,105 @@
   "Jardin Grand Hospice, Bussel, Rue du Grand Hospice 7, Brussel (BE)": {
     "lat": 52.33352801,
     "lon": 6.65986288
+  },
+  "Rondom het Gemeentehuis, Drunen, Achter 't Raadhuis 16, Drunen": {
+    "lat": 51.68666282,
+    "lon": 5.13194772
+  },
+  "De Koster, Kapelle, Markt 65, West kapelle": {
+    "lat": 51.49498012,
+    "lon": 3.97045109
+  },
+  "DC Copernicus, Den Haag, Daguerrestraat 16, Den Haag": {
+    "lat": 52.07736695,
+    "lon": 4.28097686
+  },
+  "Wijkcentrum de Dreef, Geldrop, Willem Barentszweg 69, Geldrop": {
+    "lat": 51.417824,
+    "lon": 5.57299229
+  },
+  "Noordervaart 168, Noordervaart 168, Stompetoren": {
+    "lat": 52.61344989,
+    "lon": 4.80707949
+  },
+  "Raadhuisplein, Drachten, Drachten": {
+    "lat": 53.10548949,
+    "lon": 6.0991924
+  },
+  "Gehele Muziekwijk te Almere, Wim Kanplein 1 8, Almere": {
+    "lat": 52.37060071,
+    "lon": 5.17933179
+  },
+  "Musselkanaal, Musselkanaal": {
+    "lat": 52.95032868,
+    "lon": 7.00409045
+  },
+  "De Koperenknoop, Van Limburg Stirumstraat 119, Amsterdam": {
+    "lat": 52.3836006,
+    "lon": 4.87654994
+  },
+  "Wijk de Herven, Eerste Hervendreef, Tweede Hervendreef en eerste t/m zevende Herven, 's-Hertogenbosch": {
+    "lat": 51.70540189,
+    "lon": 5.3210817
+  },
+  "De gehele wijk De Pierik, Zwolle": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Sint Nicolaasga, Sint Nicolaasga": {
+    "lat": 52.91501602,
+    "lon": 5.77451867
+  },
+  "Long John, Krankeledenstraat 22, Amersfoort": {
+    "lat": 52.15498445,
+    "lon": 5.38746346
+  },
+  "Wijkcentrum Symfonie, Arnhem, Valckenierstraat 1, Arnhem": {
+    "lat": 51.97867679,
+    "lon": 5.931768
+  },
+  "Parking Forestierstadion, Stasegemsesteenweg 24, Harelbeke": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Tennisclub Overdan, Norbertijnenstraat 9, Assendelft": {
+    "lat": 52.47420665,
+    "lon": 4.74843478
+  },
+  "Sporthei, Rucphen, Rucphen": {
+    "lat": 51.53925615,
+    "lon": 4.57542273
+  },
+  "HVV Helmond Heeklaan, Heeklaan, Helmond": {
+    "lat": 51.4663377,
+    "lon": 5.64481594
+  },
+  "Parkeerplaats Silverdome, Zoetermeer, Van der Hagenstraat, Zoetermeer": {
+    "lat": 52.05149109,
+    "lon": 4.51897536
+  },
+  "Fa. Expert, Bentheimer Straße, Nordhorn": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Silvoldseweg 85, Terborg, Silvoldseweg 85, Terborg": {
+    "lat": 51.91873726,
+    "lon": 6.37080365
+  },
+  "Maria hoop, Maria hoop": {
+    "lat": 51.09733019,
+    "lon": 5.9759958
+  },
+  "Sportstad Heerenveen, Abe Lenstra Boulevard 23-Q, Heerenveen": {
+    "lat": 52.95723223,
+    "lon": 5.9373227
+  },
+  "Cultuurhistorisch Centrum Loppersum, Hogestraat 17, Loppersum": {
+    "lat": 53.33144409,
+    "lon": 6.74622577
+  },
+  "Vermeerkwartier, Amersfoort, Vermeerstraat 50, Amersfoort": {
+    "lat": 52.14867427,
+    "lon": 5.39229391
   }
 }
