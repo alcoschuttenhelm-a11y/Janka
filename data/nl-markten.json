@@ -1,186 +1,6 @@
 {
-  "generatedAt": "2026-08-18T03:46:29.737Z",
+  "generatedAt": "2026-08-19T03:48:32.698Z",
   "events": [
-    {
-      "id": "ec-marktenmeer.nl-30705",
-      "title": "Historische Markt Veere – 18 augustus 2026",
-      "category": "markt",
-      "lat": 51.56259998,
-      "lon": 3.58463765,
-      "date": "2026-08-18T00:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/historische-markt-veere-18-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-29206",
-      "title": "Maandelijkse Markt in St. Vith – 18 augustus 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-08-18T07:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/maandelijkse-markt-in-st-vith-18-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-36523",
-      "title": "Rommelmarkt Parking Ambulance Dienst in Ramsel – 18 augustus 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-08-18T07:30:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/rommelmarkt-parking-ambulance-dienst-in-ramsel-18-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-17612",
-      "title": "Juttersmarkt Den Helder – 18 augustus 2026",
-      "category": "markt",
-      "lat": 52.93997585,
-      "lon": 4.78522541,
-      "date": "2026-08-18T09:30:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/juttersmarkt-den-helder-18-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-14118",
-      "title": "Emmen Vlindermarkten – braderie en vlooienmarkt in Emmen (18 augustus 2026)",
-      "category": "braderie",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-08-18T10:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/vlindermarkt-emmen-18-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-14291",
-      "title": "Zomerbries Zierikzee – Zierikzee – 18 augustus 2026",
-      "category": "markt",
-      "lat": 51.63409111,
-      "lon": 3.88897493,
-      "date": "2026-08-18T10:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/zomerbries-zierikzee-18-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-20784",
-      "title": "Zomermarkt Nunspeet – 18 augustus 2026 (zesde en laatste editie)",
-      "category": "markt",
-      "lat": 52.33925119,
-      "lon": 5.78624642,
-      "date": "2026-08-18T10:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/zomermarkt-nunspeet-18-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-33631",
-      "title": "Voorthuizer Braderieën in Voorthuizen – 18 augustus 2026",
-      "category": "braderie",
-      "lat": 52.18659368,
-      "lon": 5.6077449,
-      "date": "2026-08-18T10:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/voorthuizer-braderieen-in-voorthuizen-18-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-15088",
-      "title": "Roggel – Recreatiepark De Leistert – 18 augustus 2026",
-      "category": "markt",
-      "lat": 51.27484091,
-      "lon": 5.93141243,
-      "date": "2026-08-18T11:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/roggel-recreatiepark-de-leistert-18-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-17643",
-      "title": "Toeristenmarkt Katwijk aan Zee – 18 augustus 2026",
-      "category": "markt",
-      "lat": 51.87201337,
-      "lon": 4.10548031,
-      "date": "2026-08-18T11:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/toeristenmarkt-katwijk-18-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-25258",
-      "title": "Markt Capfun Erkemederstrand Zeewolde – 18 augustus 2026",
-      "category": "markt",
-      "lat": 52.34436139,
-      "lon": 5.45524194,
-      "date": "2026-08-18T11:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/markt-zeewolde-capfun-erkemederstrand-18-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-30535",
-      "title": "Avondmarkt in Sluis – 18 augustus 2026",
-      "category": "markt",
-      "lat": 51.33341393,
-      "lon": 3.52310338,
-      "date": "2026-08-18T11:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/avondmarkt-sluis-18-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-23267",
-      "title": "Koger Dinsdag De Koog – 18 augustus 2026",
-      "category": "braderie",
-      "lat": 53.09183434,
-      "lon": 4.7548696,
-      "date": "2026-08-18T12:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/koger-dinsdag-de-koog-18-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-25063",
-      "title": "Vleddermarkt Vledder – 18 augustus 2026",
-      "category": "braderie",
-      "lat": 52.86089924,
-      "lon": 6.20742588,
-      "date": "2026-08-18T14:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/vleddermarkt-vledder-18-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-20539",
-      "title": "Duinmarkt – Schoorl – 18 augustus 2026",
-      "category": "braderie",
-      "lat": 52.70077685,
-      "lon": 4.6930953,
-      "date": "2026-08-18T15:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/duinmarkt-schoorl-18-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-29354",
-      "title": "Markt bij Capfun De Rotonde in Enspijk – 18 augustus 2026",
-      "category": "markt",
-      "lat": 51.86878456,
-      "lon": 5.21171614,
-      "date": "2026-08-18T15:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/markt-bij-capfun-de-rotonde-in-enspijk-18-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-22900",
-      "title": "Zomeravondbraderie Ermelo – 18 augustus 2026",
-      "category": "braderie",
-      "lat": 52.2882477,
-      "lon": 5.66616371,
-      "date": "2026-08-18T18:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/zomeravondbraderie-ermelo-18-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-33722",
-      "title": "Dinsdagavond Kaasmarkt in Alkmaar – 18 augustus 2026",
-      "category": "markt",
-      "lat": 52.63140241,
-      "lon": 4.75050494,
-      "date": "2026-08-18T19:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/dinsdagavond-kaasmarkt-in-alkmaar-18-augustus-2026/"
-    },
     {
       "id": "ec-marktenmeer.nl-21310",
       "title": "Gouda Curiosa – Gouda – 19 augustus 2026",
@@ -290,6 +110,16 @@
       "date": "2026-08-19T10:00:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/grote-vlooien-brocante-markt-in-zierikzee-19-augustus-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40268",
+      "title": "Midzomerfeest Slootdorp – 19 t/m 22 augustus 2026",
+      "category": "markt",
+      "lat": 52.85974677,
+      "lon": 4.95933463,
+      "date": "2026-08-19T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/midzomerfeest-slootdorp-19-augustus-2026/"
     },
     {
       "id": "ec-marktenmeer.nl-15420",
@@ -832,6 +662,16 @@
       "url": "https://marktenmeer.nl/markt/smaakmarkt-wijk-aan-zee-21-augustus-2026/"
     },
     {
+      "id": "ec-marktenmeer.nl-40108",
+      "title": "Braderie Petten – 21 augustus 2026",
+      "category": "braderie",
+      "lat": 52.76798796,
+      "lon": 4.66340637,
+      "date": "2026-08-21T17:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/braderie-petten-21-augustus-2026/"
+    },
+    {
       "id": "ec-marktenmeer.nl-16446",
       "title": "Zomermarkt Samoza – 22 augustus 2026",
       "category": "markt",
@@ -930,6 +770,26 @@
       "date": "2026-08-22T08:00:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/antiek-en-rommelmarkt-koning-albertplein-in-hamme-22-augustus-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40232",
+      "title": "Rommelmarkt Ledebergse Feesten 2026 in Ledeberg – 22 en 23 augustus 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-08-22T08:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-ledebergse-feesten-2026-22-augustus-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40429",
+      "title": "Rommelmarkt Oudenaarde – 22 augustus 2026",
+      "category": "markt",
+      "lat": 52.63687296,
+      "lon": 4.74319909,
+      "date": "2026-08-22T08:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-oudenaarde-22-augustus-2026/"
     },
     {
       "id": "ec-marktenmeer.nl-36793",
@@ -1100,6 +960,16 @@
       "date": "2026-08-22T09:00:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/gezellige-maandelijkse-rommelmarkt-in-wijkcentrum-de-dreef-22-augustus-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40240",
+      "title": "Vogelhoek Feest '26 in Merelbeke – 22 augustus 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-08-22T09:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/vogelhoek-feest-26-22-augustus-2026/"
     },
     {
       "id": "ec-marktenmeer.nl-29000",
@@ -1352,6 +1222,16 @@
       "url": "https://marktenmeer.nl/markt/stoeprommelmarkt-op-de-pierik-22-augustus-2026/"
     },
     {
+      "id": "ec-marktenmeer.nl-40236",
+      "title": "Rommelstraat Kraaiwinkelstraat in Lubbeek – 22 augustus 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-08-22T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelstraat-kraaiwinkelstraat-22-augustus-2026/"
+    },
+    {
       "id": "ec-marktenmeer.nl-14452",
       "title": "Zomermarkt Lemmer – 22 augustus 2026 | Centrum Lemmer",
       "category": "markt",
@@ -1560,6 +1440,56 @@
       "date": "2026-08-23T00:00:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/orveltermarkt-orvelte-23-augustus-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40082",
+      "title": "Garage Sale Kunrade in Voerendaal – 23 augustus 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-08-23T00:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/garage-sale-kunrade-23-augustus-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40089",
+      "title": "Sanatoriumdwarsstraat Rommelmarkt in Deventer – 23 augustus 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-08-23T00:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/sanatoriumdwarsstraat-rommelmarkt-23-augustus-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40093",
+      "title": "Gezellige overdekte rommelmarkt De Toekomst in Kiel-Windeweer – 23 augustus 2026",
+      "category": "markt",
+      "lat": 53.11203043,
+      "lon": 6.77425439,
+      "date": "2026-08-23T00:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/gezellige-overdekte-rommelmarkt-de-toekomst-23-augustus-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40097",
+      "title": "Leuke Brocante en Curiosa markt in Oudkarspel – 23 augustus 2026",
+      "category": "markt",
+      "lat": 52.72156517,
+      "lon": 4.79189032,
+      "date": "2026-08-23T00:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/leuke-brocante-en-curiosa-markt-23-augustus-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40215",
+      "title": "Garagesale Kruisberg Brunssum – 23 augustus 2026.",
+      "category": "markt",
+      "lat": 50.94294215,
+      "lon": 5.97800086,
+      "date": "2026-08-23T00:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/garagesale-kruisberg-brunssum-23-augustus-2026/"
     },
     {
       "id": "ec-marktenmeer.nl-28036",
@@ -1802,6 +1732,26 @@
       "url": "https://marktenmeer.nl/markt/snuffelmarkt-rucphen-23-augustus-2026/"
     },
     {
+      "id": "ec-marktenmeer.nl-40207",
+      "title": "Garagesale Elsloo – 23 augustus 2026",
+      "category": "markt",
+      "lat": 52.94138792,
+      "lon": 6.24310638,
+      "date": "2026-08-23T09:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/garagesale-elsloo-23-augustus-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40228",
+      "title": "Goegekregen rommelmarkt Asiadok-Westkaai in Antwerpen – 23 augustus 2026",
+      "category": "markt",
+      "lat": 51.95427899,
+      "lon": 6.26539837,
+      "date": "2026-08-23T09:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/goegekregen-rommelmarkt-asiadok-westkaai-23-augustus-2026/"
+    },
+    {
       "id": "ec-marktenmeer.nl-30506",
       "title": "Streekproductenmarkt bij Molen Nooit Gedacht in Cadzand-Dorp – 23 augustus 2026",
       "category": "markt",
@@ -1820,6 +1770,16 @@
       "date": "2026-08-23T09:30:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/kofferbakmarkt-evenemententerrein-de-groene-wig-in-wormer-23-augustus-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40211",
+      "title": "Rommelmarkt Braderie Gassel – 23 augustus 2026",
+      "category": "braderie",
+      "lat": 51.74037481,
+      "lon": 5.78061985,
+      "date": "2026-08-23T09:30:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-braderie-gassel-23-augustus-2026/"
     },
     {
       "id": "ec-marktenmeer.nl-14120",
@@ -2010,6 +1970,16 @@
       "date": "2026-08-23T10:00:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/grote-snuffelmarkt-23-augustus-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40086",
+      "title": "Rommelmarkt Tjalkstraat in Alkmaar – 23 augustus 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-08-23T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-tjalkstraat-23-augustus-2026/"
     },
     {
       "id": "ec-marktenmeer.nl-17027",
@@ -2232,6 +2202,16 @@
       "url": "https://marktenmeer.nl/markt/garagesale-in-maria-hoop-23-augustus-2026/"
     },
     {
+      "id": "ec-marktenmeer.nl-40218",
+      "title": "Rommelmarkt Blokje Om in Eindhoven – 23 augustus 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-08-23T12:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-blokje-om-23-augustus-2026/"
+    },
+    {
       "id": "ec-marktenmeer.nl-33479",
       "title": "Ambachtenmarkt Neervelp – 23 augustus 2026",
       "category": "markt",
@@ -2350,6 +2330,16 @@
       "date": "2026-08-25T10:00:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/vlindermarkt-emmen-25-augustus-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40224",
+      "title": "Verkoop 2e hands boeken Drachten – 25 t/m 29 augustus 2026",
+      "category": "markt",
+      "lat": 53.10557125,
+      "lon": 6.09803521,
+      "date": "2026-08-25T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/verkoop-2e-hands-boeken-drachten-25-augustus-2026/"
     },
     {
       "id": "ec-marktenmeer.nl-25262",
@@ -2930,6 +2920,16 @@
       "date": "2026-08-28T17:00:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/kleedjesmarkt-nieuw-balinge-28-augustus-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40112",
+      "title": "Braderie Petten – 28 augustus 2026",
+      "category": "braderie",
+      "lat": 52.76798796,
+      "lon": 4.66340637,
+      "date": "2026-08-28T17:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/braderie-petten-28-augustus-2026/"
     },
     {
       "id": "ec-marktenmeer.nl-16448",
@@ -3762,6 +3762,16 @@
       "url": "https://marktenmeer.nl/markt/rommelmarkt-jabbeke-permekelaan-30-augustus-2026/"
     },
     {
+      "id": "ec-marktenmeer.nl-40329",
+      "title": "brocante de Bras – 30 augustus 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-08-30T07:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/brocante-de-bras-30-augustus-2026/"
+    },
+    {
       "id": "ec-marktenmeer.nl-16534",
       "title": "Montmartre Markt Zutphen – 30 augustus 2026",
       "category": "markt",
@@ -4152,6 +4162,16 @@
       "url": "https://marktenmeer.nl/markt/einde-van-zomervakantie-rommelmarkt-30-augustus-2026/"
     },
     {
+      "id": "ec-marktenmeer.nl-40221",
+      "title": "Straatmarkt Voskuilenweg in Heerlen – 30 augustus 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-08-30T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/straatmarkt-voskuilenweg-heerlen-molenberg-30-augustus-2026/"
+    },
+    {
       "id": "ec-marktenmeer.nl-30258",
       "title": "Markt van de Makers in Terheijden – 30 augustus 2026",
       "category": "braderie",
@@ -4340,6 +4360,26 @@
       "date": "2026-08-30T11:00:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/braderie-gennep-30-augustus-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40146",
+      "title": "Stoffenmarkt Lünen – 30 augustus 2026",
+      "category": "markt",
+      "lat": 51.14305632,
+      "lon": 5.86874998,
+      "date": "2026-08-30T11:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/stoffenmarkt-lunen-30-augustus-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40271",
+      "title": "Simmer Fair in Stiens – 30 augustus 2026",
+      "category": "markt",
+      "lat": 53.26976164,
+      "lon": 5.8334774,
+      "date": "2026-08-30T11:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/simmer-fair-30-augustus-2026/"
     },
     {
       "id": "ec-marktenmeer.nl-23487",
@@ -4710,6 +4750,16 @@
       "date": "2026-09-04T10:00:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/zomermarkt-bij-plein-6-4-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40248",
+      "title": "Boerenversmarkt Middenmeer – 4 en 5 september 2026",
+      "category": "markt",
+      "lat": 52.81525562,
+      "lon": 5.01257106,
+      "date": "2026-09-04T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boerenversmarkt-middenmeer-proef-de-smaak-van-het-platteland-4-september-2026/"
     },
     {
       "id": "ec-marktenmeer.nl-23400",
@@ -6002,6 +6052,26 @@
       "url": "https://marktenmeer.nl/markt/vlo-markt-nac-stadion-breda-6-september-2026/"
     },
     {
+      "id": "ec-marktenmeer.nl-40150",
+      "title": "Stoffenmarkt Leiden – 6 september 2026",
+      "category": "markt",
+      "lat": 52.15724965,
+      "lon": 4.49254829,
+      "date": "2026-09-06T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/stoffenmarkt-leiden-6-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40434",
+      "title": "Floralia Park Boeken- en Platenbeurs in Oosterhout – 6 september 2026",
+      "category": "markt",
+      "lat": 51.623733,
+      "lon": 4.86536816,
+      "date": "2026-09-06T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/floralia-park-boeken-en-platenbeurs-6-september-2026/"
+    },
+    {
       "id": "ec-marktenmeer.nl-33270",
       "title": "Rommelmarkt De Wieken in Roosendaal – 6 september 2026",
       "category": "markt",
@@ -6202,6 +6272,16 @@
       "url": "https://marktenmeer.nl/markt/markus-in-rotterdam-6-september-2026/"
     },
     {
+      "id": "ec-marktenmeer.nl-40357",
+      "title": "De Bossche Platenmarkt in Den Bosch – 6 september 2026",
+      "category": "markt",
+      "lat": 51.68819229,
+      "lon": 5.30933172,
+      "date": "2026-09-06T12:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/de-bossche-platenmarkt-6-september-2026/"
+    },
+    {
       "id": "ec-marktenmeer.nl-30229",
       "title": "Boekenmarkt Gertrudiskerk in Ossendrecht – 6 september 2026",
       "category": "markt",
@@ -6280,6 +6360,26 @@
       "date": "2026-09-08T10:00:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/rolde-roldermarkt-8-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-21335",
+      "title": "Curiosa Fair Landgoed Beeckestein – Velsen-Zuid – 6 september 2026",
+      "category": "markt",
+      "lat": 52.45295233,
+      "lon": 4.65219213,
+      "date": "2026-09-09T09:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/curiosa-fair-landgoed-beeckestein-6-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-15520",
+      "title": "Jaarmarkt Valkenburg (ZH) – 9 september 2026 (tijdens Paardenmarkt)",
+      "category": "markt",
+      "lat": 50.86131082,
+      "lon": 5.83497049,
+      "date": "2026-09-09T09:30:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/jaarmarkt-valkenburg-zh-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-14816",
@@ -6490,16 +6590,6 @@
       "date": "2026-09-07T00:00:00",
       "source": "evenementenlijst.nl",
       "url": "https://evenementenlijst.nl/evenement/paardenmarkt-elst-7-september-2026/"
-    },
-    {
-      "id": "ec-wildro.nl-1068",
-      "title": "Braderie en vlooienmarkt Zomermarkt Centrum Ruinen",
-      "category": "braderie",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-08-18T10:00:00",
-      "source": "wildro.nl",
-      "url": "https://wildro.nl/event/braderie-en-vlooienmarkt-zomermarkt-centrum-ruinen-2-2/"
     },
     {
       "id": "ec-wildro.nl-454",

@@ -3602,5 +3602,93 @@
   "Vermeerkwartier, Amersfoort, Vermeerstraat 50, Amersfoort": {
     "lat": 52.14867427,
     "lon": 5.39229391
+  },
+  "Slootdorp, Slootdorp": {
+    "lat": 52.85974677,
+    "lon": 4.95933463
+  },
+  "Plein 1945, Plein 1945, Petten": {
+    "lat": 52.76798796,
+    "lon": 4.66340637
+  },
+  "Ledeberg, Ledeberg": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Stationstraat, Oudenaarde, Stationstraat, Oudenaarde": {
+    "lat": 52.63687296,
+    "lon": 4.74319909
+  },
+  "&#8217;t Lijsternest en omliggende straten, Wautersdreef 25, Merelbeke": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Kerkplein, Woerden, Kerkplein, Woerden": {
+    "lat": 52.08576007,
+    "lon": 4.88365447
+  },
+  "Lubbeek, Lubbeek": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Kunrade, Voerendaal": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "De Toekomst Kiel-Windeweer, Kiel-Windeweer": {
+    "lat": 53.11203043,
+    "lon": 6.77425439
+  },
+  "Oudkarspel, Oudkarspel": {
+    "lat": 52.72156517,
+    "lon": 4.79189032
+  },
+  "Elsloo, Elsloo": {
+    "lat": 52.94138792,
+    "lon": 6.24310638
+  },
+  "Asiadok-Westkaai, Antwerpen, Asiadok-Westkaai, Antwerpen": {
+    "lat": 51.95427899,
+    "lon": 6.26539837
+  },
+  "centrum Gassel, Julianaplein, Gassel": {
+    "lat": 51.74037481,
+    "lon": 5.78061985
+  },
+  "Alkmaar, Alkmaar": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Doopsgezinde Kerk, Drachten, Zuiderbuurt 26, Drachten": {
+    "lat": 53.10557125,
+    "lon": 6.09803521
+  },
+  "Longvilly, Longvilly": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Willy-Brandt-Platz, Lunen, Willy-Brandt-Platz, Lünen": {
+    "lat": 51.14305632,
+    "lon": 5.86874998
+  },
+  "Anne-Famkes Pleats, Stiens, Wurgedyk 20, Stiens": {
+    "lat": 53.26976164,
+    "lon": 5.8334774
+  },
+  "Boerenversmarkt, Hoornseweg 16, Middenmeer": {
+    "lat": 52.81525562,
+    "lon": 5.01257106
+  },
+  "Botermarkt, Leiden, Botermarkt, Leiden": {
+    "lat": 52.15724965,
+    "lon": 4.49254829
+  },
+  "Floralia Park, Beneluxweg 63, Oosterhout": {
+    "lat": 51.623733,
+    "lon": 4.86536816
+  },
+  "Sint Janskerkhof, Den Bosch": {
+    "lat": 51.68819229,
+    "lon": 5.30933172
   }
 }
