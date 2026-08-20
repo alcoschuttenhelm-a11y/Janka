@@ -3690,5 +3690,65 @@
   "Sint Janskerkhof, Den Bosch": {
     "lat": 51.68819229,
     "lon": 5.30933172
+  },
+  "Baliebrugplein en omliggende straten, Ruddervoorde, Baliebrugplein 1, Ruddervoorde": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Ivo Vermeerschlaan, Maldegem, Ivo Vermeerschlaan, Maldegem": {
+    "lat": 52.08960137,
+    "lon": 5.10774958
+  },
+  "Sint-Guibertusplein, Itegem, Sint-Guibertusplein, Itegem": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Damse Vaart-Zuid 1-49, Sint-Kruis, Damse Vaart-Zuid 1-49, Sint-Kruis": {
+    "lat": 52.99339103,
+    "lon": 6.55903471
+  },
+  "Rond het Branste Mandemakersplein, Bornem, Riddermoerstraat, Bornem": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Sint-Janstraat, rond de zaal en Thiewinkel, Lummen, Sint-Janstraat 9, Lummen": {
+    "lat": 51.25257779,
+    "lon": 4.06453539
+  },
+  "Bornem, Bornem": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Sergeysstraat, Herent, Sergeysstraat, Herent": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Grote Markt, Herentals, Grote Markt z/n, Herentals": {
+    "lat": 52.37200213,
+    "lon": 5.21756856
+  },
+  "Raadhuisplein, Waalwijk, Waalwijk": {
+    "lat": 51.69090095,
+    "lon": 5.06652633
+  },
+  "De Hazepolder, Purmerend, Abraham Kuijperstraat 1, Purmerend": {
+    "lat": 52.5113065,
+    "lon": 4.94040824
+  },
+  "Zwembad De Spetter, Abbekerk, Essenlaan 3, Abbekerk": {
+    "lat": 52.73174525,
+    "lon": 5.02350652
+  },
+  "Grote Markt, Goes, Grote Markt, Goes": {
+    "lat": 51.50436615,
+    "lon": 3.89008738
+  },
+  "Stadhuisplein (De Katterug), Tilburg, Stadhuisplein, Tilburg": {
+    "lat": 51.55445125,
+    "lon": 5.08731846
+  },
+  "Graaf Gerardstraat, Roermond, Graaf Gerardstraat, Roermond": {
+    "lat": 51.19281579,
+    "lon": 5.98943902
   }
 }
