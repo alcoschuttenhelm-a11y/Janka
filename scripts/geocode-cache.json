@@ -3750,5 +3750,17 @@
   "Graaf Gerardstraat, Roermond, Graaf Gerardstraat, Roermond": {
     "lat": 51.19281579,
     "lon": 5.98943902
+  },
+  "Vught, Vught": {
+    "lat": 51.65035998,
+    "lon": 5.24260833
+  },
+  "Griendtsveenpark, Berkenlaan, Erica": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Kinderdijk, Kinderdijk": {
+    "lat": 51.88363875,
+    "lon": 4.64178031
   }
 }
