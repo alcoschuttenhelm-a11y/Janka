@@ -1,206 +1,6 @@
 {
-  "generatedAt": "2026-08-21T03:51:21.349Z",
+  "generatedAt": "2026-08-22T03:42:54.257Z",
   "events": [
-    {
-      "id": "ec-marktenmeer.nl-25834",
-      "title": "GEANNULEERD: Braderie Wout Brama Toernooi – Almelo – 21 t/m 23 augustus 2026",
-      "category": "braderie",
-      "lat": 52.34789061,
-      "lon": 6.65819554,
-      "date": "2026-08-21T00:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/braderie-almelo-wout-brama-toernooi-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-26752",
-      "title": "HOPPAAA! Foodtruck Festival Vathorst Amersfoort | 21 t/m 23 augustus 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-08-21T00:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/hoppaaa-vathorst-amersfoort-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-33040",
-      "title": "Corso Sint Jansklooster – 21 en 22 augustus 2026",
-      "category": "markt",
-      "lat": 52.68131484,
-      "lon": 6.01309891,
-      "date": "2026-08-21T00:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/corso-sint-jansklooster-21-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-30429",
-      "title": "Kofferbakmarkt Donkere Duinen in Den Helder – 21 augustus 2026",
-      "category": "markt",
-      "lat": 52.93997585,
-      "lon": 4.78522541,
-      "date": "2026-08-21T08:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/kofferbakmarkt-donkere-duinen-in-den-helder-21-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-39673",
-      "title": "Kinderrommelmarkt in Drunen – 21 augustus 2026",
-      "category": "markt",
-      "lat": 51.68666282,
-      "lon": 5.13194772,
-      "date": "2026-08-21T08:30:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/kinderrommelmarkt-21-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-25065",
-      "title": "Zomermarkt Balk – 21 augustus 2026",
-      "category": "markt",
-      "lat": 52.9018611,
-      "lon": 5.59049429,
-      "date": "2026-08-21T10:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/zomermarkt-balk-21-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-28452",
-      "title": "Seizoensmarkt Westkapelle – 21 augustus 2026",
-      "category": "markt",
-      "lat": 51.53129315,
-      "lon": 3.4552999,
-      "date": "2026-08-21T10:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/seizoensmarkt-westkapelle-21-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-33702",
-      "title": "Kaasmarkt Alkmaar in Alkmaar – 21 augustus 2026",
-      "category": "markt",
-      "lat": 52.63140241,
-      "lon": 4.75050494,
-      "date": "2026-08-21T10:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/kaasmarkt-alkmaar-in-alkmaar-21-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-39769",
-      "title": "Hobby markt in West kapelle – 21 augustus 2026",
-      "category": "markt",
-      "lat": 51.49498012,
-      "lon": 3.97045109,
-      "date": "2026-08-21T10:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/hobby-markt-21-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-20417",
-      "title": "Roots Market | Egmond aan Zee | 21 augustus 2026",
-      "category": "markt",
-      "lat": 52.6217597,
-      "lon": 4.62156453,
-      "date": "2026-08-21T11:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/roots-market-egmond-aan-zee-21-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-23884",
-      "title": "Braderie en vlomarkt Borger – 21 augustus 2026",
-      "category": "braderie",
-      "lat": 52.90588184,
-      "lon": 6.87198236,
-      "date": "2026-08-21T11:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/braderie-en-vlomarkt-borger-21-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-35390",
-      "title": "Puttense Braderie in Putten – 21 augustus 2026",
-      "category": "braderie",
-      "lat": 52.24390009,
-      "lon": 5.5826715,
-      "date": "2026-08-21T13:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/puttense-braderie-in-putten-21-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-36750",
-      "title": "Kinder Kleedjesmarkt in Oost-Souburg – 21 augustus 2026",
-      "category": "markt",
-      "lat": 51.47119362,
-      "lon": 3.60062388,
-      "date": "2026-08-21T13:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/kinder-kleedjesmarkt-speeltuin-de-souburgt-21-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-15094",
-      "title": "Breskens – Avondmarkt Spuiplein – 21 augustus 2026",
-      "category": "markt",
-      "lat": 51.39262505,
-      "lon": 3.55508701,
-      "date": "2026-08-21T14:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/breskens-avondmarkt-spuiplein-21-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-18994",
-      "title": "Avondmarkt Holle Bolle Dag Sommelsdijk – vrijdag 21 augustus",
-      "category": "braderie",
-      "lat": 51.7647402,
-      "lon": 4.14016398,
-      "date": "2026-08-21T14:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/avondmarkt-holle-bolle-dag-sommelsdijk-21-augustus/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-34452",
-      "title": "Zomerfair en Kinderrommelmarkt in Westervoort – 21 augustus 2026",
-      "category": "braderie",
-      "lat": 51.95751823,
-      "lon": 5.97071826,
-      "date": "2026-08-21T14:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/zomerfair-en-kinderrommelmarkt-21-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-25878",
-      "title": "Zomermarkt Epe – 21 augustus 2026",
-      "category": "markt",
-      "lat": 52.32551004,
-      "lon": 5.95496795,
-      "date": "2026-08-21T16:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/zomermarkt-epe-21-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-34097",
-      "title": "TAPT Festival Leeuwarden in Leeuwarden – 21 & 22 augustus 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-08-21T16:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/tapt-festival-leeuwarden-21-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-28686",
-      "title": "Smaakmarkt Wijk aan Zee – 21 augustus 2026",
-      "category": "markt",
-      "lat": 52.49161771,
-      "lon": 4.60226579,
-      "date": "2026-08-21T17:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/smaakmarkt-wijk-aan-zee-21-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-40108",
-      "title": "Braderie Petten – 21 augustus 2026",
-      "category": "braderie",
-      "lat": 52.76798796,
-      "lon": 4.66340637,
-      "date": "2026-08-21T17:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/braderie-petten-21-augustus-2026/"
-    },
     {
       "id": "ec-marktenmeer.nl-16446",
       "title": "Zomermarkt Samoza – 22 augustus 2026",
@@ -600,6 +400,16 @@
       "date": "2026-08-22T09:30:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/rommelmarkt-sergeysstraat-herent-22-augustus-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40882",
+      "title": "Garagesale/Tuinverkoop in Harlingen – 22 augustus 2026",
+      "category": "markt",
+      "lat": 53.17398641,
+      "lon": 5.44575703,
+      "date": "2026-08-22T09:30:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/garagesale-tuinverkoop-harlingen-22-augustus-2026/"
     },
     {
       "id": "ec-marktenmeer.nl-18563",
@@ -6072,6 +5882,16 @@
       "url": "https://marktenmeer.nl/markt/jaarmarkt-valkenburg-zh-2026/"
     },
     {
+      "id": "ec-marktenmeer.nl-26166",
+      "title": "Giessense Mèrt 2026 in Giessen van 10 t/m 12 september 2026",
+      "category": "kermis",
+      "lat": 51.78354148,
+      "lon": 5.02899045,
+      "date": "2026-09-10T00:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/giessense-mert-2026/"
+    },
+    {
       "id": "ec-marktenmeer.nl-30559",
       "title": "Antiek- en Curiosamarkt in Leeuwarden – 10 september 2026",
       "category": "markt",
@@ -6080,6 +5900,16 @@
       "date": "2026-09-10T00:00:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/antiek-curiosamarkt-in-leeuwarden-10-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-33788",
+      "title": "Merke Terherne in Terherne – 10 t/m 12 september 2026",
+      "category": "markt",
+      "lat": 53.03846118,
+      "lon": 5.78784505,
+      "date": "2026-09-10T00:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/merke-terherne-10-september-2026/"
     },
     {
       "id": "ec-marktenmeer.nl-27824",
@@ -6112,6 +5942,26 @@
       "url": "https://marktenmeer.nl/markt/donderdagmarkt-middelburg-10-september-2026/"
     },
     {
+      "id": "ec-marktenmeer.nl-29822",
+      "title": "Textiel en Handwerkdagen in Den Bosch – 10 t/m 12 september 2026",
+      "category": "evenement",
+      "lat": 51.71680934,
+      "lon": 5.35192613,
+      "date": "2026-09-10T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/textiel-en-handwerkdagen-in-den-bosch-10-t-m-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-30265",
+      "title": "Boeken-, Platen & CD Markt in Zevenbergen – 10, 11 en 12 september 2026",
+      "category": "markt",
+      "lat": 51.64841993,
+      "lon": 4.60525576,
+      "date": "2026-09-10T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boeken-platen-cd-markt-zevenbergen-10-september-2026/"
+    },
+    {
       "id": "ec-marktenmeer.nl-40153",
       "title": "Stoffenmarkt Alkmaar – 10 september 2026",
       "category": "markt",
@@ -6132,6 +5982,16 @@
       "url": "https://marktenmeer.nl/markt/super-braderie-heksenwiel-breda-11-september-2026/"
     },
     {
+      "id": "ec-marktenmeer.nl-37380",
+      "title": "Foodfestival Krimpen aan de Lek – 11 & 12 september 2026",
+      "category": "markt",
+      "lat": 51.89993725,
+      "lon": 4.61812794,
+      "date": "2026-09-11T00:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/foodfestival-krimpen-aan-de-lek-11-september-2026/"
+    },
+    {
       "id": "ec-marktenmeer.nl-30435",
       "title": "Kofferbakmarkt Donkere Duinen in Den Helder – 11 september 2026",
       "category": "markt",
@@ -6140,6 +6000,16 @@
       "date": "2026-09-11T08:00:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/kofferbakmarkt-den-helder-11-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-19001",
+      "title": "Braderie Bodegraven Centrum – 11 & 12 september",
+      "category": "kermis",
+      "lat": 52.06541281,
+      "lon": 4.76609101,
+      "date": "2026-09-11T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/braderie-bodegraven-centrum-11-12-september/"
     },
     {
       "id": "ec-marktenmeer.nl-33709",
@@ -6160,6 +6030,16 @@
       "date": "2026-09-11T11:00:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/roggel-recreatiepark-de-leistert-dinsdag-11-augustus/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-34102",
+      "title": "TAPT Festival Dordrecht in Dordrecht – 11 & 12 september 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-11T16:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/tapt-festival-dordrecht-11-september-2026/"
     },
     {
       "id": "ec-marktenmeer.nl-36484",
@@ -6192,24 +6072,734 @@
       "url": "https://marktenmeer.nl/markt/von-clermont-regiomarkt-in-vaals-11-september-2026/"
     },
     {
-      "id": "ec-evenementenlijst.nl-14460",
-      "title": "Roots Market – Egmond aan Zee – 21 augustus 2026",
-      "category": "markt",
-      "lat": 52.6217597,
-      "lon": 4.62156453,
-      "date": "2026-08-21T11:00:00",
-      "source": "evenementenlijst.nl",
-      "url": "https://evenementenlijst.nl/evenement/roots-market-egmond-aan-zee-21-augustus-2026/"
+      "id": "ec-marktenmeer.nl-16453",
+      "title": "Braderie Amstelveen – zaterdag 12 september 2026",
+      "category": "braderie",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-12T00:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/braderie-amstelveen-12-september-2026/"
     },
     {
-      "id": "ec-evenementenlijst.nl-11603",
-      "title": "Zomermarkt Emmeloord van 10 juli tot en met  21 augustus 2026",
+      "id": "ec-marktenmeer.nl-16990",
+      "title": "Super Braderie Heksenwiel Breda | 12 september 2026",
+      "category": "braderie",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-12T00:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/super-braderie-heksenwiel-breda-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-23124",
+      "title": "Jaarmarkt Elim – Elim – 12 september 2026",
       "category": "markt",
-      "lat": 52.71126182,
-      "lon": 5.75847317,
-      "date": "2026-08-21T14:00:00",
-      "source": "evenementenlijst.nl",
-      "url": "https://evenementenlijst.nl/evenement/zomermarkt-emmeloord-21-augustus-2026/"
+      "lat": 52.68136738,
+      "lon": 6.57297802,
+      "date": "2026-09-12T00:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/jaarmarkt-elim-elim-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-25159",
+      "title": "Kasteelfair Lisse – 12 september 2026",
+      "category": "markt",
+      "lat": 52.25555166,
+      "lon": 4.54583719,
+      "date": "2026-09-12T00:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kasteelfair-lisse-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-29947",
+      "title": "Grietmarkt in Amerongen – 12 september 2026",
+      "category": "markt",
+      "lat": 51.99607226,
+      "lon": 5.4495207,
+      "date": "2026-09-12T00:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/grietmarkt-amerongen-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-30034",
+      "title": "Najaarsbraderie Voorhout – 12 september 2026",
+      "category": "braderie",
+      "lat": 52.22808932,
+      "lon": 4.49382668,
+      "date": "2026-09-12T00:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/najaarsbraderie-voorhout-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-34359",
+      "title": "Rommelroute Ter Apel – 12 september 2026",
+      "category": "markt",
+      "lat": 52.87893252,
+      "lon": 7.04097054,
+      "date": "2026-09-12T00:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelroute-ter-apel-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-35409",
+      "title": "Pieperfestival Emmeloord – 12 september 2026",
+      "category": "evenement",
+      "lat": 52.71329312,
+      "lon": 5.75780984,
+      "date": "2026-09-12T00:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/pieperfestival-emmeloord-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-39807",
+      "title": "Rommelmarkt Noordhorn – 12 september 2026",
+      "category": "markt",
+      "lat": 53.26402466,
+      "lon": 6.38294289,
+      "date": "2026-09-12T00:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-noordhorn-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-37525",
+      "title": "Vlooienmarkt Rheezerend in Dedemsvaart – 12 september 2026",
+      "category": "markt",
+      "lat": 52.60870154,
+      "lon": 6.49791722,
+      "date": "2026-09-12T06:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/vlooienmarkt-rheezerend-in-dedemsvaart-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-27316",
+      "title": "Antiek- en Brocantemarkt Hasselt – 12 september 2026",
+      "category": "markt",
+      "lat": 52.58016863,
+      "lon": 6.10586942,
+      "date": "2026-09-12T07:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/antiek-en-brocantemarkt-hasselt-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-30010",
+      "title": "Rommelmarkt Moerbeke – 12 september 2026",
+      "category": "markt",
+      "lat": 52.34605413,
+      "lon": 4.8035047,
+      "date": "2026-09-12T07:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-moerbeke-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-38528",
+      "title": "Broekerhaven Vrijmarkt in Bovenkarspel – 12 september 2026",
+      "category": "markt",
+      "lat": 52.69433878,
+      "lon": 5.2527173,
+      "date": "2026-09-12T07:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/broekerhaven-vrijmarkt-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-35538",
+      "title": "Paarden & Ponymarkt in Denekamp – 12 september 2026",
+      "category": "markt",
+      "lat": 52.3889973,
+      "lon": 7.01310677,
+      "date": "2026-09-12T08:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/paarden-ponymarkt-denekamp-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-38566",
+      "title": "Antiek- en rommelmarkt Koning Albertplein in Hamme – 12 september 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-12T08:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/antiek-en-rommelmarkt-koning-albertplein-in-hamme-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-36799",
+      "title": "Weerselose Markt zaterdagmarkt in Weerselo – 12 september 2026",
+      "category": "markt",
+      "lat": 52.353473,
+      "lon": 6.83273096,
+      "date": "2026-09-12T08:30:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/weerselose-markt-zaterdagmarkt-in-weerselo-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-21338",
+      "title": "Curiosa Delft – Delft – 12 september 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-12T09:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/curiosa-delft-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-22857",
+      "title": "Kofferbakmarkt Zeewolde – Zeewolde – 12 september 2026",
+      "category": "markt",
+      "lat": 52.32692244,
+      "lon": 5.52899601,
+      "date": "2026-09-12T09:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kofferbakmarkt-zeewolde-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-26066",
+      "title": "Kofferbakmarkt Vledder – 12 september 2026",
+      "category": "markt",
+      "lat": 52.86089924,
+      "lon": 6.20742588,
+      "date": "2026-09-12T09:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kofferbakmarkt-vledder-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-26446",
+      "title": "Kofferbakmarkt Schoorl – Schoorl | zaterdag 12 september 2026",
+      "category": "markt",
+      "lat": 52.71020973,
+      "lon": 4.66217745,
+      "date": "2026-09-12T09:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kofferbakmarkt-schoorl-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-29458",
+      "title": "Luikse Markt in Capelle aan den IJssel – 12 september 2026",
+      "category": "markt",
+      "lat": 51.934929,
+      "lon": 4.58013769,
+      "date": "2026-09-12T09:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/luikse-markt-capelle-aan-den-ijssel-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-33365",
+      "title": "Grote Rommelmarkt Achterberg – 12 september 2026",
+      "category": "markt",
+      "lat": 51.51450516,
+      "lon": 4.45379786,
+      "date": "2026-09-12T09:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/grote-rommelmarkt-achterberg-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-37596",
+      "title": "Streekmarkt Woerden – 12 september 2026",
+      "category": "markt",
+      "lat": 52.10693981,
+      "lon": 4.89889927,
+      "date": "2026-09-12T09:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/streekmarkt-woerden-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-30659",
+      "title": "Kleedjesmarkt Dierenweide Dieze Oost in Zwolle – 12 september 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-12T09:30:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kleedjesmarkt-zwolle-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-15110",
+      "title": "Oost-Souburg – Karolingenmarkt – 12 september 2026",
+      "category": "markt",
+      "lat": 51.46822624,
+      "lon": 3.60573339,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/oost-souburg-karolingenmarkt-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-15317",
+      "title": "Platenbeurs – Zwolle – 12 september 2026",
+      "category": "evenement",
+      "lat": 52.51163379,
+      "lon": 6.09200238,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/platenbeurs-zwolle-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-15425",
+      "title": "Braderie Zevenbergen – Havendagen – 12 september 2026",
+      "category": "braderie",
+      "lat": 51.64841993,
+      "lon": 4.60525576,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/braderie-zevenbergen-havendagen-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-17349",
+      "title": "Boer & Ambacht Markt Purmerend – 12 september 2026",
+      "category": "markt",
+      "lat": 52.50981976,
+      "lon": 4.94602825,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boer-ambacht-markt-purmerend-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-19223",
+      "title": "Kunstmarkt tijdens de Botterdagen – Elburg | Zaterdag 12 september 2026",
+      "category": "markt",
+      "lat": 52.4132395,
+      "lon": 5.84903486,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kunstmarkt-botterdagen-elburg-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-19881",
+      "title": "Jaarmarkt Zuidland – 12 september 2026 | Zuidland",
+      "category": "markt",
+      "lat": 51.80795048,
+      "lon": 4.23852261,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/jaarmarkt-zuidland-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-14319",
+      "title": "Jaarmarkt Willemstad – Willemstad – 12 september 2026",
+      "category": "markt",
+      "lat": 51.68770898,
+      "lon": 4.44702202,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/jaarmarkt-willemstad-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-23143",
+      "title": "Collectable World Events – Houten – 12 september 2026",
+      "category": "markt",
+      "lat": 52.03833601,
+      "lon": 5.14142232,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/tcg-beurs-houten-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-23561",
+      "title": "Curiosamarkt Heerlen – 12 september 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/curiosamarkt-heerlen-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-24224",
+      "title": "Bourgondische Markt Oldenzaal – 12 september 2026",
+      "category": "braderie",
+      "lat": 52.30772581,
+      "lon": 6.91104324,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/bourgondische-markt-oldenzaal-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-24600",
+      "title": "Platenmarkt Grote Markt Bergen op Zoom – 12 september 2026",
+      "category": "markt",
+      "lat": 51.48958551,
+      "lon": 4.29725393,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/platenmarkt-bergen-op-zoom-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-25069",
+      "title": "Boekenmarkt Leeuwarden – 12 september 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boekenmarkt-leeuwarden-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-25184",
+      "title": "Schrans Jaarmarkt Leeuwarden – 12 september 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/schrans-jaarmarkt-leeuwarden-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-25999",
+      "title": "Oldtimerdag Kallenkote 2026 – 12 september 2026",
+      "category": "markt",
+      "lat": 52.79585263,
+      "lon": 6.17209908,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/oldtimerdag-kallenkote-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-26378",
+      "title": "Kofferbakverkoop Marktplein Katwijk op 12 september 2026",
+      "category": "markt",
+      "lat": 51.87201337,
+      "lon": 4.10548031,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kofferbakverkoop-marktplein-katwijk-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-27554",
+      "title": "Tweedehandsbeurs voor Kinderartikelen Wingene – 12 september 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/tweedehandsbeurs-voor-kinderartikelen-wingene-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-27756",
+      "title": "Wijk U Snuffelmarkt Wezep – 12 september 2026",
+      "category": "markt",
+      "lat": 52.45682311,
+      "lon": 5.98971612,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/wijk-u-snuffelmarkt-wezep-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-27793",
+      "title": "Antiekmarkt Zoetermeer – 12 september 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/antiekmarkt-zoetermeer-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-27848",
+      "title": "Boeken- en Vinylmarkt Spijkenisse – 12 september 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boeken-en-vinylmarkt-spijkenisse-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-29360",
+      "title": "Ambachtsmarkt / Braderie in Leerdam – 12 september 2026",
+      "category": "braderie",
+      "lat": 51.90542449,
+      "lon": 5.09095576,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/ambachtsmarkt-braderie-in-leerdam-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-29365",
+      "title": "Eerste Westlandse Platen- en Boekenmarkt in &#8216;s-Gravenzande – 12 september 2026",
+      "category": "markt",
+      "lat": 51.99638396,
+      "lon": 4.16261782,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/platen-en-boekenmarkt-gravenzande-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-29655",
+      "title": "Braderie en Vlooienmarkt Najaarsmarkt in Coevorden – 12 september 2026",
+      "category": "braderie",
+      "lat": 52.74025547,
+      "lon": 6.73591162,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/najaarsmarkt-coevorden-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-33338",
+      "title": "1ste Westlandse Platen en Boekenmarkt in ’s-Gravenzande – 12 september 2026",
+      "category": "markt",
+      "lat": 51.99638396,
+      "lon": 4.16261782,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/1ste-westlandse-platen-en-boekenmarkt-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-33343",
+      "title": "Braderie Koog aan de Zaan – 12 september 2026",
+      "category": "braderie",
+      "lat": 52.4626364,
+      "lon": 4.81092562,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/braderie-koog-aan-de-zaan-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-34824",
+      "title": "De Lettermarkt Slachthuis in Antwerpen – 12 september 2026",
+      "category": "markt",
+      "lat": 51.95427899,
+      "lon": 6.26539837,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/de-lettermarkt-slachthuis-in-antwerpen-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-35328",
+      "title": "Kasteelfair bij Kasteel-Museum Sypesteyn in Loosdrecht – 12 september 2026",
+      "category": "markt",
+      "lat": 52.1935641,
+      "lon": 5.10152089,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kasteelfair-bij-kasteel-museum-sypesteyn-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-35510",
+      "title": "Jaarmarkt Oud-Beijerland in Oud-Beijerland – 12 september 2026",
+      "category": "braderie",
+      "lat": 51.80970132,
+      "lon": 4.41337721,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/jaarmarkt-oud-beijerland-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-35541",
+      "title": "Provençaalse markt op 't Stift in Weerselo – 12 september 2026",
+      "category": "markt",
+      "lat": 52.35581959,
+      "lon": 6.84348429,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/provencaalse-markt-op-t-stift-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-35998",
+      "title": "Oldtimerdag Santpoort – 12 september 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/oldtimerdag-santpoort-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-36677",
+      "title": "Kunst bij de Molen in Oldebroek – 12 september 2026",
+      "category": "markt",
+      "lat": 52.45399446,
+      "lon": 5.91905121,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kunst-bij-de-molen-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-36736",
+      "title": "Boekenmarkt Ringvaartkerk in Nieuwerkerk aan den IJssel – 12 september 2026",
+      "category": "markt",
+      "lat": 51.97000317,
+      "lon": 4.61097853,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boekenmarkt-ringvaartkerk-in-nieuwerkerk-aan-den-ijssel-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-37495",
+      "title": "Tafel in de Tuin in Meppel – 12 september 2026",
+      "category": "markt",
+      "lat": 52.67918786,
+      "lon": 6.19354493,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/tafel-in-de-tuin-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-38467",
+      "title": "Stoffen Spektakel Luxemburg – 12 september 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/stoffen-spektakel-luxemburg-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-38500",
+      "title": "Gezellige rommelmarkt in en om de boerderij Kerkenveld – 12 september 2026",
+      "category": "markt",
+      "lat": 52.66990646,
+      "lon": 6.49731996,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/gezellige-rommelmarkt-in-en-om-de-boerderij-kerkenveld-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-38840",
+      "title": "Jaarmarkt Vijfhuizen – 12 september 2026",
+      "category": "markt",
+      "lat": 52.35812475,
+      "lon": 4.68993344,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/jaarmarkt-vijfhuizen-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40132",
+      "title": "Stoffen Spektakel Luxemburg – 12 september 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-12T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/stoffen-spektakel-luxemburg-12-september-2026-2/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-28585",
+      "title": "Tegendraads uit de Bocht Wormerveer – 12 september 2026",
+      "category": "markt",
+      "lat": 52.49322833,
+      "lon": 4.78808572,
+      "date": "2026-09-12T10:30:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/tegendraads-wormerveer-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-18124",
+      "title": "Jaarmarkt Ureterp – zaterdag 12 september 2026",
+      "category": "markt",
+      "lat": 53.09186216,
+      "lon": 6.16147574,
+      "date": "2026-09-12T11:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/jaarmarkt-ureterp-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-18587",
+      "title": "Najaarsmarkt Scheveningen – zaterdag 12 september 2026",
+      "category": "markt",
+      "lat": 53.14426021,
+      "lon": 6.70415469,
+      "date": "2026-09-12T11:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/najaarsmarkt-scheveningen-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-18656",
+      "title": "Algemene verzamelbeurs Alblasserdam – zaterdag 12 september 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-12T11:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/verzamelbeurs-alblasserdam-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-20423",
+      "title": "Roots Market op landgoed Duin en Bosch | Castricum | 12 september 2026",
+      "category": "markt",
+      "lat": 52.55763884,
+      "lon": 4.64711803,
+      "date": "2026-09-12T11:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/roots-market-duin-en-bosch-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-23364",
+      "title": "Oldtimer Dag Burgum – Burgum – 12 september 2026",
+      "category": "braderie",
+      "lat": 53.19988929,
+      "lon": 5.99618256,
+      "date": "2026-09-12T11:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/oldtimer-dag-burgum-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-23403",
+      "title": "Le Marie Marché Den Haag – Prinsjesmarkt Lange Vijverberg – 12 september 2026",
+      "category": "markt",
+      "lat": 52.08082944,
+      "lon": 4.31179215,
+      "date": "2026-09-12T11:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/prinsjesmarkt-den-haag-lange-vijverberg-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-31215",
+      "title": "Kinderboekenmarkt Westzaan – 12 september 2026",
+      "category": "markt",
+      "lat": 52.45122275,
+      "lon": 4.77334703,
+      "date": "2026-09-12T11:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kinderboekenmarkt-westzaan-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40073",
+      "title": "Kom in Zuidhorn evenement in Zuidhorn – 12 september 2026",
+      "category": "markt",
+      "lat": 53.24358814,
+      "lon": 6.40545709,
+      "date": "2026-09-12T11:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kom-in-zuidhorn-evenement-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-38747",
+      "title": "SUIKERBRIJ Festival in Groningen – 12 september 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-12T12:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/suikerbrij-festival-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-40078",
+      "title": "Tweedehands kinderkledingbeurs in Zuidhorn – 12 september 2026",
+      "category": "markt",
+      "lat": 53.24358814,
+      "lon": 6.40545709,
+      "date": "2026-09-12T13:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/tweedehands-kinderkledingbeurs-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-27608",
+      "title": "Tweedehandsbeurs Moorslede – 12 september 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-12T13:30:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/tweedehandsbeurs-moorslede-12-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-28744",
+      "title": "Avondrommelmarkt in Heultje (Westerlo) – 12 september 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-12T13:30:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/avondrommelmarkt-in-heultje-westerlo-12-september-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-12926",
@@ -6352,6 +6942,26 @@
       "url": "https://evenementenlijst.nl/evenement/paardenmarkt-elst-7-september-2026/"
     },
     {
+      "id": "ec-evenementenlijst.nl-11605",
+      "title": "Herfstmarkt – Emmeloord – 12 september 2026",
+      "category": "markt",
+      "lat": 52.71126182,
+      "lon": 5.75847317,
+      "date": "2026-09-12T11:00:00",
+      "source": "evenementenlijst.nl",
+      "url": "https://evenementenlijst.nl/evenement/herfstmarkt-emmeloord-12-september-2026/"
+    },
+    {
+      "id": "ec-evenementenlijst.nl-14818",
+      "title": "Thomas09 – Jaarmarkt Ureterp – 12 september 2026",
+      "category": "markt",
+      "lat": 53.09186216,
+      "lon": 6.16147574,
+      "date": "2026-09-12T11:00:00",
+      "source": "evenementenlijst.nl",
+      "url": "https://evenementenlijst.nl/evenement/thomas09-jaarmarkt-ureterp-12-september-2026/"
+    },
+    {
       "id": "ec-wildro.nl-961",
       "title": "Braderie en vlooienmarkt Jaarmarkt Eext",
       "category": "braderie",
@@ -6410,6 +7020,16 @@
       "date": "2026-09-06T11:00:00",
       "source": "wildro.nl",
       "url": "https://wildro.nl/event/braderie-en-vlooienmarkt-najaarsmarkt-centrum-gieten-2/"
+    },
+    {
+      "id": "ec-wildro.nl-403",
+      "title": "Braderie en vlooienmarkt Najaarsmarkt Centrum Coevorden",
+      "category": "braderie",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-12T10:00:00",
+      "source": "wildro.nl",
+      "url": "https://wildro.nl/event/braderie-en-vlooienmarkt-voorjaarsmarkt-centrum-coevorden/"
     }
   ]
 }

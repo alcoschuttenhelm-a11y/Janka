@@ -3762,5 +3762,57 @@
   "Kinderdijk, Kinderdijk": {
     "lat": 51.88363875,
     "lon": 4.64178031
+  },
+  "Kanaalweg 104, Kanaalweg 104, Harlingen": {
+    "lat": 53.17398641,
+    "lon": 5.44575703
+  },
+  "Krimpen aan de Lek, Krimpen aan de Lek": {
+    "lat": 51.89993725,
+    "lon": 4.61812794
+  },
+  "Noordhorn, Noordhorn": {
+    "lat": 53.26402466,
+    "lon": 6.38294289
+  },
+  "Rheezerend, Dedemsvaart": {
+    "lat": 52.60870154,
+    "lon": 6.49791722
+  },
+  "Broekerhaven Vrijmarkt, Broekerhavenweg, Bovenkarspel": {
+    "lat": 52.69433878,
+    "lon": 5.2527173
+  },
+  "Molen de Hoop, Oldenbroek, Zuiderzeestraatweg 252, Oldebroek, Oldebroek": {
+    "lat": 52.45399446,
+    "lon": 5.91905121
+  },
+  "Diverse adressen in Meppel Zuid, Meppel": {
+    "lat": 52.67918786,
+    "lon": 6.19354493
+  },
+  "LuxExpo The Box, 10 Circuit de la Foire, Luxemburg": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Dorpskern Vijfhuizen, Vijfhuizen": {
+    "lat": 52.35812475,
+    "lon": 4.68993344
+  },
+  "Zuidhorn, Zuidhorn": {
+    "lat": 53.24358814,
+    "lon": 6.40545709
+  },
+  "Suikerterrein, Suikerlaan 6, Groningen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "De Gasthorn, Zuidhorn, Zuidhorn": {
+    "lat": 53.24358814,
+    "lon": 6.40545709
+  },
+  "Ureterp, Centrum, Ureterp": {
+    "lat": 53.09186216,
+    "lon": 6.16147574
   }
 }
