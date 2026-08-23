@@ -3814,5 +3814,97 @@
   "Ureterp, Centrum, Ureterp": {
     "lat": 53.09186216,
     "lon": 6.16147574
+  },
+  "Café De Schilders, Langdonkenstraat 58, Herselt": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "tuinwijk Sint-Lievens-Houtem, Beukenlaan en Olmenlaan, Sint-Lievens-Houtem": {
+    "lat": 51.63328049,
+    "lon": 5.33982814
+  },
+  "Café De Sterre Lombardsijde, Lombardsijde": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "De Brink, Heerde, De Brink aan de Stationsstraat, Heerde": {
+    "lat": 51.92329588,
+    "lon": 4.62282141
+  },
+  "Arsenaal, Willemstad, Willemstad": {
+    "lat": 51.68770898,
+    "lon": 4.44702202
+  },
+  "Sambeek, Sambeek": {
+    "lat": 51.63038353,
+    "lon": 5.9593611
+  },
+  "Kerkplein Durmen, Zele": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Athus, Athus": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Sint cornelisstraat 18, Sint cornelisstraat 18, Vortum-Mullem": {
+    "lat": 51.62134134,
+    "lon": 5.97854324
+  },
+  "Ouderkerkerplas. Ouderkerk aan de Amstel, Ouderkerk aan de Amstel": {
+    "lat": 52.28179451,
+    "lon": 4.90999727
+  },
+  "Silverdome, Van der Hagenstraat 20, Zoetermeer": {
+    "lat": 52.05279849,
+    "lon": 4.5210329
+  },
+  "Wielerbaan Breda, Terheijdenseweg 520, Breda": {
+    "lat": 51.61686865,
+    "lon": 4.77270865
+  },
+  "Burgemeesterskwartier, Alkmaar, Rippingstraat 111, Alkmaar": {
+    "lat": 52.62222534,
+    "lon": 4.73758381
+  },
+  "Zaal Sint-Michiel, Kieldrecht, Beukenlaan 18, Kieldrecht": {
+    "lat": 51.29933125,
+    "lon": 4.14295532
+  },
+  "Raaksje, Wolfspad en Zandersbuurt, Alkmaar": {
+    "lat": 52.62669635,
+    "lon": 4.75659142
+  },
+  "Flanders Expo, Maaltekouter 1, Gent": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Sportpark Uden, Parklaan 1, Uden": {
+    "lat": 51.65279254,
+    "lon": 5.62569084
+  },
+  "Aarschot, Aarschot": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Kapelle-op-den-bos, Kapelle-op-den-Bos": {
+    "lat": 51.25352991,
+    "lon": 5.93559863
+  },
+  "Uitspanning De Vroolijke Frans, tuin, Knoevenoordstraat 51, Brummen": {
+    "lat": 52.09766823,
+    "lon": 6.13087281
+  },
+  "Landgoed Beekzicht, Voorst": {
+    "lat": 52.23490308,
+    "lon": 6.09996493
+  },
+  "Oude tenniskantine District-U, Vlaardingen, Olivier van Noortlaan 122, Vlaardingen": {
+    "lat": 51.89925933,
+    "lon": 4.34061938
+  },
+  "De Cacaofabriek Helmond, Cacaokade 1, Helmond": {
+    "lat": 51.47311955,
+    "lon": 5.65546243
   }
 }
