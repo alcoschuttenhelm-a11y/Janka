@@ -3906,5 +3906,65 @@
   "De Cacaofabriek Helmond, Cacaokade 1, Helmond": {
     "lat": 51.47311955,
     "lon": 5.65546243
+  },
+  "Berchem, Berchem": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Boutersem, Boutersem": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Linkeroever, Antwerpen, Antwerpen": {
+    "lat": 51.95427899,
+    "lon": 6.26539837
+  },
+  "Chaussée de Wavre 1658, Auderghem, Chaussée de Wavre 1658, Auderghem": {
+    "lat": 51.36086348,
+    "lon": 5.56723844
+  },
+  "Eksaarde, Eksaarde": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Niel, Niel": {
+    "lat": 51.66882945,
+    "lon": 5.04007554
+  },
+  "Belgisch Centrum voor Geleidehonden, Overhaamlaan 11B, Tongeren": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "HOEKFEESTEN, Lendeleedsestraat + omgeving, Izegem": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Musée royal de l&#8217;Armée, afdeling Aviation, 3 Parc du Cinquantenaire, Bruxelles": {
+    "lat": 51.47598002,
+    "lon": 5.65879334
+  },
+  "Sk Rita Berlaar Doelvelden, Welvaartstraat 101, Berlaar": {
+    "lat": 51.66072333,
+    "lon": 4.86569463
+  },
+  "Dendermonde, Dendermonde": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Moldergem, Sint-Denijs-Boekel, Moldergem, Sint-Denijs-Boekel, 9630 Zwalm, Zwalm": {
+    "lat": 52.38412903,
+    "lon": 4.60510528
+  },
+  "Merksem, Merksem": {
+    "lat": 51.4781485,
+    "lon": 4.29759064
+  },
+  "Terrein Ichtus Kerk (PGCS), Deventer, Holterweg 106, Deventer": {
+    "lat": 52.2498096,
+    "lon": 6.23204649
+  },
+  "Parking Nevenplein Kaulille, Nevenplein z/n, Kaulille": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
   }
 }
