@@ -3966,5 +3966,93 @@
   "Parking Nevenplein Kaulille, Nevenplein z/n, Kaulille": {
     "lat": 52.75180122,
     "lon": 5.96778501
+  },
+  "Vrijthof, Maastricht, Maastricht": {
+    "lat": 50.849123,
+    "lon": 5.68907302
+  },
+  "Marktplein Krimpen aan de Lek (bij het Cultuurhuis), Marktplein, Krimpen aan de Lek": {
+    "lat": 51.89993725,
+    "lon": 4.61812794
+  },
+  "Snuffel- &#038; Rommelmarkt bij de Dorpskerk Hoogvliet, Achterweg 40, Hoogvliet": {
+    "lat": 51.86366939,
+    "lon": 4.35889554
+  },
+  "Rond de Vosheuvel, Heelsum, Koninginnelaan 30, Heelsum": {
+    "lat": 51.97700058,
+    "lon": 5.76108021
+  },
+  "Waterloop, Waterloop, Delft": {
+    "lat": 52.00805006,
+    "lon": 4.33745012
+  },
+  "Boekenzaak Brummens Mannenkoor, Gravenstraat 2, nabij het marktplein 2, Brummen": {
+    "lat": 52.08621615,
+    "lon": 6.15635599
+  },
+  "Piehpelplein, Genk, Genk": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Markt, Middelburg": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Verhoevenstraat, Amersfoort, Verhoevenstraat, Amersfoort": {
+    "lat": 52.14350713,
+    "lon": 5.37811512
+  },
+  "Huis van de wijk Lombardijen, Menanderstraat 89/90, Rotterdam": {
+    "lat": 51.87739626,
+    "lon": 4.52639298
+  },
+  "Onder de appelboom brocante en theetuin Ommen, Hessenweg West 12, Ommen": {
+    "lat": 52.53528504,
+    "lon": 6.40775637
+  },
+  "Parkeerplaats naast de kerk, Heteren, Kastanjelaan 14, Heteren": {
+    "lat": 51.96165005,
+    "lon": 5.75538826
+  },
+  "Stevenspark, Leiden, Trix Terwindtstraat 4, Leiden": {
+    "lat": 52.15054776,
+    "lon": 4.45411994
+  },
+  "Evenemententerrein Park winkelsteeg, Nijmegen, Vossendijk / Winkelsteegseweg 210, Nijmegen": {
+    "lat": 51.81638773,
+    "lon": 5.81415367
+  },
+  "Amstenrade, Amstenrade": {
+    "lat": 50.94209182,
+    "lon": 5.92647134
+  },
+  "Kasteel van Tielen, Kasteeldreef, Tielen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Groot veld, Leeuwarden, Pieter Sipmawei 11, Leeuwarden": {
+    "lat": 53.20882814,
+    "lon": 5.76800071
+  },
+  "Bezoekerscentrum De Grote Rivieren, Heerewaarden, Langestraat 38, Heerewaarden": {
+    "lat": 51.81566249,
+    "lon": 5.38695572
+  },
+  "Hervormde Gemeente Elst UT, Rijksstraatweg 24, Elst": {
+    "lat": 51.98550886,
+    "lon": 5.49177845
+  },
+  "Moerbeek, Moerbeek 14, 't Veld": {
+    "lat": 52.76087165,
+    "lon": 4.83979925
+  },
+  "Schep Kaas (Kerkweg) en Hoogstraat, Kerkweg / Hoogstraat, Leerbroek": {
+    "lat": 51.91344414,
+    "lon": 5.06029596
+  },
+  "Ontmoetingscentrum Runkst, Hasselt, Runkstersteenweg 149, Hasselt (BE)": {
+    "lat": 52.58016863,
+    "lon": 6.10586942
   }
 }
