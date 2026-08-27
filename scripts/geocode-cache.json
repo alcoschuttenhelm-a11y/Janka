@@ -4086,5 +4086,57 @@
   "Stadsplein, Capelle aan den Ijssel, Stadsplein, Capelle aan den IJssel": {
     "lat": 51.93132835,
     "lon": 4.5878329
+  },
+  "Wijk Othene, Jazzsingel, Terneuzen": {
+    "lat": 51.33207087,
+    "lon": 3.85920052
+  },
+  "Manteling 1, Oosterland, Manteling 1, Oosterland": {
+    "lat": 51.65225473,
+    "lon": 4.02872642
+  },
+  "Vogelhoek Gentbrugge, Vogelhoekstraat, Steenbekestraat, Pinguïnstraat, Gentbrugge": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "De Klinker, Amsterdam, Borgerstraat 45, Amsterdam": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Bureau de Ontsnapping, Putten, Brinkstraat 69, Putten": {
+    "lat": 52.26283302,
+    "lon": 5.60636191
+  },
+  "Parking Cultureel Centrum Lanaken, Lanaken": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Sint-Amandsberg, Sint-Amandsberg": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "De Schiphorst, Meppel, Reggersweg 11, Meppel": {
+    "lat": 52.67908398,
+    "lon": 6.25358873
+  },
+  "Graaf Willemlaan, Monnickendam, Graaf Willemlaan 1, Monnickendam": {
+    "lat": 52.45463787,
+    "lon": 5.04017331
+  },
+  "&#8217;t Schelpestik, Klemskerke, Vosseslag 113, Klemskerke": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Kwekerij van der Velde, Heerde, Borchgraverweg 3A, Heerde": {
+    "lat": 52.37482373,
+    "lon": 6.04590246
+  },
+  "oc de Leege Platse, Beselare, Geluwestraat 10, Beselare": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Waalre, Waalre": {
+    "lat": 51.38729181,
+    "lon": 5.46487011
   }
 }
