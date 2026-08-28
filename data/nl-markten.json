@@ -1,116 +1,6 @@
 {
-  "generatedAt": "2026-08-27T13:53:34.044Z",
+  "generatedAt": "2026-08-28T15:01:00.363Z",
   "events": [
-    {
-      "id": "ec-marktenmeer.nl-30555",
-      "title": "Antiek- en Curiosamarkt in Leeuwarden – 27 augustus 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-08-27T00:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/antiek-curiosamarkt-leeuwarden-27-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-41540",
-      "title": "Preuvenemint Maastricht – 27 tm 30 augustus 2026",
-      "category": "markt",
-      "lat": 50.849123,
-      "lon": 5.68907302,
-      "date": "2026-08-27T00:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/preuvenemint-maastricht-27-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-30814",
-      "title": "Verzameldag Westfriese Folklore in Schagen – 27 augustus 2026",
-      "category": "markt",
-      "lat": 52.78732555,
-      "lon": 4.74221741,
-      "date": "2026-08-27T08:30:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/westfriese-folklore-schagen-dag-van-het-kind-en-oude-voertuigen-27-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-27820",
-      "title": "Streekmarkt Zoetermeer – 27 augustus 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-08-27T09:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/streekmarkt-zoetermeer-27-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-15230",
-      "title": "Platenbeurs – Delft – 27 augustus 2026",
-      "category": "evenement",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-08-27T10:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/platenbeurs-delft-27-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-20791",
-      "title": "Stoppelhaene Raalte – 27, 28 en 29 augustus 2026",
-      "category": "markt",
-      "lat": 52.38782664,
-      "lon": 6.27904954,
-      "date": "2026-08-27T10:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/stoppelhaene-raalte-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-24749",
-      "title": "Donderdagmarkt Middelburg (Koorkerkplein) – 27 augustus 2026",
-      "category": "markt",
-      "lat": 51.50315836,
-      "lon": 3.65083605,
-      "date": "2026-08-27T10:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/donderdagmarkt-middelburg-27-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-28410",
-      "title": "Seizoensmarkt Oostkapelle – 27 augustus 2026",
-      "category": "markt",
-      "lat": 51.57363309,
-      "lon": 3.55001548,
-      "date": "2026-08-27T10:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/seizoensmarkt-oostkapelle-27-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-14457",
-      "title": "Zomermarkt Boulevard Makkum – 27 augustus 2026 | Holle Poarte Makkum",
-      "category": "braderie",
-      "lat": 53.00531717,
-      "lon": 5.29397775,
-      "date": "2026-08-27T11:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/zomermarkt-boulevard-makkum-27-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-23250",
-      "title": "Hoorndermarkt Den Hoorn – 27 augustus 2026",
-      "category": "braderie",
-      "lat": 52.99993424,
-      "lon": 4.72805979,
-      "date": "2026-08-27T12:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/hoorndermarkt-den-hoorn-27-augustus-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-38925",
-      "title": "Veluwse Avondmarkt in Beekbergen – 27 augustus 2026",
-      "category": "markt",
-      "lat": 52.16032527,
-      "lon": 5.96761365,
-      "date": "2026-08-27T18:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/veluwse-avondmarkt-in-beekbergen-27-augustus-2026/"
-    },
     {
       "id": "ec-marktenmeer.nl-26747",
       "title": "HOPPAAA! Foodtruck Festival Nieuwegein | 28 t/m 30 augustus 2026",
@@ -243,7 +133,7 @@
     },
     {
       "id": "ec-marktenmeer.nl-20421",
-      "title": "Roots Market | Egmond aan Zee | 28 augustus 2026",
+      "title": "GEANNULEERD: Roots Market | Egmond aan Zee | 28 augustus 2026",
       "category": "markt",
       "lat": 52.6217597,
       "lon": 4.62156453,
@@ -1140,6 +1030,16 @@
       "date": "2026-08-29T10:00:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/kunst-cultuurmarkt-29-augustus-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-42118",
+      "title": "Boer'ndag Elspeet – 29 augustus 2026",
+      "category": "markt",
+      "lat": 52.28830473,
+      "lon": 5.78279169,
+      "date": "2026-08-29T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boerndag-elspeet-29-augustus-2026/"
     },
     {
       "id": "ec-marktenmeer.nl-35621",
@@ -2212,6 +2112,16 @@
       "url": "https://marktenmeer.nl/markt/platen-cd-markt-goes-30-augustus-2026/"
     },
     {
+      "id": "ec-marktenmeer.nl-42164",
+      "title": "Frisian American Sunday in Menaam – 30 augustus 2026",
+      "category": "markt",
+      "lat": 53.21565158,
+      "lon": 5.66647345,
+      "date": "2026-08-30T11:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/frisian-american-sunday-30-augustus-2026/"
+    },
+    {
       "id": "ec-marktenmeer.nl-23487",
       "title": "Sunday Market Rokin Amsterdam – 30 augustus 2026",
       "category": "markt",
@@ -3040,6 +2950,16 @@
       "date": "2026-09-05T09:00:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/grote-rommelmarkt-5-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-42151",
+      "title": "Kinderkleding- en Speelgoedbeurs Bemmel– 5 september 2026",
+      "category": "markt",
+      "lat": 51.89359779,
+      "lon": 5.91367178,
+      "date": "2026-09-05T09:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kinderkleding-en-speelgoedbeurs-bemmel-5-september-2026/"
     },
     {
       "id": "ec-marktenmeer.nl-20801",
@@ -6430,6 +6350,26 @@
       "date": "2026-09-17T10:00:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/donderdagmarkt-middelburg-17-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-30437",
+      "title": "Kofferbakmarkt Donkere Duinen in Den Helder – 18 september 2026",
+      "category": "markt",
+      "lat": 52.93997585,
+      "lon": 4.78522541,
+      "date": "2026-09-18T08:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kofferbakmarkt-den-helder-18-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-33711",
+      "title": "Kaasmarkt Alkmaar in Alkmaar – 18 september 2026",
+      "category": "markt",
+      "lat": 52.63140241,
+      "lon": 4.75050494,
+      "date": "2026-09-18T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kaasmarkt-alkmaar-in-alkmaar-18-september-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-14462",
