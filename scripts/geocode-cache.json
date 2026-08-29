@@ -4150,5 +4150,177 @@
   "OBC De Heister, Bemmel, De Heister 1, Bemmel": {
     "lat": 51.89359779,
     "lon": 5.91367178
+  },
+  "De Witte Rommelmarkt, Heinenoord, Boonsweg 28, Heinenoord": {
+    "lat": 51.81864416,
+    "lon": 4.52422512
+  },
+  "Taborkerk, Purmerend, Maasstraat 2, Purmerend": {
+    "lat": 52.51476914,
+    "lon": 4.95998012
+  },
+  "Ebberstraat 35, Ebberstraat 35, Velden": {
+    "lat": 51.43598711,
+    "lon": 6.16410841
+  },
+  "Tilburg, Uppelse Vliet 4, Tilburg": {
+    "lat": 51.54447545,
+    "lon": 5.03686309
+  },
+  "Asenray, Asenray": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "De Hondsbos, Reusel, Hondsbos 5, Reusel": {
+    "lat": 51.37234672,
+    "lon": 5.15960591
+  },
+  "Ovaalbaan polderputten, Ter apel, Hanetangerweg 5a, Ter apel": {
+    "lat": 52.86029608,
+    "lon": 7.08655343
+  },
+  "Floralia Park, Oosterhout, Beneluxweg 63, Oosterhout": {
+    "lat": 51.623733,
+    "lon": 4.86536816
+  },
+  "Kruisland, Kruisland": {
+    "lat": 51.57207886,
+    "lon": 4.40223152
+  },
+  "Wilhelminaplein (Zaailand), Leeuwarden": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Koornmarkt, Almelo, Koornmarkt, Almelo": {
+    "lat": 52.35596687,
+    "lon": 6.66604988
+  },
+  "Door heel het dorp, Wemeldinge": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Borssele, Borssele": {
+    "lat": 51.41975911,
+    "lon": 3.75119036
+  },
+  "Gapinge, Zeeland, Gapinge": {
+    "lat": 51.54359328,
+    "lon": 3.62746552
+  },
+  "Marktplein Almelo, Marktplein, Almelo": {
+    "lat": 52.35615756,
+    "lon": 6.66309113
+  },
+  "Cavent Lindehoeve, Mookhoek, Mookhoek 11, Mookhoek": {
+    "lat": 51.75433346,
+    "lon": 4.60318672
+  },
+  "Hoek, Hoek": {
+    "lat": 51.32010111,
+    "lon": 3.77458162
+  },
+  "Boskoop, Boskoop": {
+    "lat": 52.08143678,
+    "lon": 4.67071243
+  },
+  "Heemskerk, Heemskerk": {
+    "lat": 52.51249252,
+    "lon": 4.64044923
+  },
+  "Vaassen, Vaassen": {
+    "lat": 52.28686849,
+    "lon": 5.93224592
+  },
+  "Gruquiusplein, Boulevard Cruquius, Cruquius": {
+    "lat": 52.33414357,
+    "lon": 4.64737958
+  },
+  "Heenvliet, Heenvliet": {
+    "lat": 51.85996504,
+    "lon": 4.224563
+  },
+  "Alblasserdam, Alblasserdam": {
+    "lat": 51.86465403,
+    "lon": 4.6657289
+  },
+  "Sliedrecht, Sliedrecht": {
+    "lat": 51.83068699,
+    "lon": 4.7729476
+  },
+  "Ridderkerk, Ridderkerk": {
+    "lat": 51.86879441,
+    "lon": 4.59610831
+  },
+  "Wognum, Wognum": {
+    "lat": 52.68325167,
+    "lon": 5.01451091
+  },
+  "Rozenburg, Rozenburg": {
+    "lat": 52.27927255,
+    "lon": 4.732506
+  },
+  "Uithuizen, Uithuizen": {
+    "lat": 53.43923227,
+    "lon": 6.68194806
+  },
+  "Olst, Olst": {
+    "lat": 52.36678235,
+    "lon": 6.15334559
+  },
+  "Voorthuizen, Voorthuizen": {
+    "lat": 52.18785165,
+    "lon": 5.62080298
+  },
+  "Roosendaal, Roosendaal": {
+    "lat": 51.51319146,
+    "lon": 4.42451062
+  },
+  "Fruittuin Verbeek, Oldebroek": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Trixxo Arena, Gouverneur Verwilghensingel 70, Hasselt (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Binnenplein Stadhuis Genk, Stadsplein 1, Genk": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Zorgboerderij Geusje&#8217;s Stee, Korteweegje 52, Nieuwe Tonge, Nieuwe Tonge": {
+    "lat": 51.71035081,
+    "lon": 4.1711272
+  },
+  "Burum, Burum": {
+    "lat": 53.27517176,
+    "lon": 6.22855373
+  },
+  "Halsteren, Halsteren": {
+    "lat": 51.52563909,
+    "lon": 4.2691648
+  },
+  "Openluchtmuseum De Duinhuisjes, Rockanje, Duinstraat 18, Rockanje": {
+    "lat": 51.9027478,
+    "lon": 4.07077975
+  },
+  "Sint-Lenaarts (BE), Sint-Lenaarts": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Holten, Holten": {
+    "lat": 52.29142979,
+    "lon": 6.43396864
+  },
+  "Promesse, Lelystad": {
+    "lat": 52.50892644,
+    "lon": 5.47471061
+  },
+  "Heemskerk, Burg. Nielenplein, Heemskerk": {
+    "lat": 52.51073003,
+    "lon": 4.67192811
+  },
+  "Wolvega, Centrum, Wolvega": {
+    "lat": 52.87225741,
+    "lon": 6.00689309
   }
 }
