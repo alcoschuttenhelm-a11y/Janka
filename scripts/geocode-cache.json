@@ -4322,5 +4322,249 @@
   "Wolvega, Centrum, Wolvega": {
     "lat": 52.87225741,
     "lon": 6.00689309
+  },
+  "Ooigem, Ooigem": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Hoboken, Hoboken (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Smisveld, Smisveld, 3832 Ulbeek, Ulbeek (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Sporthal Deurnese Turners, Deurne, Drakenhoflaan 160, Deurne (BE)": {
+    "lat": 51.43622051,
+    "lon": 5.82697627
+  },
+  "Park Mikkeldonk, Oss, Parklaan / Wetering, Oss": {
+    "lat": 51.77537444,
+    "lon": 5.50200583
+  },
+  "Vlaanderenstraat en omliggende straten, Vlaanderenstraat, Alkmaar": {
+    "lat": 52.66930014,
+    "lon": 4.75827978
+  },
+  "Huis van de Wijk &#8216;Het Middelpunt&#8217;, Rotterdam, Slinge 250, Rotterdam": {
+    "lat": 51.87346733,
+    "lon": 4.47859354
+  },
+  "Drempt, Drempt": {
+    "lat": 52.01948282,
+    "lon": 6.1863496
+  },
+  "Wijkvereniging De Blauwe Tram, Leidschendam, Oude Trambaan 51, Leidschendam": {
+    "lat": 52.08882094,
+    "lon": 4.40326254
+  },
+  "Schilderswijk Zutphen, Albert Cuypstraat, Frans Halslaan, Hobbemakade (1 t/m 69), Jan Steenstraat, Rembrandtstraat, Ruysdaelstraat, Teniersstraat, Zutphen": {
+    "lat": 52.14103053,
+    "lon": 6.20775223
+  },
+  "Kapellen, Kapellen (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Dorpskern Stampersgat, Stampersgat": {
+    "lat": 51.60777492,
+    "lon": 4.44254996
+  },
+  "Hoeven, Hoeven": {
+    "lat": 51.59701869,
+    "lon": 4.57687036
+  },
+  "Café-Zaal &#8217;t Karrewiel, Dongen, Vaartweg 112, Dongen": {
+    "lat": 51.64309859,
+    "lon": 4.96762344
+  },
+  "Zandvoort Centrum, Raadhuisplein 1, Zandvoort": {
+    "lat": 52.3719963,
+    "lon": 4.52998273
+  },
+  "Havenstraat en oude haven Hilversum, Hilversum": {
+    "lat": 52.22002966,
+    "lon": 5.16694817
+  },
+  "Maranathakerk, Den Haag, 2e Sweelinckstraat 156, Den Haag": {
+    "lat": 52.08389605,
+    "lon": 4.27765404
+  },
+  "Dorp Nieuw- en Sint Joosland, Nieuw- en Sint Joosland": {
+    "lat": 51.48299339,
+    "lon": 3.66950929
+  },
+  "Poptapark, Poptahof noord1 1, Delft": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Tegenover Kapelstraat 44 te 2840 Terhagen, Kapelstraat 44, Rumst": {
+    "lat": 52.22115178,
+    "lon": 5.1759207
+  },
+  "Hamseweg, Hamseweg 5, Amersfoort": {
+    "lat": 52.17106441,
+    "lon": 5.37560692
+  },
+  "Binnenplein Markt Harelbeke, Harelbeke": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Sint-Katelijne-Waver (BE), Sint-Katelijne-Waver": {
+    "lat": 51.95952959,
+    "lon": 4.56787942
+  },
+  "Gemeentehuis Meeuwen, Dorpsstraat 44, Meeuwen": {
+    "lat": 51.72802884,
+    "lon": 5.00929845
+  },
+  "Bourtange Vesting, Bourtange": {
+    "lat": 53.00887658,
+    "lon": 7.18533146
+  },
+  "Tuinderij de Marlequi, Warmenhuizen, Trambaan 5a, Warmenhuizen": {
+    "lat": 52.72300346,
+    "lon": 4.74573044
+  },
+  "Katendrecht, Rotterdam, Katendrecht, Rotterdam": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "landgoedwinkel Slangenburgh, Rekhemseweg 175, Doetinchem": {
+    "lat": 51.94477382,
+    "lon": 6.3404589
+  },
+  "Terreinen Buxushoeve, Vlamertingen (BE), Abelestraat 2, Vlamertinge (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Berlicum, Berlicum": {
+    "lat": 51.67848368,
+    "lon": 5.41166935
+  },
+  "Ninove (BE), Ninove": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "De Loods, Mechelen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Anderlecht, Boulevard Sylvain Dupuis 433, Anderlecht": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Eernegem, Eernegem (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Sporthal West, Veenendaal, Veenendaal": {
+    "lat": 52.02367797,
+    "lon": 5.55565707
+  },
+  "Beerta, Beerta": {
+    "lat": 53.16580048,
+    "lon": 7.10974508
+  },
+  "Centrum Halle, Grote Markt, Halle": {
+    "lat": 51.99994952,
+    "lon": 6.42927301
+  },
+  "Gorinchem, Gorinchem": {
+    "lat": 51.83846017,
+    "lon": 4.97708275
+  },
+  "De Vechtsebanen, Mississippiedreef 151, Utrecht": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Ijsbaan Nieuw-Vennep, Zuiderdreef 2, Nieuw-Vennep": {
+    "lat": 52.25847485,
+    "lon": 4.63000534
+  },
+  "Dillenburgpark, Prins Hendrikstraat, Drunen": {
+    "lat": 51.69204998,
+    "lon": 5.14251851
+  },
+  "Lokaal Dienstencentrum &#8217;t Scholeke, Sportpark 1, Dessel": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Strand van Luna, Heerhugowaard, Strand van Luna 3, Heerhugowaard": {
+    "lat": 52.65043036,
+    "lon": 4.79691948
+  },
+  "Paardenmarkt, Alkmaar, Paardenmarkt, Alkmaar": {
+    "lat": 52.63394447,
+    "lon": 4.74534328
+  },
+  "Stadspark Angerenstein, Arnhem, Arnhem": {
+    "lat": 51.99196249,
+    "lon": 5.93744513
+  },
+  "S.C.C. De Helftheuvel, Den Bosch, Helftheuvelpassage 115, Den Bosch": {
+    "lat": 51.69605344,
+    "lon": 5.26835255
+  },
+  "Dorpshuis De Geist, Sint Pancras, Vinkenlaan 7, Sint Pancras": {
+    "lat": 52.65963465,
+    "lon": 4.78500643
+  },
+  "Olster Park, Jan Schamhartstraat, Olst": {
+    "lat": 52.32531166,
+    "lon": 6.10643727
+  },
+  "WTC Expo, Fryslânplein, Leeuwarden": {
+    "lat": 53.20398153,
+    "lon": 5.76883604
+  },
+  "Hapert, Hapert": {
+    "lat": 51.34643388,
+    "lon": 5.25658148
+  },
+  "De Patio, Gaardedreef 189, Zoetermeer": {
+    "lat": 52.06247829,
+    "lon": 4.51614546
+  },
+  "Reuver, Reuver": {
+    "lat": 51.2776874,
+    "lon": 6.08921167
+  },
+  "Zeeheldenkwartier, Den Haag, Piet Heinstraat, Den Haag": {
+    "lat": 52.08184244,
+    "lon": 4.2985265
+  },
+  "Wilhelminaplein, Leeuwarden, Leeuwarden": {
+    "lat": 53.19976262,
+    "lon": 5.79242039
+  },
+  "Zoomers aan het Bos, Bakkum, Heereweg 84, Castricum": {
+    "lat": 52.57138908,
+    "lon": 4.65361059
+  },
+  "Monnickendam, Monnickendam": {
+    "lat": 52.45617817,
+    "lon": 5.02920115
+  },
+  "Koningin Astridpark, Brugge, Brugge": {
+    "lat": 51.84671626,
+    "lon": 4.50868209
+  },
+  "Recreatiecentrum H2O, Harmelen, De Uithof 1, Harmelen": {
+    "lat": 52.08315935,
+    "lon": 4.96178617
+  },
+  "Leiden, Leiden": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Refter basisschool De Bij (ingang via Go! Atheneum Liedekerke), Affligemsestraat 100, Liedekerke": {
+    "lat": 51.57683584,
+    "lon": 4.31203054
+  },
+  "Reuver, Centrum, Reuver": {
+    "lat": 51.2776874,
+    "lon": 6.08921167
   }
 }
