@@ -4566,5 +4566,125 @@
   "Reuver, Centrum, Reuver": {
     "lat": 51.2776874,
     "lon": 6.08921167
+  },
+  "Centrum Waregem, Stormestraat, Stationsstraat, Holstraat, Markt, Pand, 8790 Waregem, Waregem": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Centrum Schagen, Nieuwstraat, Schagen": {
+    "lat": 52.78771358,
+    "lon": 4.79794658
+  },
+  "Wilnis, Wilnis": {
+    "lat": 52.18465612,
+    "lon": 4.89680167
+  },
+  "Sint Gummaruskerk, Steenbergen, Westdam 83, Steenbergen": {
+    "lat": 51.58812751,
+    "lon": 4.31755807
+  },
+  "Oost-West Havenkade, Urk": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Bilzen-Hoeselt, Munsterbilzen: diverse straten, Zonnelaan, 3740 Bilzen, Bilzen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Margriethal, Nieuwe Damlaan 5, Schiedam": {
+    "lat": 51.92195368,
+    "lon": 4.38408289
+  },
+  "Teylingen College KTS, Voorhout, Leidsevaart 4, Voorhout": {
+    "lat": 52.21816007,
+    "lon": 4.47705123
+  },
+  "Pleintje achter de kerk in Eik, Bilzen, Vrijweide, Bilzen": {
+    "lat": 50.93881211,
+    "lon": 5.7976222
+  },
+  "Bussum, Bussum": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "&#8216;De Hoeksteen&#8217; Leek, Leek": {
+    "lat": 53.16356388,
+    "lon": 6.37776794
+  },
+  "Lutjegast, Lutjegast": {
+    "lat": 53.23837073,
+    "lon": 6.25733266
+  },
+  "De Wegwijzer, Noordhorn": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Hornplein, Schermerhorn, Hornplein, Schermerhorn": {
+    "lat": 52.59989818,
+    "lon": 4.89061233
+  },
+  "Landgoed Frymerson, Sint Odiliënberg": {
+    "lat": 51.14557827,
+    "lon": 6.00793059
+  },
+  "Restaurant Vroeg, Achterdijk 1, Bunnik": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Lycklamapark (achter Lycklamahûs), Hoofdstraat 80 (achter), Beetsterzwaag": {
+    "lat": 53.06138274,
+    "lon": 6.07811114
+  },
+  "Plan A, Vlietstraat 22, Nijmegen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Koningin Julianaplein, Den Hoorn, Koningin Julianaplein, Den Hoorn": {
+    "lat": 52.00078833,
+    "lon": 4.33159245
+  },
+  "Sint-Adrianuskerk, Hoelbeek, Hoelbeekstraat 81, Hoelbeek": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Alle straten van Sint-Huibrechts Hern, Sint-Hubertusstraat, Sint-Huibrechts-Hern": {
+    "lat": 51.62124055,
+    "lon": 5.97660349
+  },
+  "Gemeenschapshuis &#8217;t Kwartier, Asten, Kerkstraat 10, Asten": {
+    "lat": 51.40093586,
+    "lon": 5.74682113
+  },
+  "Recreatiegebied Nesbos, Wevershoof, Oosterdijk, Wervershoof": {
+    "lat": 52.75266675,
+    "lon": 5.12483508
+  },
+  "Wijkcentrum &#8217;t Oude Raadhuis, 't Hofke 15, Eindhoven": {
+    "lat": 51.44864889,
+    "lon": 5.5179266
+  },
+  "QRU, Spaklerweg 1D, Amsterdam": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "De Ossenbeemd, Deurne, Haageind 31, Deurne": {
+    "lat": 51.46881769,
+    "lon": 5.80063338
+  },
+  "Tiel, Tiel": {
+    "lat": 51.88508236,
+    "lon": 5.40686009
+  },
+  "Trompenburg Tuinen &#038; Arboretum, Honingerdijk (beneden) 86, Rotterdam": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Krugerplein, Amsterdam, Krugerplein, Amsterdam": {
+    "lat": 52.35414216,
+    "lon": 4.91987408
+  },
+  "Zaal Providentia, Dorpstraat 5, Gendt": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
   }
 }
