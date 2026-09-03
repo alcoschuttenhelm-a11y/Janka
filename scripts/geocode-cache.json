@@ -4810,5 +4810,49 @@
   "Zeddam, Zeddam": {
     "lat": 51.90531603,
     "lon": 6.25298586
+  },
+  "Jaarmarkt Oudegem, Oudegemse baan 43, Oudegem": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Berg aan de Maas, Urmond, Julianastraat 6, Urmond": {
+    "lat": 51.00045078,
+    "lon": 5.77000427
+  },
+  "Hoge Vucht, Aalststraat 10, Breda": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Op het bedrijventerrein van Heinenoord, Boonsweg 63, Heinenoord": {
+    "lat": 51.81482682,
+    "lon": 4.52052732
+  },
+  "Protestantse kerk en Kulturhus, Laren (GLD), Verwoldseweg 1, Laren (GLD)": {
+    "lat": 52.19446461,
+    "lon": 6.40800269
+  },
+  "Evenemententerrein Caulitenstraat, Sint Joost, Caulitenstraat 12, Sint Joost": {
+    "lat": 51.11902194,
+    "lon": 5.90051211
+  },
+  "Oude Dorp, Huizen, Huizen": {
+    "lat": 52.2986469,
+    "lon": 5.2420639
+  },
+  "Evenementhal Hardenberg, Energieweg 2, Hardenberg": {
+    "lat": 52.56056811,
+    "lon": 6.62616973
+  },
+  "Wieringerwerf, Wieringerwerf": {
+    "lat": 52.88703035,
+    "lon": 5.1055454
+  },
+  "Winkelcentrum Crabbehof, Dordrecht, Dordrecht": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Wervershoof, Wervershoof": {
+    "lat": 52.73590236,
+    "lon": 5.14690326
   }
 }
