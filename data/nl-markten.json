@@ -1,66 +1,6 @@
 {
-  "generatedAt": "2026-09-03T07:51:37.574Z",
+  "generatedAt": "2026-09-04T07:47:31.305Z",
   "events": [
-    {
-      "id": "ec-marktenmeer.nl-30557",
-      "title": "Antiek- en Curiosamarkt in Leeuwarden – 3 september 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-09-03T00:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/antiek-curiosamarkt-in-leeuwarden-3-september-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-27822",
-      "title": "Streekmarkt Zoetermeer – 3 september 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-09-03T09:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/streekmarkt-zoetermeer-3-september-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-42597",
-      "title": "Westfriese Folklore Curiosa en Creamarkt in Schagen – 3 september 2026",
-      "category": "markt",
-      "lat": 52.78771358,
-      "lon": 4.79794658,
-      "date": "2026-09-03T09:30:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/westfriese-folklore-curiosa-en-creamarkt-3-september-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-15308",
-      "title": "Platenbeurs – Groningen – 3 september 2026",
-      "category": "markt",
-      "lat": 53.21742503,
-      "lon": 6.56505396,
-      "date": "2026-09-03T10:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/platenbeurs-groningen-3-september-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-24751",
-      "title": "Donderdagmarkt Middelburg (Koorkerkplein) – 3 september 2026",
-      "category": "markt",
-      "lat": 51.50315836,
-      "lon": 3.65083605,
-      "date": "2026-09-03T10:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/donderdagmarkt-middelburg-3-september-2026/"
-    },
-    {
-      "id": "ec-marktenmeer.nl-40746",
-      "title": "De Tilburgse Platenmarkt in Tilburg – 3 september 2026",
-      "category": "markt",
-      "lat": 51.55445125,
-      "lon": 5.08731846,
-      "date": "2026-09-03T13:00:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/de-tilburgse-platenmarkt-3-september-2026/"
-    },
     {
       "id": "ec-marktenmeer.nl-35635",
       "title": "Wieltjesfeesten in Menen – 4-6 september 2026",
@@ -782,6 +722,26 @@
       "url": "https://marktenmeer.nl/markt/nu-of-nooit-garagesale-5-september-2026/"
     },
     {
+      "id": "ec-marktenmeer.nl-43127",
+      "title": "Grote Rommelmarkt in Uelsen – 5 september 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-05T09:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/grote-rommelmarkt-in-uelsen-5-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-43134",
+      "title": "Rommelmarkt route Abbenes – 5 september 2026",
+      "category": "markt",
+      "lat": 52.2353534,
+      "lon": 4.59373571,
+      "date": "2026-09-05T09:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-route-abbenes-5-september-2026/"
+    },
+    {
       "id": "ec-marktenmeer.nl-20801",
       "title": "Zeewolde bij de Pinken – Pinkendag 5 september 2026",
       "category": "markt",
@@ -820,6 +780,16 @@
       "date": "2026-09-05T09:30:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/jaarmarkt-roermond-5-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-43111",
+      "title": "Grootse rommelmarkt bij Brugkerk Lopik – 5 september 2026",
+      "category": "markt",
+      "lat": 51.97904942,
+      "lon": 4.97348958,
+      "date": "2026-09-05T09:30:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/grootse-rommelmarkt-bij-brugkerk-lopik-5-september-2026/"
     },
     {
       "id": "ec-marktenmeer.nl-15104",
@@ -1252,6 +1222,26 @@
       "url": "https://marktenmeer.nl/markt/rommelmarkt-iop-nederland-5-september-2026/"
     },
     {
+      "id": "ec-marktenmeer.nl-43123",
+      "title": "Bazaar bij de Kerk in Renswoude – 5 september 2026",
+      "category": "markt",
+      "lat": 52.07494685,
+      "lon": 5.54338655,
+      "date": "2026-09-05T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/bazaar-bij-de-kerk-in-renswoude-5-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-43119",
+      "title": "Kinderkledingbeurs Rheden – 5 september 2026",
+      "category": "markt",
+      "lat": 52.00556168,
+      "lon": 6.03292255,
+      "date": "2026-09-05T10:30:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kinderkledingbeurs-rheden-5-september-2026/"
+    },
+    {
       "id": "ec-marktenmeer.nl-19598",
       "title": "Boerenmarkt in de Vijzelstraat – Zaterdag 5 september 2026 – Leeuwarden",
       "category": "markt",
@@ -1322,6 +1312,16 @@
       "url": "https://marktenmeer.nl/markt/haven-markt-nijkerk-5-september-2026/"
     },
     {
+      "id": "ec-marktenmeer.nl-43131",
+      "title": "Snuffelmarkt in het Claverhuis in Amsterdam – 5 september 2026",
+      "category": "markt",
+      "lat": 52.36985913,
+      "lon": 4.88090762,
+      "date": "2026-09-05T11:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/snuffelmarkt-in-het-claverhuis-5-september-2026/"
+    },
+    {
       "id": "ec-marktenmeer.nl-24573",
       "title": "Vintagebeurs Utrecht – 5 september 2026",
       "category": "markt",
@@ -1370,6 +1370,16 @@
       "date": "2026-09-05T13:00:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/laornse-spullenmarkt-5-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-43138",
+      "title": "PokéAutumn Edition in Valkenswaard – 5 september 2026",
+      "category": "markt",
+      "lat": 51.36132202,
+      "lon": 5.44553068,
+      "date": "2026-09-05T13:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/pokeautumn-edition-5-september-2026/"
     },
     {
       "id": "ec-marktenmeer.nl-18404",
@@ -2250,6 +2260,16 @@
       "date": "2026-09-06T12:00:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/de-bossche-platenmarkt-6-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-43115",
+      "title": "Wyck Vintage Fashion Market in Maastricht – 6 september 2026",
+      "category": "markt",
+      "lat": 50.84643487,
+      "lon": 5.70012208,
+      "date": "2026-09-06T12:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/wyck-vintage-fashion-market-6-september-2026/"
     },
     {
       "id": "ec-marktenmeer.nl-30229",
@@ -5192,6 +5212,16 @@
       "url": "https://marktenmeer.nl/markt/de-plantenmarkt-19-september-2026/"
     },
     {
+      "id": "ec-marktenmeer.nl-43152",
+      "title": "Beleef de Bredelaar Herfstmarkt in Elst – 19 september 2026",
+      "category": "markt",
+      "lat": 51.90956802,
+      "lon": 5.88910872,
+      "date": "2026-09-19T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/beleef-de-bredelaar-herfstmarkt-19-september-2026/"
+    },
+    {
       "id": "ec-marktenmeer.nl-39086",
       "title": "Streekmarkt de Suteltún in Burum – 19 september 2026",
       "category": "markt",
@@ -6240,6 +6270,56 @@
       "date": "2026-09-24T11:00:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/najaarsmarkt-wervershoof-24-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-30439",
+      "title": "Kofferbakmarkt Donkere Duinen in Den Helder – 25 september 2026",
+      "category": "markt",
+      "lat": 52.93997585,
+      "lon": 4.78522541,
+      "date": "2026-09-25T08:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kofferbakmarkt-den-helder-25-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-38813",
+      "title": "Curiosamarkt Amstelveld in Amsterdam – 25 september 2026",
+      "category": "markt",
+      "lat": 52.36202999,
+      "lon": 4.89753745,
+      "date": "2026-09-25T08:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/curiosamarkt-amstelveld-25-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-20215",
+      "title": "Braderie Zutphen – 25 september 2026",
+      "category": "braderie",
+      "lat": 52.13300493,
+      "lon": 6.20488836,
+      "date": "2026-09-25T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/braderie-zutphen-25-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-33713",
+      "title": "Kaasmarkt Alkmaar in Alkmaar – 25 september 2026",
+      "category": "markt",
+      "lat": 52.63140241,
+      "lon": 4.75050494,
+      "date": "2026-09-25T10:00:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kaasmarkt-alkmaar-in-alkmaar-25-september-2026/"
+    },
+    {
+      "id": "ec-marktenmeer.nl-42917",
+      "title": "Kinderkleding en Speelgoedbeurs in Ruurlo – 25 september 2026",
+      "category": "markt",
+      "lat": 52.08633758,
+      "lon": 6.45448658,
+      "date": "2026-09-25T18:30:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kinderkleding-en-speelgoedbeurs-25-september-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-15497",
