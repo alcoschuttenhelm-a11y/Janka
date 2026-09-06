@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-09-05T07:28:45.501Z",
+  "generatedAt": "2026-09-06T07:42:35.058Z",
   "events": [
-    {
-      "id": "ec-evenementenlijst.nl-13065",
-      "title": "Evenement TWENTS OLDTIMER FESTIVAL TILLIGTE – 5 september en 6 september Twente  2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-09-05T10:00:00",
-      "source": "evenementenlijst.nl",
-      "url": "https://evenementenlijst.nl/evenement/evenement-twents-oldtimer-festival-tilligte-5-september-en-6-september-twente-2026/"
-    },
     {
       "id": "ec-evenementenlijst.nl-12942",
       "title": "Jaarmarkt evenement  6 september 2026 centrum Bloemendaal Noord Holland",
@@ -152,14 +142,34 @@
       "url": "https://evenementenlijst.nl/evenement/braderie-zaterdag-26-september-2026-centrum-baarn-u/"
     },
     {
-      "id": "ec-wildro.nl-604",
-      "title": "Braderie winkelcentrum Nobellaan Assen",
+      "id": "ec-evenementenlijst.nl-11488",
+      "title": "Fruitcorso braderie – Tiel – 27 september 2026",
       "category": "braderie",
       "lat": 52.75180122,
       "lon": 5.96778501,
-      "date": "2026-09-05T10:00:00",
-      "source": "wildro.nl",
-      "url": "https://wildro.nl/event/braderie-winkelcentrum-nobellaan-assen-4-2-3/"
+      "date": "2026-09-27T11:00:00",
+      "source": "evenementenlijst.nl",
+      "url": "https://evenementenlijst.nl/evenement/fruitcorso-braderie-tiel-27-september-2026/"
+    },
+    {
+      "id": "ec-evenementenlijst.nl-14768",
+      "title": "Sevriens Markten – Bundermijt – Bunde – 27 september 2026",
+      "category": "markt",
+      "lat": 50.9016258,
+      "lon": 5.73543069,
+      "date": "2026-09-27T11:00:00",
+      "source": "evenementenlijst.nl",
+      "url": "https://evenementenlijst.nl/evenement/sevriens-markten-bundermijt-bunde-27-september-2026/"
+    },
+    {
+      "id": "ec-evenementenlijst.nl-14820",
+      "title": "Thomas09 – Jaarmarkt Vledder – 27 september 2026",
+      "category": "markt",
+      "lat": 52.86089924,
+      "lon": 6.20742588,
+      "date": "2026-09-27T11:00:00",
+      "source": "evenementenlijst.nl",
+      "url": "https://evenementenlijst.nl/evenement/thomas09-jaarmarkt-vledder-27-september-2026/"
     },
     {
       "id": "ec-wildro.nl-685",
@@ -190,6 +200,16 @@
       "date": "2026-09-19T10:00:00",
       "source": "wildro.nl",
       "url": "https://wildro.nl/event/braderie-floralia-voorthuizen/"
+    },
+    {
+      "id": "ec-wildro.nl-559",
+      "title": "Braderie en vlooienmarkt Jaarmarkt Centrum Erica",
+      "category": "braderie",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-09-27T10:00:00",
+      "source": "wildro.nl",
+      "url": "https://wildro.nl/event/braderie-en-vlooienmarkt-jaarmarkt-centrum-erica/"
     }
   ]
 }
