@@ -1,26 +1,6 @@
 {
-  "generatedAt": "2026-09-06T07:42:35.058Z",
+  "generatedAt": "2026-09-07T08:00:57.494Z",
   "events": [
-    {
-      "id": "ec-evenementenlijst.nl-12942",
-      "title": "Jaarmarkt evenement  6 september 2026 centrum Bloemendaal Noord Holland",
-      "category": "kermis",
-      "lat": 52.40197836,
-      "lon": 4.61747057,
-      "date": "2026-09-06T09:00:00",
-      "source": "evenementenlijst.nl",
-      "url": "https://evenementenlijst.nl/evenement/evenement-jaarmarkt-6-september-bloemendaal-noord-holland/"
-    },
-    {
-      "id": "ec-evenementenlijst.nl-13672",
-      "title": "Kunst & Creatie Markt Bloemendaal (Centrum) 6 september 2026",
-      "category": "markt",
-      "lat": 52.40197836,
-      "lon": 4.61747057,
-      "date": "2026-09-06T11:00:00",
-      "source": "evenementenlijst.nl",
-      "url": "https://evenementenlijst.nl/evenement/kunst-creatie-markt-bloemendaal-centrum-6-september-2026/"
-    },
     {
       "id": "ec-evenementenlijst.nl-13534",
       "title": "Paardenmarkt Elst 7 september 2026",
@@ -170,16 +150,6 @@
       "date": "2026-09-27T11:00:00",
       "source": "evenementenlijst.nl",
       "url": "https://evenementenlijst.nl/evenement/thomas09-jaarmarkt-vledder-27-september-2026/"
-    },
-    {
-      "id": "ec-wildro.nl-685",
-      "title": "Braderie en vlooienmarkt Jaarmarkt Wedde",
-      "category": "braderie",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-09-06T11:00:00",
-      "source": "wildro.nl",
-      "url": "https://wildro.nl/event/braderie-en-vlooienmarkt-najaarsmarkt-centrum-gieten-2/"
     },
     {
       "id": "ec-wildro.nl-403",
