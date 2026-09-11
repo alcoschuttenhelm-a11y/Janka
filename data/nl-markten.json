@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T07:55:55.578Z",
+  "generatedAt": "2026-09-11T07:51:42.583Z",
   "events": [
     {
       "id": "ec-evenementenlijst.nl-11605",
@@ -170,6 +170,16 @@
       "date": "2026-09-27T10:00:00",
       "source": "wildro.nl",
       "url": "https://wildro.nl/event/braderie-en-vlooienmarkt-jaarmarkt-centrum-erica/"
+    },
+    {
+      "id": "ec-wildro.nl-563",
+      "title": "Braderie Winkelweken Musselkanaal",
+      "category": "braderie",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-02T14:00:00",
+      "source": "wildro.nl",
+      "url": "https://wildro.nl/event/braderie-winkelweken-musselkanaal/"
     }
   ]
 }
