@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T07:51:42.583Z",
+  "generatedAt": "2026-09-12T07:44:26.474Z",
   "events": [
     {
       "id": "ec-evenementenlijst.nl-11605",
@@ -142,6 +142,16 @@
       "url": "https://evenementenlijst.nl/evenement/thomas09-jaarmarkt-vledder-27-september-2026/"
     },
     {
+      "id": "ec-evenementenlijst.nl-395",
+      "title": "Braderie Mijdrecht  provincie Utrecht zaterdag 3 oktober 2026",
+      "category": "braderie",
+      "lat": 52.20753713,
+      "lon": 4.86645659,
+      "date": "2026-10-03T10:00:00",
+      "source": "evenementenlijst.nl",
+      "url": "https://evenementenlijst.nl/evenement/braderie-mijdrecht-provincie-utrecht-zaterdag-3-oktober-2026/"
+    },
+    {
       "id": "ec-wildro.nl-403",
       "title": "Braderie en vlooienmarkt Najaarsmarkt Centrum Coevorden",
       "category": "braderie",
@@ -180,6 +190,16 @@
       "date": "2026-10-02T14:00:00",
       "source": "wildro.nl",
       "url": "https://wildro.nl/event/braderie-winkelweken-musselkanaal/"
+    },
+    {
+      "id": "ec-wildro.nl-561",
+      "title": "Braderie Duitse dag Centrum Coevorden",
+      "category": "braderie",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-03T10:00:00",
+      "source": "wildro.nl",
+      "url": "https://wildro.nl/event/braderie-duitse-dag-centrum-coevorden-2/"
     }
   ]
 }
