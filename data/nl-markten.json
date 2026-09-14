@@ -1,36 +1,6 @@
 {
-  "generatedAt": "2026-09-12T07:44:26.474Z",
+  "generatedAt": "2026-09-14T08:38:31.149Z",
   "events": [
-    {
-      "id": "ec-evenementenlijst.nl-11605",
-      "title": "Herfstmarkt – Emmeloord – 12 september 2026",
-      "category": "markt",
-      "lat": 52.71126182,
-      "lon": 5.75847317,
-      "date": "2026-09-12T11:00:00",
-      "source": "evenementenlijst.nl",
-      "url": "https://evenementenlijst.nl/evenement/herfstmarkt-emmeloord-12-september-2026/"
-    },
-    {
-      "id": "ec-evenementenlijst.nl-14818",
-      "title": "Thomas09 – Jaarmarkt Ureterp – 12 september 2026",
-      "category": "markt",
-      "lat": 53.09186216,
-      "lon": 6.16147574,
-      "date": "2026-09-12T11:00:00",
-      "source": "evenementenlijst.nl",
-      "url": "https://evenementenlijst.nl/evenement/thomas09-jaarmarkt-ureterp-12-september-2026/"
-    },
-    {
-      "id": "ec-evenementenlijst.nl-13375",
-      "title": "Braderie Ulft zondag 13 september 2026",
-      "category": "braderie",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-09-13T12:00:00",
-      "source": "evenementenlijst.nl",
-      "url": "https://evenementenlijst.nl/evenement/braderie-ulft-zondag-13-september-2026/"
-    },
     {
       "id": "ec-evenementenlijst.nl-666",
       "title": "Najaarsmarkt Heemskerk Noord Holland zaterdag19 September 2026",
@@ -152,14 +122,14 @@
       "url": "https://evenementenlijst.nl/evenement/braderie-mijdrecht-provincie-utrecht-zaterdag-3-oktober-2026/"
     },
     {
-      "id": "ec-wildro.nl-403",
-      "title": "Braderie en vlooienmarkt Najaarsmarkt Centrum Coevorden",
-      "category": "braderie",
+      "id": "ec-evenementenlijst.nl-13909",
+      "title": "Internationale Mineralenbeurs Rijswijk Zuid Holland zaterdag 3 oktober en zondag 4 oktober 2026",
+      "category": "evenement",
       "lat": 52.75180122,
       "lon": 5.96778501,
-      "date": "2026-09-12T10:00:00",
-      "source": "wildro.nl",
-      "url": "https://wildro.nl/event/braderie-en-vlooienmarkt-voorjaarsmarkt-centrum-coevorden/"
+      "date": "2026-10-03T10:00:00",
+      "source": "evenementenlijst.nl",
+      "url": "https://evenementenlijst.nl/evenement/internationale-mineralenbeurs-rijswijk-zuid-holland-zaterdag-3-oktober-en-zondag-4-oktober-2026/"
     },
     {
       "id": "ec-wildro.nl-627",
@@ -200,6 +170,16 @@
       "date": "2026-10-03T10:00:00",
       "source": "wildro.nl",
       "url": "https://wildro.nl/event/braderie-duitse-dag-centrum-coevorden-2/"
+    },
+    {
+      "id": "ec-wildro.nl-567",
+      "title": "Braderie en vlooienmarkt Najaarsmarkt Centrum Gieten",
+      "category": "braderie",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-04T10:00:00",
+      "source": "wildro.nl",
+      "url": "https://wildro.nl/event/braderie-en-vlooienmarkt-najaarsmarkt-centrum-gieten/"
     }
   ]
 }
