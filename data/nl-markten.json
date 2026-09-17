@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T08:21:17.200Z",
+  "generatedAt": "2026-09-17T08:27:20.642Z",
   "events": [
     {
       "id": "ec-evenementenlijst.nl-666",
@@ -130,6 +130,16 @@
       "date": "2026-10-03T10:00:00",
       "source": "evenementenlijst.nl",
       "url": "https://evenementenlijst.nl/evenement/internationale-mineralenbeurs-rijswijk-zuid-holland-zaterdag-3-oktober-en-zondag-4-oktober-2026/"
+    },
+    {
+      "id": "ec-evenementenlijst.nl-13249",
+      "title": "Vaassense Jaarmarkt 2026 donderdag 8 oktober 2026",
+      "category": "kermis",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-08T10:00:00",
+      "source": "evenementenlijst.nl",
+      "url": "https://evenementenlijst.nl/evenement/vaassense-jaarmarkt-2026-donderdag-8-oktober-2026/"
     },
     {
       "id": "ec-wildro.nl-627",
