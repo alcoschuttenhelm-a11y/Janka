@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T08:02:02.848Z",
+  "generatedAt": "2026-09-19T07:52:30.768Z",
   "events": [
     {
       "id": "ec-evenementenlijst.nl-666",
@@ -200,6 +200,26 @@
       "date": "2026-10-09T14:00:00",
       "source": "wildro.nl",
       "url": "https://wildro.nl/event/braderie-winkelweken-musselkanaal-2/"
+    },
+    {
+      "id": "ec-wildro.nl-606",
+      "title": "Braderie winkelcentrum Nobellaan Assen",
+      "category": "braderie",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-10T10:00:00",
+      "source": "wildro.nl",
+      "url": "https://wildro.nl/event/braderie-winkelcentrum-nobellaan-assen-4-2-4/"
+    },
+    {
+      "id": "ec-wildro.nl-892",
+      "title": "Sfeervol Hoogeveen",
+      "category": "braderie",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-10T10:00:00",
+      "source": "wildro.nl",
+      "url": "https://wildro.nl/event/sfeervol-hoogeveen/"
     }
   ]
 }
