@@ -1,26 +1,6 @@
 {
-  "generatedAt": "2026-09-19T07:52:30.768Z",
+  "generatedAt": "2026-09-20T08:21:49.646Z",
   "events": [
-    {
-      "id": "ec-evenementenlijst.nl-666",
-      "title": "Najaarsmarkt Heemskerk Noord Holland zaterdag19 September 2026",
-      "category": "braderie",
-      "lat": 52.51073003,
-      "lon": 4.67192811,
-      "date": "2026-09-19T10:00:00",
-      "source": "evenementenlijst.nl",
-      "url": "https://evenementenlijst.nl/evenement/najaarsmarkt-heemskerk-noord-holland-zaterdag-26-september-2026/"
-    },
-    {
-      "id": "ec-evenementenlijst.nl-14819",
-      "title": "Thomas09 – Lindefestival Wolvega – 19 september 2026",
-      "category": "markt",
-      "lat": 52.87225741,
-      "lon": 6.00689309,
-      "date": "2026-09-19T10:00:00",
-      "source": "evenementenlijst.nl",
-      "url": "https://evenementenlijst.nl/evenement/thomas09-lindefestival-wolvega-19-september-2026/"
-    },
     {
       "id": "ec-evenementenlijst.nl-14572",
       "title": "Kofferbakverkoop zondag 20 september 2026 Volkel",
@@ -142,14 +122,34 @@
       "url": "https://evenementenlijst.nl/evenement/vaassense-jaarmarkt-2026-donderdag-8-oktober-2026/"
     },
     {
-      "id": "ec-wildro.nl-627",
-      "title": "Braderie Floralia Voorthuizen",
-      "category": "braderie",
+      "id": "ec-evenementenlijst.nl-13256",
+      "title": "30e jubileum Oldtimer en Classic Beurs  Leek 9 t m 11 oktober 2026",
+      "category": "evenement",
       "lat": 52.75180122,
       "lon": 5.96778501,
-      "date": "2026-09-19T10:00:00",
-      "source": "wildro.nl",
-      "url": "https://wildro.nl/event/braderie-floralia-voorthuizen/"
+      "date": "2026-10-09T00:00:00",
+      "source": "evenementenlijst.nl",
+      "url": "https://evenementenlijst.nl/evenement/30e-jubileum-oldtimer-en-classic-beurs-leek-9-t-m-11-oktober-2026/"
+    },
+    {
+      "id": "ec-evenementenlijst.nl-13408",
+      "title": "Oldtimer & Classic Beurs Vrijdag 9 t/m zondag 11 oktober 2026 – Sportcentrum Leek, vrijdag 9 okt, 17-21 uur",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-09T10:00:00",
+      "source": "evenementenlijst.nl",
+      "url": "https://evenementenlijst.nl/evenement/oldtimer-classic-beurs-vrijdag-9-t-m-zondag-11-oktober-2026-sportcentrum-leek-vrijdag-9-okt-17-21-uur/"
+    },
+    {
+      "id": "ec-evenementenlijst.nl-14545",
+      "title": "Spirituele beurs energy zondag 11 oktober 2026  Valkenswaard",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-11T10:00:00",
+      "source": "evenementenlijst.nl",
+      "url": "https://evenementenlijst.nl/evenement/spirituele-beurs-energy-zondag-11-oktober-2026-valkenswaard/"
     },
     {
       "id": "ec-wildro.nl-559",
@@ -220,6 +220,16 @@
       "date": "2026-10-10T10:00:00",
       "source": "wildro.nl",
       "url": "https://wildro.nl/event/sfeervol-hoogeveen/"
+    },
+    {
+      "id": "ec-wildro.nl-701",
+      "title": "Braderie en vlooienmarkt Eurohal Zuidbroek",
+      "category": "braderie",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-11T10:00:00",
+      "source": "wildro.nl",
+      "url": "https://wildro.nl/event/braderie-zuidbroek/"
     }
   ]
 }
