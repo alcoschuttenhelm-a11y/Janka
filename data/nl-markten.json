@@ -1,36 +1,6 @@
 {
-  "generatedAt": "2026-09-20T08:21:49.646Z",
+  "generatedAt": "2026-09-22T08:19:08.093Z",
   "events": [
-    {
-      "id": "ec-evenementenlijst.nl-14572",
-      "title": "Kofferbakverkoop zondag 20 september 2026 Volkel",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-09-20T09:00:00",
-      "source": "evenementenlijst.nl",
-      "url": "https://evenementenlijst.nl/evenement/kofferbakverkoop-zondag-20-september-2026-volkel/"
-    },
-    {
-      "id": "ec-evenementenlijst.nl-14767",
-      "title": "Sevriens Markten – Jaarmarkt – Reuver – 20 september 2026",
-      "category": "markt",
-      "lat": 51.2776874,
-      "lon": 6.08921167,
-      "date": "2026-09-20T11:00:00",
-      "source": "evenementenlijst.nl",
-      "url": "https://evenementenlijst.nl/evenement/sevriens-markten-jaarmarkt-reuver-20-september-2026/"
-    },
-    {
-      "id": "ec-evenementenlijst.nl-13245",
-      "title": "Jaarmarkt Lisse  maandag 21 september 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-09-21T09:00:00",
-      "source": "evenementenlijst.nl",
-      "url": "https://evenementenlijst.nl/evenement/jaarmarkt-lisse-maandag-21-september-2026/"
-    },
     {
       "id": "ec-evenementenlijst.nl-12263",
       "title": "Kunst & Creatie Markt – Deventer – 26 september 2026",
@@ -230,6 +200,16 @@
       "date": "2026-10-11T10:00:00",
       "source": "wildro.nl",
       "url": "https://wildro.nl/event/braderie-zuidbroek/"
+    },
+    {
+      "id": "ec-wildro.nl-569",
+      "title": "Braderie Jaarmarkt Centrum Dwingeloo",
+      "category": "braderie",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-12T10:00:00",
+      "source": "wildro.nl",
+      "url": "https://wildro.nl/event/braderie-jaarmarkt-centrum-dwingeloo-2/"
     }
   ]
 }
