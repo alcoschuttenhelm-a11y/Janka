@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T08:35:59.991Z",
+  "generatedAt": "2026-09-26T08:22:54.857Z",
   "events": [
     {
       "id": "ec-evenementenlijst.nl-12263",
@@ -120,6 +120,16 @@
       "date": "2026-10-11T10:00:00",
       "source": "evenementenlijst.nl",
       "url": "https://evenementenlijst.nl/evenement/spirituele-beurs-energy-zondag-11-oktober-2026-valkenswaard/"
+    },
+    {
+      "id": "ec-evenementenlijst.nl-14930",
+      "title": "Braderie zaterdag 17 oktober 2026 Centerparcs Zeewolde",
+      "category": "braderie",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-17T10:00:00",
+      "source": "evenementenlijst.nl",
+      "url": "https://evenementenlijst.nl/evenement/braderie-zaterdag-17-oktober-2026-centerparcs-zeewolde/"
     },
     {
       "id": "ec-wildro.nl-559",
