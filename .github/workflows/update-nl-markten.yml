@@ -32,5 +32,6 @@ jobs:
             echo "Geen wijzigingen, niets te committen."
           else
             git commit -m "Automatische update NL markten-data"
+            git pull --rebase
             git push
           fi
