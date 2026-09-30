@@ -74,11 +74,14 @@ sleutel nodig.
 - **Geocode-cache:** [`scripts/geocode-cache.json`](scripts/geocode-cache.json) — voorkomt dat
   elke dag alle locaties opnieuw geocodeerd worden; alleen nieuwe locaties worden aangevraagd
   bij PDOK.
-- **marktenmeer.nl, evenementenlijst.nl, wildro.nl** draaien op dezelfde WordPress-plugin
-  ("The Events Calendar") met een officiële REST API
-  (`/wp-json/tribe/events/v1/events`) — geen HTML-scraping. **marbo.nl** is een
+- **marktenmeer.nl** was oorspronkelijk via "The Events Calendar" API, maar die plugin is
+  verwijderd. Het script haalt nu de Yoast-sitemaps op (mm_markt-sitemaps), filtert URLs op
+  datum in de slug, en scrapet schema.org/Event JSON-LD van de matchende pagina's. Levert
+  honderden events op. **evenementenlijst.nl, wildro.nl** draaien nog steeds op "The Events
+  Calendar" met de officiële REST API (`/wp-json/tribe/events/v1/events`). **marbo.nl** is een
   kraamverhuur-boekingspagina met een eenvoudige, stabiele HTML-tabel; deze wordt met een
-  gerichte regex geparsed (geen generieke scraper).
+  gerichte regex geparsed (geen generieke scraper) en heeft een browser User-Agent nodig
+  (blokt bot-identifiers).
 - **Let op (marbo.nl):** de bron-URL bevat het jaartal (`marbo.nl/markten-2026/`) — dit moet
   jaarlijks handmatig bijgewerkt worden in `scripts/fetch-nl-markten.js` zodra marbo.nl een
   nieuwe jaarpagina publiceert.
