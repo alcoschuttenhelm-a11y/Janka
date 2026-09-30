@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T21:25:34.027Z",
+  "generatedAt": "2026-09-30T21:36:50.484Z",
   "events": [
     {
       "id": "mm-braderie-en-vlomarkt-odoorn-4-oktober-2026",
@@ -4120,66 +4120,6 @@
       "date": "2026-10-14T10:00:00",
       "source": "wildro.nl",
       "url": "https://wildro.nl/event/braderie-herfstmarkt-centrum-oosterwolde/"
-    },
-    {
-      "id": "marbo-2",
-      "title": "Den Haag Hobbema/ wijkpark Transvaal   VERPLAATST",
-      "category": "evenement",
-      "lat": 52.06726401,
-      "lon": 4.29462904,
-      "date": "2026-10-03T00:00:00",
-      "source": "marbo.nl",
-      "url": "https://marbo.nl/markten-2026/"
-    },
-    {
-      "id": "marbo-3",
-      "title": "Utrecht Rijnlaan   NOG ENKELE PLAATSEN VRIJ!!!",
-      "category": "evenement",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-04T00:00:00",
-      "source": "marbo.nl",
-      "url": "https://marbo.nl/markten-2026/"
-    },
-    {
-      "id": "marbo-4",
-      "title": "Den Haag Hobbema/ wijkpark Transvaal   VERPLAATST",
-      "category": "evenement",
-      "lat": 52.06726401,
-      "lon": 4.29462904,
-      "date": "2026-10-04T00:00:00",
-      "source": "marbo.nl",
-      "url": "https://marbo.nl/markten-2026/"
-    },
-    {
-      "id": "marbo-5",
-      "title": "Den Haag wkc. Leyweg   VOL!!!",
-      "category": "evenement",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-10T00:00:00",
-      "source": "marbo.nl",
-      "url": "https://marbo.nl/markten-2026/"
-    },
-    {
-      "id": "marbo-6",
-      "title": "Utrecht wkc. de Klop  VOL!!!",
-      "category": "evenement",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-11T00:00:00",
-      "source": "marbo.nl",
-      "url": "https://marbo.nl/markten-2026/"
-    },
-    {
-      "id": "marbo-7",
-      "title": "Den Haag wkc. Leyweg   VOL!!!",
-      "category": "evenement",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-11T00:00:00",
-      "source": "marbo.nl",
-      "url": "https://marbo.nl/markten-2026/"
     }
   ]
 }
