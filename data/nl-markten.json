@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T21:36:50.484Z",
+  "generatedAt": "2026-10-01T09:54:17.072Z",
   "events": [
     {
       "id": "mm-braderie-en-vlomarkt-odoorn-4-oktober-2026",
@@ -10,36 +10,6 @@
       "date": "2026-09-20T11:00:00+02:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/braderie-en-vlomarkt-odoorn-4-oktober-2026/"
-    },
-    {
-      "id": "mm-stoffen-spektakel-goes-30-september-2026",
-      "title": "Stoffen Spektakel Goes – 30 september 2026",
-      "category": "evenement",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-09-30T09:30:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/stoffen-spektakel-goes-30-september-2026/"
-    },
-    {
-      "id": "mm-stoffenmarkt-ede-30-september-2026",
-      "title": "Stoffenmarkt Ede – 30 september 2026",
-      "category": "markt",
-      "lat": 52.04537481,
-      "lon": 5.66945282,
-      "date": "2026-09-30T10:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/stoffenmarkt-ede-30-september-2026/"
-    },
-    {
-      "id": "mm-kinder-tienerkleding-speelgoedbeurs-someren-30-september-2026",
-      "title": "Kinder- & Tienerkleding + Speelgoedbeurs Someren – 30 september 2026",
-      "category": "evenement",
-      "lat": 51.37872919,
-      "lon": 5.69142591,
-      "date": "2026-09-30T10:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/kinder-tienerkleding-speelgoedbeurs-someren-30-september-2026/"
     },
     {
       "id": "mm-donderdagmarkt-middelburg-1-oktober-2026",
@@ -2512,6 +2482,26 @@
       "url": "https://marktenmeer.nl/markt/herfst-braderie-capfun-wondermolen-molenschot-21-oktober-2026/"
     },
     {
+      "id": "mm-oener-koefeest-22-oktober-2026",
+      "title": "Oener Koefeest in Oene – 22 oktober 2026",
+      "category": "evenement",
+      "lat": 52.34513311,
+      "lon": 6.05542594,
+      "date": "2026-10-22T08:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/oener-koefeest-22-oktober-2026/"
+    },
+    {
+      "id": "mm-donderdagmarkt-middelburg-22-oktober-2026",
+      "title": "Donderdagmarkt Middelburg (Koorkerkplein) – 22 oktober 2026",
+      "category": "markt",
+      "lat": 51.50315836,
+      "lon": 3.65083605,
+      "date": "2026-10-22T10:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/donderdagmarkt-middelburg-22-oktober-2026/"
+    },
+    {
       "id": "mm-snuffelmarkt-op-het-sint-gerardusplein-4-oktober-2026",
       "title": "Snuffelmarkt op het Sint Gerardusplein in Eindhoven – 4 oktober 2026",
       "category": "markt",
@@ -3612,16 +3602,6 @@
       "url": "https://marktenmeer.nl/markt/rommelmarkt-staverden-3-oktober-2026/"
     },
     {
-      "id": "mm-tweedehandsmarkt-campus-kompas-30-september-2026",
-      "title": "Tweedehandsmarkt Campus Kompas Schaarbeek – 30 september 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-09-30T13:30:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/tweedehandsmarkt-campus-kompas-30-september-2026/"
-    },
-    {
       "id": "mm-braderie-waregem-3-oktober-2026",
       "title": "Braderie Waregem – 3 oktober 2026",
       "category": "braderie",
@@ -3960,6 +3940,126 @@
       "date": "2026-10-11T07:00:00+02:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/wekelijkse-rommelmarkt-lokeren-11-oktober-2026/"
+    },
+    {
+      "id": "mm-garage-verkoop-gemert-3-oktober-2026",
+      "title": "Garage verkoop Gemert – 3 en 4 oktober 2026",
+      "category": "markt",
+      "lat": 51.54879146,
+      "lon": 5.67087118,
+      "date": "2026-10-03T10:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/garage-verkoop-gemert-3-oktober-2026/"
+    },
+    {
+      "id": "mm-gezellige-rommelmarkt-3-oktober-2026",
+      "title": "Rommelmarkt Musselkanaal – 3 en 4 oktober 2026",
+      "category": "markt",
+      "lat": 52.95886213,
+      "lon": 6.97968114,
+      "date": "2026-10-03T10:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/gezellige-rommelmarkt-3-oktober-2026/"
+    },
+    {
+      "id": "mm-overdekte-rommelmarkt-3-oktober-2026",
+      "title": "Overdekte Rommelmarkt Antwerpen – 3 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-03T09:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/overdekte-rommelmarkt-3-oktober-2026/"
+    },
+    {
+      "id": "mm-brocante-de-lhotel-de-ville-place-van-meenen-3-oktober-2026",
+      "title": "Brocante de l'Hôtel de ville Saint-Gilles – 3 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-03T09:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/brocante-de-lhotel-de-ville-place-van-meenen-3-oktober-2026/"
+    },
+    {
+      "id": "mm-antiek-brocante-rommelmarkt-indoor-outdoor-molecule-vichte-11-oktober-2026",
+      "title": "Antiek – Brocante – Rommelmarkt Molecule Vichte Anzegem – 11 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-11T08:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/antiek-brocante-rommelmarkt-indoor-outdoor-molecule-vichte-11-oktober-2026/"
+    },
+    {
+      "id": "mm-tweedehandsbeurs-herfst-sint-amands-mariekerke-17-oktober-2026",
+      "title": "Tweedehandsbeurs Herfst Sint-Amands – 17 oktober 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-17T10:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/tweedehandsbeurs-herfst-sint-amands-mariekerke-17-oktober-2026/"
+    },
+    {
+      "id": "mm-rekkem-brocante-rommelmarkt-marche-aux-puces-elke-zaterdagvoormiddag-17-oktober-2026",
+      "title": "Brocante- en rommelmarkt Rekkem – 17 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-17T05:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rekkem-brocante-rommelmarkt-marche-aux-puces-elke-zaterdagvoormiddag-17-oktober-2026/"
+    },
+    {
+      "id": "mm-vintage-partijen-curiosa-nog-wat-nieuw-18-oktober-2026",
+      "title": "Vintage, partijen, curiosa en nieuw Ravels – 18 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-18T09:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/vintage-partijen-curiosa-nog-wat-nieuw-18-oktober-2026/"
+    },
+    {
+      "id": "mm-brocante-interieure-et-exterieure-11-oktober-2026",
+      "title": "Brocante Woluwe-Saint-Pierre – 11 oktober 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-11T09:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/brocante-interieure-et-exterieure-11-oktober-2026/"
+    },
+    {
+      "id": "mm-garagesale-zondag-4-oktober-etten-leur-4-oktober-2026",
+      "title": "Garagesale Etten-Leur – 4 oktober 2026",
+      "category": "markt",
+      "lat": 51.57831509,
+      "lon": 4.64496614,
+      "date": "2026-10-04T10:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/garagesale-zondag-4-oktober-etten-leur-4-oktober-2026/"
+    },
+    {
+      "id": "mm-rommelmarkt-eensgezindheid-10-oktober-2026",
+      "title": "Rommelmarkt Eensgezindheid Tjerkwerd – 10 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-10T09:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-eensgezindheid-10-oktober-2026/"
+    },
+    {
+      "id": "mm-ruil-rommelmarkt-voor-kinderkleding-speelgoed-en-dvds-11-oktober-2026",
+      "title": "Ruil & Rommelmarkt Voor Kinderkleding, Speelgoed En Dvd's Amsterdam – 11 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-11T11:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/ruil-rommelmarkt-voor-kinderkleding-speelgoed-en-dvds-11-oktober-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-395",
