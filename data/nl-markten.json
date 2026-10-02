@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T09:54:17.072Z",
+  "generatedAt": "2026-10-02T09:30:01.304Z",
   "events": [
     {
       "id": "mm-braderie-en-vlomarkt-odoorn-4-oktober-2026",
@@ -10,36 +10,6 @@
       "date": "2026-09-20T11:00:00+02:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/braderie-en-vlomarkt-odoorn-4-oktober-2026/"
-    },
-    {
-      "id": "mm-donderdagmarkt-middelburg-1-oktober-2026",
-      "title": "Donderdagmarkt Middelburg (Koorkerkplein) – 1 oktober 2026",
-      "category": "markt",
-      "lat": 51.50315836,
-      "lon": 3.65083605,
-      "date": "2026-10-01T10:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/donderdagmarkt-middelburg-1-oktober-2026/"
-    },
-    {
-      "id": "mm-superbraderie-siddeburen-1-oktober-2026",
-      "title": "SuperBraderie Siddeburen – 1 oktober 2026",
-      "category": "braderie",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-01T14:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/superbraderie-siddeburen-1-oktober-2026/"
-    },
-    {
-      "id": "mm-najaarsmarkt-hulp-die-helpt-1-oktober-2026",
-      "title": "Najaarsmarkt Hulp die Helpt in Almelo – 1 oktober 2026",
-      "category": "markt",
-      "lat": 52.34789061,
-      "lon": 6.65819554,
-      "date": "2026-10-01T15:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/najaarsmarkt-hulp-die-helpt-1-oktober-2026/"
     },
     {
       "id": "mm-nationale-bloembollenmarkt-bollenstreek-2-oktober-2026",
@@ -2502,6 +2472,16 @@
       "url": "https://marktenmeer.nl/markt/donderdagmarkt-middelburg-22-oktober-2026/"
     },
     {
+      "id": "mm-seizoensmarkt-delflandplein-in-amsterdam-23-oktober-2026",
+      "title": "Seizoensmarkt Delflandplein in Amsterdam – 23 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-23T10:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/seizoensmarkt-delflandplein-in-amsterdam-23-oktober-2026/"
+    },
+    {
       "id": "mm-snuffelmarkt-op-het-sint-gerardusplein-4-oktober-2026",
       "title": "Snuffelmarkt op het Sint Gerardusplein in Eindhoven – 4 oktober 2026",
       "category": "markt",
@@ -2560,6 +2540,16 @@
       "date": "2026-10-10T10:00:00+02:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/gezellige-rommelmarkt-teunenberg-10-oktober-2026/"
+    },
+    {
+      "id": "mm-lichtjesloop-23-oktober-2026",
+      "title": "Lichtjesloop in Den Helder – 23 oktober 2026",
+      "category": "evenement",
+      "lat": 52.93997585,
+      "lon": 4.78522541,
+      "date": "2026-10-23T19:30:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/lichtjesloop-23-oktober-2026/"
     },
     {
       "id": "mm-kinderkledingbeurs-mierlo-3-oktober-2026",
@@ -2860,6 +2850,16 @@
       "date": "2026-10-16T17:00:00+02:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/avondmarkt-hoeselt-16-oktober-2026/"
+    },
+    {
+      "id": "mm-avondmarkt-lanaken-halloween-23-oktober-2026",
+      "title": "Avondmarkt Lanaken Halloween – 23 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-23T16:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/avondmarkt-lanaken-halloween-23-oktober-2026/"
     },
     {
       "id": "mm-avondmarkt-serskamp-12-oktober-2026",
@@ -4060,6 +4060,36 @@
       "date": "2026-10-11T11:00:00+02:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/ruil-rommelmarkt-voor-kinderkleding-speelgoed-en-dvds-11-oktober-2026/"
+    },
+    {
+      "id": "mm-crea-en-doemarkt-17-oktober-2026",
+      "title": "Crea- en doemarkt Dendermonde – 17 tot 18 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-17T13:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/crea-en-doemarkt-17-oktober-2026/"
+    },
+    {
+      "id": "mm-antiek-curiosa-markt-bonifaciuskerk-10-oktober-2026",
+      "title": "Antiek & Curiosa Markt Bonifaciuskerk Medemblik – 10-11 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-10",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/antiek-curiosa-markt-bonifaciuskerk-10-oktober-2026/"
+    },
+    {
+      "id": "mm-gezellige-grote-rommelmart-11-oktober-2026",
+      "title": "Rommelmarkt Lanaken – 11 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-11T07:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/gezellige-grote-rommelmart-11-oktober-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-395",
