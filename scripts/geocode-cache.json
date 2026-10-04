@@ -4286,5 +4286,157 @@
   "Pieter van Slingelandtstraat 15, Puttershoek": {
     "lat": 51.80741486,
     "lon": 4.56743749
+  },
+  "Callantsoog, Callantsoog": {
+    "lat": 52.84770825,
+    "lon": 4.71037236
+  },
+  "Buikslotermeerplein, Amsterdam-Noord, Amsterdam-Noord": {
+    "lat": 52.37344272,
+    "lon": 4.90454379
+  },
+  "Sporthal de Werft, Kaatsheuvel, Kaatsheuvel": {
+    "lat": 51.657017,
+    "lon": 5.04320417
+  },
+  "Breepark Evenementenhal, Breda, Breda": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "MECC Maastricht, Maastricht": {
+    "lat": 50.84027484,
+    "lon": 5.71271705
+  },
+  "Sporthal Quelderduijn, Den Helder, Den Helder": {
+    "lat": 52.93997585,
+    "lon": 4.78522541
+  },
+  "Sporthal de Fluit, Leidschendam, Leidschendam": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Sportcentrum De Gelenberg, Druten, Druten": {
+    "lat": 51.87968307,
+    "lon": 5.61225865
+  },
+  "Sporthal/Evenementenhal Margriet, Schiedam": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "oude Kazere Sijsele, Sijsele": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "WRZV Hallen, Zwolle, Zwolle": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "S.C.C. De Helftheuvel, Den Bosch, Den Bosch": {
+    "lat": 51.68407337,
+    "lon": 5.32549968
+  },
+  "Evenementenhal Hardenberg, Hardenberg": {
+    "lat": 52.58564096,
+    "lon": 6.57413563
+  },
+  "Spaklerweg, Amsterdam, Amsterdam": {
+    "lat": 52.33892762,
+    "lon": 4.92085387
+  },
+  "Groesbeek, Groesbeek": {
+    "lat": 51.77901882,
+    "lon": 5.9372206
+  },
+  "Dorpsboerderij Weverkeshof, Nuenen, Nuenen": {
+    "lat": 51.47860189,
+    "lon": 5.54946413
+  },
+  "Sporthal &#8216;De Stappert&#8217;, Haps, Haps": {
+    "lat": 51.6898629,
+    "lon": 5.86169668
+  },
+  "Zonnebloem Veurne, Veurne": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Rijhal Paardensportvereniging Best, Best": {
+    "lat": 51.5141149,
+    "lon": 5.39652742
+  },
+  "Laarstraat, Zutphen, Zutphen": {
+    "lat": 52.14143166,
+    "lon": 6.20245485
+  },
+  "Park Frankendael, Amsterdam, Amsterdam": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Landgoed De Grote Beek, Eindhoven, Eindhoven": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Schiehaven, Rotterdam, Rotterdam": {
+    "lat": 51.90265959,
+    "lon": 4.45368927
+  },
+  "Beton-T, Utrecht, Utrecht": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "EM2, Groningen, Groningen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Elzas Passage, Helmond, Helmond": {
+    "lat": 51.48055639,
+    "lon": 5.65421221
+  },
+  "Rokin, Amsterdam, Amsterdam": {
+    "lat": 52.37015335,
+    "lon": 4.89260074
+  },
+  "Sporthal Wormer, Wormer": {
+    "lat": 52.49984213,
+    "lon": 4.82634773
+  },
+  "Kasteeltuin Wijchen, Wijchen": {
+    "lat": 51.81673503,
+    "lon": 5.70191338
+  },
+  "Arconateplein, Lennik": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Tuinen NH Koningshof, Veldhoven, Veldhoven": {
+    "lat": 51.393789,
+    "lon": 5.38747449
+  },
+  "Binnenban, Hoogvliet": {
+    "lat": 51.86546845,
+    "lon": 4.35498701
+  },
+  "Hotel-Restaurant Vijlerhof, Vijlen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Noord-scharwoude, Noord-scharwoude": {
+    "lat": 52.69863091,
+    "lon": 4.79505365
+  },
+  "Gemeenschapshuis \"De Lievendaal\", Eindhoven": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Manege Rutger van Herpenruiters, Boekel": {
+    "lat": 51.60247935,
+    "lon": 5.67853641
+  },
+  "De Venehoeve, 2e Exloërmond": {
+    "lat": 52.91101818,
+    "lon": 6.95505081
+  },
+  "Rijswijk Bogaard, Prins Willem Alexander Promenade, Rijswijk": {
+    "lat": 52.03670685,
+    "lon": 4.31594928
   }
 }
