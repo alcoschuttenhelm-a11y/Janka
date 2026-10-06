@@ -1,36 +1,6 @@
 {
-  "generatedAt": "2026-10-05T10:09:40.693Z",
+  "generatedAt": "2026-10-06T09:54:34.775Z",
   "events": [
-    {
-      "id": "mm-kledingmarkt-alblasserdam-4-en-5-oktober-2026",
-      "title": "2e Kans Kledingmarkt in Alblasserdam op 4 en 5 oktober 2026",
-      "category": "markt",
-      "lat": 51.86465403,
-      "lon": 4.6657289,
-      "date": "2026-10-04",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/kledingmarkt-alblasserdam-4-en-5-oktober-2026/"
-    },
-    {
-      "id": "mm-tweedehands-streekboekenmarkt-5-oktober-2026",
-      "title": "Tweedehands Streekboekenmarkt in Doetinchem – 5 oktober 2026",
-      "category": "markt",
-      "lat": 51.96078705,
-      "lon": 6.28670209,
-      "date": "2026-10-05T10:30:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/tweedehands-streekboekenmarkt-5-oktober-2026/"
-    },
-    {
-      "id": "mm-wekelijkse-brocantemarkt-citadel-diest-5-oktober-2026",
-      "title": "Wekelijkse brocantemarkt Citadel Diest – 5 oktober 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-05T11:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/wekelijkse-brocantemarkt-citadel-diest-5-oktober-2026/"
-    },
     {
       "id": "mm-rommelmarkt-parking-ambulance-dienst-in-ramsel-6-oktober-2026",
       "title": "Rommelmarkt Parking Ambulance Dienst in Ramsel – 6 oktober 2026",
@@ -2172,6 +2142,16 @@
       "url": "https://marktenmeer.nl/markt/wekelijkse-brocantemarkt-citadel-diest-26-oktober-2026/"
     },
     {
+      "id": "mm-rommelmarkt-parking-ambulance-dienst-in-ramsel-27-oktober-2026",
+      "title": "Rommelmarkt Parking Ambulance Dienst in Ramsel – 27 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-27T07:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-parking-ambulance-dienst-in-ramsel-27-oktober-2026/"
+    },
+    {
       "id": "mm-vlooienmarkt-wormer-25-oktober-2026",
       "title": "Vlooienmarkt Wormer – 25 oktober 2026",
       "category": "markt",
@@ -3290,6 +3270,206 @@
       "date": "2026-10-11T09:00:00+02:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/snuffelmarkt-11-oktober-2026/"
+    },
+    {
+      "id": "mm-indoor-tuintjesmarkt-nieuwdorp-10-oktober-2026",
+      "title": "Indoor Tuintjesmarkt Nieuwdorp – 10 oktober 2026",
+      "category": "markt",
+      "lat": 51.45899288,
+      "lon": 3.72886568,
+      "date": "2026-10-10T09:30:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/indoor-tuintjesmarkt-nieuwdorp-10-oktober-2026/"
+    },
+    {
+      "id": "mm-waalder-herfstmarkt-18-oktober-2026",
+      "title": "Waalder Herfstmarkt De Waal – 18 oktober 2026",
+      "category": "markt",
+      "lat": 53.07276834,
+      "lon": 4.82336367,
+      "date": "2026-10-18T11:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/waalder-herfstmarkt-18-oktober-2026/"
+    },
+    {
+      "id": "mm-herfstmarkt-en-boekenbeurs-10-oktober-2026",
+      "title": "Herfstmarkt en Boekenbeurs Oosterhout – 10 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-10T09:30:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/herfstmarkt-en-boekenbeurs-10-oktober-2026/"
+    },
+    {
+      "id": "mm-buiten-avondrommelmarkt-kermis-kerkbrugge-evergem-9-oktober-2026",
+      "title": "Buiten Avondrommelmarkt Kermis Kerkbrugge Evergem – 9 oktober 2026",
+      "category": "kermis",
+      "lat": 52.13946236,
+      "lon": 4.87232579,
+      "date": "2026-10-09T17:30:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/buiten-avondrommelmarkt-kermis-kerkbrugge-evergem-9-oktober-2026/"
+    },
+    {
+      "id": "mm-tweedehandsbeurs-volwassenen-boezinge-16-oktober-2026",
+      "title": "Tweedehandsbeurs Volwassenen Boezinge – 16 oktober 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-16T19:30:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/tweedehandsbeurs-volwassenen-boezinge-16-oktober-2026/"
+    },
+    {
+      "id": "mm-antiek-en-curiosamarkt-turnhout-11-oktober-2026",
+      "title": "Antiek- en curiosamarkt Turnhout – 11 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-11T07:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/antiek-en-curiosamarkt-turnhout-11-oktober-2026/"
+    },
+    {
+      "id": "mm-bakhuisjesbraderie-bij-kloosterhof-11-oktober-2026",
+      "title": "Bakhuisjesbraderie Haelen – 11 oktober 2026",
+      "category": "braderie",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-11T10:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/bakhuisjesbraderie-bij-kloosterhof-11-oktober-2026/"
+    },
+    {
+      "id": "mm-boeken-antiek-markt-24-oktober-2026",
+      "title": "Boeken & Antiek Markt Brussel – 24 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-24",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boeken-antiek-markt-24-oktober-2026/"
+    },
+    {
+      "id": "mm-brocante-de-lassociation-portugaise-emaus-11-oktober-2026",
+      "title": "Brocante Ixelles – 11 oktober 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-11T10:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/brocante-de-lassociation-portugaise-emaus-11-oktober-2026/"
+    },
+    {
+      "id": "mm-binnenrommelmarkt-deurne-18-oktober-2026",
+      "title": "Binnenrommelmarkt Deurne – 18 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-18T08:30:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/binnenrommelmarkt-deurne-18-oktober-2026/"
+    },
+    {
+      "id": "mm-grote-boekenmarkt-10-oktober-2026",
+      "title": "Grote Boekenmarkt Hoeilaart – 10 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-10T10:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/grote-boekenmarkt-10-oktober-2026/"
+    },
+    {
+      "id": "mm-vintage-partijen-curiosa-nog-wat-nieuw-11-oktober-2026",
+      "title": "Vintage – partijen – curiosa – nog wat nieuw Ravels – 11 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-11T09:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/vintage-partijen-curiosa-nog-wat-nieuw-11-oktober-2026/"
+    },
+    {
+      "id": "mm-vintage-partijen-curiosa-nog-wat-nieuw-25-oktober-2026",
+      "title": "Vintage – partijen – curiosa – nog wat nieuw Ravels – 25 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-25T09:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/vintage-partijen-curiosa-nog-wat-nieuw-25-oktober-2026/"
+    },
+    {
+      "id": "mm-speelgoedmarkt-oosterhout-7-oktober-2026",
+      "title": "Speelgoedmarkt Oosterhout – 7 oktober 2026",
+      "category": "markt",
+      "lat": 51.64502866,
+      "lon": 4.86345273,
+      "date": "2026-10-07",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/speelgoedmarkt-oosterhout-7-oktober-2026/"
+    },
+    {
+      "id": "mm-graphic-works-2026-grafische-kunstbeurs-met-mini-workshops-18-oktober-2026",
+      "title": "Graphic Works 2026 Den Bosch – 18 oktober 2026",
+      "category": "evenement",
+      "lat": 52.56527553,
+      "lon": 4.99392357,
+      "date": "2026-10-18T11:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/graphic-works-2026-grafische-kunstbeurs-met-mini-workshops-18-oktober-2026/"
+    },
+    {
+      "id": "mm-boekambachtbeurs-10-oktober-2026",
+      "title": "BoekAmbachtBeurs Deventer – 10 oktober 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-10T10:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boekambachtbeurs-10-oktober-2026/"
+    },
+    {
+      "id": "mm-speelgoedmarkt-gelijklopend-met-de-tweedehandsbeurs-24-oktober-2026",
+      "title": "Speelgoedmarkt en tweedehandsbeurs Ternat – 24 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-24T14:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/speelgoedmarkt-gelijklopend-met-de-tweedehandsbeurs-24-oktober-2026/"
+    },
+    {
+      "id": "mm-tweedehandsbeurs-baby-kind-17-oktober-2026",
+      "title": "Tweedehandsbeurs Baby – Kind Boezinge – 17 oktober 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-17T13:30:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/tweedehandsbeurs-baby-kind-17-oktober-2026/"
+    },
+    {
+      "id": "mm-tweedehandsbeurs-najaar-binkom-24-oktober-2026",
+      "title": "Tweedehandsbeurs Najaar Binkom – 24 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-24T14:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/tweedehandsbeurs-najaar-binkom-24-oktober-2026/"
+    },
+    {
+      "id": "mm-de-tuindagen-van-beervelde-9-oktober-2026",
+      "title": "De Tuindagen van Beervelde – 9-11 oktober 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-09",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/de-tuindagen-van-beervelde-9-oktober-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-13249",
