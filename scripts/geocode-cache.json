@@ -4582,5 +4582,41 @@
   "Park van Beervelde, Beervelde": {
     "lat": 52.75180122,
     "lon": 5.96778501
+  },
+  "Centrum Appingedam, Appingedam": {
+    "lat": 53.31714113,
+    "lon": 6.84954546
+  },
+  "De Deel, Emmeloord, Emmeloord": {
+    "lat": 52.71031776,
+    "lon": 5.75228057
+  },
+  "Meerlo, Meerlo": {
+    "lat": 51.51131653,
+    "lon": 6.08763315
+  },
+  "Be Here Village Durable, Laeken": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Sporthal Higro, Mariakerke (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "De Boskapel, Zeist": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Zorgcentrum Simnia, Domburg": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Zalencentrum/Ontmoetingskerk, Oudewater": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Basisschool De Buut, Zoetermeer": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
   }
 }
