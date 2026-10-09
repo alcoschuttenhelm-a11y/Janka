@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-10-08T10:13:12.791Z",
+  "generatedAt": "2026-10-09T10:13:24.989Z",
   "events": [
-    {
-      "id": "mm-donderdagmarkt-middelburg-8-oktober-2026",
-      "title": "Donderdagmarkt Middelburg (Koorkerkplein) – 8 oktober 2026",
-      "category": "markt",
-      "lat": 51.50315836,
-      "lon": 3.65083605,
-      "date": "2026-10-08T10:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/donderdagmarkt-middelburg-8-oktober-2026/"
-    },
     {
       "id": "mm-stoffen-spektakel-rotterdam-9-oktober-2026",
       "title": "Stoffen Spektakel Rotterdam – 9 oktober 2026",
@@ -2142,6 +2132,16 @@
       "url": "https://marktenmeer.nl/markt/halloweenmarkt-den-helder-29-oktober-2026/"
     },
     {
+      "id": "mm-sunte-martn-30-oktober-2026",
+      "title": "Sunte Mart’n in Wierden – 30 oktober t/m 2 november 2026",
+      "category": "markt",
+      "lat": 52.34443901,
+      "lon": 6.56063185,
+      "date": "2026-10-30",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/sunte-martn-30-oktober-2026/"
+    },
+    {
       "id": "mm-vlooienmarkt-wormer-25-oktober-2026",
       "title": "Vlooienmarkt Wormer – 25 oktober 2026",
       "category": "markt",
@@ -2210,16 +2210,6 @@
       "date": "2026-10-23T19:30:00+02:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/lichtjesloop-23-oktober-2026/"
-    },
-    {
-      "id": "mm-dameskleding-ruilavond-junior-juweeltjes-8-oktober-2026",
-      "title": "Dameskleding ruilavond Junior Juweeltjes in Zwartsluis – 8 oktober 2026",
-      "category": "evenement",
-      "lat": 52.63901772,
-      "lon": 6.07616515,
-      "date": "2026-10-08",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/dameskleding-ruilavond-junior-juweeltjes-8-oktober-2026/"
     },
     {
       "id": "mm-zwarte-markt-oldambt-11-oktober-2026",
@@ -2840,6 +2830,16 @@
       "date": "2026-10-25T11:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/sunday-market-de-koepel-25-oktober-2026/"
+    },
+    {
+      "id": "mm-sunday-market-amstel-1-30-oktober-2026",
+      "title": "Sunday Market Amstel 1 Amsterdam – 30 oktober 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-30T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/sunday-market-amstel-1-30-oktober-2026/"
     },
     {
       "id": "mm-jaarmarkt-dendermonde-19-oktober-2026",
@@ -3582,16 +3582,6 @@
       "url": "https://marktenmeer.nl/markt/wagenberg-verkoopt-11-oktober-2026/"
     },
     {
-      "id": "mm-rommelmarkt-veiling-augustinusga-8-oktober-2026",
-      "title": "Rommelmarkt & veiling Augustinusga – 8 oktober 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-08T16:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/rommelmarkt-veiling-augustinusga-8-oktober-2026/"
-    },
-    {
       "id": "mm-kledingmarkt-10-oktober-10-oktober-2026",
       "title": "Kledingmarkt Rotterdam – 10 oktober 2026",
       "category": "markt",
@@ -3812,14 +3802,34 @@
       "url": "https://marktenmeer.nl/markt/biomarkt-mak-blokweer-25-oktober-2026/"
     },
     {
-      "id": "ec-evenementenlijst.nl-13249",
-      "title": "Vaassense Jaarmarkt 2026 donderdag 8 oktober 2026",
-      "category": "kermis",
+      "id": "mm-rommelmarkt-in-silvolde-10-oktober-2026",
+      "title": "Rommelmarkt Silvolde – 10 oktober 2026",
+      "category": "markt",
       "lat": 52.75180122,
       "lon": 5.96778501,
-      "date": "2026-10-08T10:00:00",
-      "source": "evenementenlijst.nl",
-      "url": "https://evenementenlijst.nl/evenement/vaassense-jaarmarkt-2026-donderdag-8-oktober-2026/"
+      "date": "2026-10-10T09:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-in-silvolde-10-oktober-2026/"
+    },
+    {
+      "id": "mm-2e-hands-speelgoedmarkt-winkelcentrum-wagnerplein-10-oktober-2026",
+      "title": "2e hands Speelgoedmarkt Winkelcentrum Wagnerplein Tilburg – 10 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-10T10:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/2e-hands-speelgoedmarkt-winkelcentrum-wagnerplein-10-oktober-2026/"
+    },
+    {
+      "id": "mm-platenbeurs-dommelhof-pelt-b-11-oktober-2026",
+      "title": "Platenbeurs Dommelhof Pelt – 11 oktober 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-11T11:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/platenbeurs-dommelhof-pelt-b-11-oktober-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-13256",

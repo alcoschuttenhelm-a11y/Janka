@@ -4742,5 +4742,25 @@
   "Lelystad, Centrum, Lelystad": {
     "lat": 52.54272549,
     "lon": 5.37476449
+  },
+  "Centrum Wierden, Wierden": {
+    "lat": 52.34443901,
+    "lon": 6.56063185
+  },
+  "Amstel 1 (Stopera), Amsterdam": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "De Sprank, Silvolde": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Winkelcentrum Wagnerplein, Tilburg": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Dommelhof, Pelt": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
   }
 }
