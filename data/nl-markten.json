@@ -1,26 +1,6 @@
 {
-  "generatedAt": "2026-10-12T10:26:16.581Z",
+  "generatedAt": "2026-10-13T10:15:48.716Z",
   "events": [
-    {
-      "id": "mm-jaarmarkt-baistemaart-winsum-12-oktober-2026",
-      "title": "Jaarmarkt Baistemaart Winsum – 12 oktober 2026",
-      "category": "braderie",
-      "lat": 53.14892154,
-      "lon": 5.63453066,
-      "date": "2026-10-12T09:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/jaarmarkt-baistemaart-winsum-12-oktober-2026/"
-    },
-    {
-      "id": "mm-wekelijkse-brocantemarkt-citadel-diest-12-oktober-2026",
-      "title": "Wekelijkse brocantemarkt Citadel Diest – 12 oktober 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-12T11:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/wekelijkse-brocantemarkt-citadel-diest-12-oktober-2026/"
-    },
     {
       "id": "mm-rommelmarkt-parking-ambulance-dienst-in-ramsel-13-oktober-2026",
       "title": "Rommelmarkt Parking Ambulance Dienst in Ramsel – 13 oktober 2026",
@@ -1822,6 +1802,26 @@
       "url": "https://marktenmeer.nl/markt/boekenmarkt-ossendrecht-1-november-2026/"
     },
     {
+      "id": "mm-rommelmarkt-parking-ambulance-dienst-in-ramsel-3-november-2026",
+      "title": "Rommelmarkt Parking Ambulance Dienst in Ramsel – 3 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-03T07:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-parking-ambulance-dienst-in-ramsel-3-november-2026/"
+    },
+    {
+      "id": "mm-speelgoedbeurs-bornem-3-november-2026",
+      "title": "Speelgoedbeurs Bornem – 3 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-03T13:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/speelgoedbeurs-bornem-3-november-2026/"
+    },
+    {
       "id": "mm-vlooienmarkt-wormer-25-oktober-2026",
       "title": "Vlooienmarkt Wormer – 25 oktober 2026",
       "category": "markt",
@@ -2030,16 +2030,6 @@
       "date": "2026-10-23T16:00:00+02:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/avondmarkt-lanaken-halloween-23-oktober-2026/"
-    },
-    {
-      "id": "mm-avondmarkt-serskamp-12-oktober-2026",
-      "title": "Avondmarkt Serskamp – 12 oktober 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-12T16:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/avondmarkt-serskamp-12-oktober-2026/"
     },
     {
       "id": "mm-herfst-craft-crea-fair-24-oktober-2026",
@@ -2992,6 +2982,36 @@
       "url": "https://marktenmeer.nl/markt/herfstbraderie-op-landal-kijkduin-20-oktober-2026/"
     },
     {
+      "id": "mm-pompoenmarkt-kasterlee-18-oktober-2026",
+      "title": "Pompoenmarkt Kasterlee – 18 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-18T10:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/pompoenmarkt-kasterlee-18-oktober-2026/"
+    },
+    {
+      "id": "mm-rommelmarkt-cultureel-centrum-eijsden-18-oktober-2026",
+      "title": "Rommelmarkt Eijsden – 18 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-18T09:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-cultureel-centrum-eijsden-18-oktober-2026/"
+    },
+    {
+      "id": "mm-het-rommelmarkt-seizoen-2026-2027-gaat-weer-beginnen-18-oktober-2026",
+      "title": "Rommelmarkt Oisterwijk – 18 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-18T09:30:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/het-rommelmarkt-seizoen-2026-2027-gaat-weer-beginnen-18-oktober-2026/"
+    },
+    {
       "id": "ec-evenementenlijst.nl-14930",
       "title": "Braderie zaterdag 17 oktober 2026 Centerparcs Zeewolde",
       "category": "braderie",
@@ -3040,16 +3060,6 @@
       "date": "2026-10-31T10:00:00",
       "source": "evenementenlijst.nl",
       "url": "https://evenementenlijst.nl/evenement/braderie-zaterdag-31-oktober-2026-langevoort-oegstgeest-zh/"
-    },
-    {
-      "id": "ec-wildro.nl-569",
-      "title": "Braderie Jaarmarkt Centrum Dwingeloo",
-      "category": "braderie",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-12T10:00:00",
-      "source": "wildro.nl",
-      "url": "https://wildro.nl/event/braderie-jaarmarkt-centrum-dwingeloo-2/"
     },
     {
       "id": "ec-wildro.nl-571",
