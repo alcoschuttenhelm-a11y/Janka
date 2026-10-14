@@ -1,26 +1,6 @@
 {
-  "generatedAt": "2026-10-13T10:15:48.716Z",
+  "generatedAt": "2026-10-14T08:30:19.645Z",
   "events": [
-    {
-      "id": "mm-rommelmarkt-parking-ambulance-dienst-in-ramsel-13-oktober-2026",
-      "title": "Rommelmarkt Parking Ambulance Dienst in Ramsel – 13 oktober 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-13T07:30:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/rommelmarkt-parking-ambulance-dienst-in-ramsel-13-oktober-2026/"
-    },
-    {
-      "id": "mm-vlooienmarkt-didam-13-oktober-2026",
-      "title": "Vlooienmarkt Markthallen Didam – Didam – 13 oktober 2026",
-      "category": "markt",
-      "lat": 51.94444982,
-      "lon": 6.13778939,
-      "date": "2026-10-13T09:30:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/vlooienmarkt-didam-13-oktober-2026/"
-    },
     {
       "id": "mm-ossenmarkt-putten-14-oktober-2026",
       "title": "Ossenmarkt in Putten – 14 oktober 2026",
@@ -610,16 +590,6 @@
       "date": "2026-10-18T10:00:00+02:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/cd-platenbeurs-alkmaar-18-oktober-2026/"
-    },
-    {
-      "id": "mm-pure-markt-amsterdamse-bos-18-oktober-2026",
-      "title": "Pure Markt Amsterdamse Bos – zondag 18 oktober 2026",
-      "category": "markt",
-      "lat": 52.3053332,
-      "lon": 4.82066033,
-      "date": "2026-10-18T11:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/pure-markt-amsterdamse-bos-18-oktober-2026/"
     },
     {
       "id": "mm-vlooienmarkt-schiedam-18-oktober-2026",
@@ -1822,6 +1792,26 @@
       "url": "https://marktenmeer.nl/markt/speelgoedbeurs-bornem-3-november-2026/"
     },
     {
+      "id": "mm-rommelmarkt-in-de-meeuw-amsterdam-4-november-2026",
+      "title": "Rommelmarkt in De Meeuw – Amsterdam – 4 november 2026",
+      "category": "markt",
+      "lat": 52.37344272,
+      "lon": 4.90454379,
+      "date": "2026-11-04T09:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-in-de-meeuw-amsterdam-4-november-2026/"
+    },
+    {
+      "id": "mm-braderie-najaarsmarkt-centrum-assen-4-november-2026",
+      "title": "Braderie Najaarsmarkt Centrum Assen – 4 november 2026",
+      "category": "braderie",
+      "lat": 53.00127298,
+      "lon": 6.55246624,
+      "date": "2026-11-04T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/braderie-najaarsmarkt-centrum-assen-4-november-2026/"
+    },
+    {
       "id": "mm-vlooienmarkt-wormer-25-oktober-2026",
       "title": "Vlooienmarkt Wormer – 25 oktober 2026",
       "category": "markt",
@@ -3012,6 +3002,36 @@
       "url": "https://marktenmeer.nl/markt/het-rommelmarkt-seizoen-2026-2027-gaat-weer-beginnen-18-oktober-2026/"
     },
     {
+      "id": "mm-pure-markt-amsterdamse-bos-18-oktober-2026",
+      "title": "GEANNULEERD: Pure Markt Amsterdamse Bos – zondag 18 oktober 2026",
+      "category": "markt",
+      "lat": 52.3053332,
+      "lon": 4.82066033,
+      "date": "2026-10-18T11:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/pure-markt-amsterdamse-bos-18-oktober-2026/"
+    },
+    {
+      "id": "mm-boekenmarkt-ontmoetingskerk-wilnis-14-oktober-2026",
+      "title": "Boekenmarkt Ontmoetingskerk Wilnis – 14 t/m 17 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-14",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boekenmarkt-ontmoetingskerk-wilnis-14-oktober-2026/"
+    },
+    {
+      "id": "mm-hallowieje-14-oktober-2026",
+      "title": "Hallowieje Wijhe – 14 t/m 17 oktober 2026",
+      "category": "markt",
+      "lat": 52.36678235,
+      "lon": 6.15334559,
+      "date": "2026-10-14",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/hallowieje-14-oktober-2026/"
+    },
+    {
       "id": "ec-evenementenlijst.nl-14930",
       "title": "Braderie zaterdag 17 oktober 2026 Centerparcs Zeewolde",
       "category": "braderie",
@@ -3090,6 +3110,16 @@
       "date": "2026-10-31T10:00:00",
       "source": "wildro.nl",
       "url": "https://wildro.nl/event/braderie-winkelcentrum-nobellaan-assen/"
+    },
+    {
+      "id": "ec-wildro.nl-612",
+      "title": "Braderie Najaarsmarkt Centrum Assen",
+      "category": "braderie",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-04T10:00:00",
+      "source": "wildro.nl",
+      "url": "https://wildro.nl/event/braderie-najaarsmarkt-centrum-assen/"
     }
   ]
 }
