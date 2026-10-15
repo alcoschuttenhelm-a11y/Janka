@@ -1,66 +1,6 @@
 {
-  "generatedAt": "2026-10-14T08:30:19.645Z",
+  "generatedAt": "2026-10-15T08:05:58.822Z",
   "events": [
-    {
-      "id": "mm-ossenmarkt-putten-14-oktober-2026",
-      "title": "Ossenmarkt in Putten – 14 oktober 2026",
-      "category": "markt",
-      "lat": 52.24390009,
-      "lon": 5.5826715,
-      "date": "2026-10-14T08:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/ossenmarkt-putten-14-oktober-2026/"
-    },
-    {
-      "id": "mm-stoffen-spektakel-hasselt-14-oktober-2026",
-      "title": "Stoffen Spektakel Hasselt – 14 oktober 2026",
-      "category": "evenement",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-14T09:30:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/stoffen-spektakel-hasselt-14-oktober-2026/"
-    },
-    {
-      "id": "mm-najaarsmarkt-oosterwolde-braderie-14-oktober-2026",
-      "title": "Braderie Najaarsmarkt Oosterwolde | Woensdag 14 oktober 2026 – Oosterwolde",
-      "category": "braderie",
-      "lat": 53.00185836,
-      "lon": 6.30548217,
-      "date": "2026-10-14T10:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/najaarsmarkt-oosterwolde-braderie-14-oktober-2026/"
-    },
-    {
-      "id": "mm-herfst-braderie-capfun-wondermolen-molenschot-14-oktober-2026",
-      "title": "Herfst Braderie Capfun Wondermolen – Molenschot – 14 oktober 2026",
-      "category": "braderie",
-      "lat": 51.56357172,
-      "lon": 4.88510824,
-      "date": "2026-10-14T10:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/herfst-braderie-capfun-wondermolen-molenschot-14-oktober-2026/"
-    },
-    {
-      "id": "mm-stoffenmarkt-apeldoorn-14-oktober-2026",
-      "title": "Stoffenmarkt Apeldoorn – 14 oktober 2026",
-      "category": "markt",
-      "lat": 52.21502659,
-      "lon": 5.96382254,
-      "date": "2026-10-14T11:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/stoffenmarkt-apeldoorn-14-oktober-2026/"
-    },
-    {
-      "id": "mm-de-heksenmarkt-midsland-14-oktober-2026",
-      "title": "De Heksenmarkt in Midsland – 14 oktober 2026",
-      "category": "markt",
-      "lat": 53.40085467,
-      "lon": 5.27860043,
-      "date": "2026-10-14T16:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/de-heksenmarkt-midsland-14-oktober-2026/"
-    },
     {
       "id": "mm-allerhande-herfstmarkt-hardenberg-15-oktober-2026",
       "title": "Allerhande Herfstmarkt Hardenberg – donderdag 15 oktober 2026",
@@ -1812,6 +1752,26 @@
       "url": "https://marktenmeer.nl/markt/braderie-najaarsmarkt-centrum-assen-4-november-2026/"
     },
     {
+      "id": "mm-leste-mert-druten-5-november-2026",
+      "title": "Leste Mert Druten – donderdag 5 november 2026",
+      "category": "markt",
+      "lat": 51.87501197,
+      "lon": 5.61214772,
+      "date": "2026-11-05T08:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/leste-mert-druten-5-november-2026/"
+    },
+    {
+      "id": "mm-de-smaak-van-deventer-5-november-2026",
+      "title": "De Smaak van Deventer in Deventer – 5 t/m 8 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-05T17:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/de-smaak-van-deventer-5-november-2026/"
+    },
+    {
       "id": "mm-vlooienmarkt-wormer-25-oktober-2026",
       "title": "Vlooienmarkt Wormer – 25 oktober 2026",
       "category": "markt",
@@ -3012,24 +2972,24 @@
       "url": "https://marktenmeer.nl/markt/pure-markt-amsterdamse-bos-18-oktober-2026/"
     },
     {
-      "id": "mm-boekenmarkt-ontmoetingskerk-wilnis-14-oktober-2026",
-      "title": "Boekenmarkt Ontmoetingskerk Wilnis – 14 t/m 17 oktober 2026",
-      "category": "markt",
+      "id": "mm-13de-groot-beurs-78-toeren-en-fonos-record-memory-club-24-oktober-2026-2",
+      "title": "Platenbeurs Jette (BE) – 24 oktober 2026",
+      "category": "evenement",
       "lat": 52.75180122,
       "lon": 5.96778501,
-      "date": "2026-10-14",
+      "date": "2026-10-24T11:00:00+02:00",
       "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/boekenmarkt-ontmoetingskerk-wilnis-14-oktober-2026/"
+      "url": "https://marktenmeer.nl/markt/13de-groot-beurs-78-toeren-en-fonos-record-memory-club-24-oktober-2026-2/"
     },
     {
-      "id": "mm-hallowieje-14-oktober-2026",
-      "title": "Hallowieje Wijhe – 14 t/m 17 oktober 2026",
-      "category": "markt",
-      "lat": 52.36678235,
-      "lon": 6.15334559,
-      "date": "2026-10-14",
+      "id": "mm-kinderkleding-en-speelgoedbeurs-boxtel-4-november-2026",
+      "title": "Kinderkleding- en speelgoedbeurs Boxtel – 4 november 2026",
+      "category": "evenement",
+      "lat": 51.58115372,
+      "lon": 5.32404125,
+      "date": "2026-11-04T19:30:00+01:00",
       "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/hallowieje-14-oktober-2026/"
+      "url": "https://marktenmeer.nl/markt/kinderkleding-en-speelgoedbeurs-boxtel-4-november-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-14930",
@@ -3080,16 +3040,6 @@
       "date": "2026-10-31T10:00:00",
       "source": "evenementenlijst.nl",
       "url": "https://evenementenlijst.nl/evenement/braderie-zaterdag-31-oktober-2026-langevoort-oegstgeest-zh/"
-    },
-    {
-      "id": "ec-wildro.nl-571",
-      "title": "Braderie Najaarsmarkt Centrum Oosterwolde",
-      "category": "braderie",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-14T10:00:00",
-      "source": "wildro.nl",
-      "url": "https://wildro.nl/event/braderie-herfstmarkt-centrum-oosterwolde/"
     },
     {
       "id": "ec-wildro.nl-842",
