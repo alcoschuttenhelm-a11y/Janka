@@ -1,26 +1,6 @@
 {
-  "generatedAt": "2026-10-15T08:05:58.822Z",
+  "generatedAt": "2026-10-16T07:59:30.276Z",
   "events": [
-    {
-      "id": "mm-allerhande-herfstmarkt-hardenberg-15-oktober-2026",
-      "title": "Allerhande Herfstmarkt Hardenberg – donderdag 15 oktober 2026",
-      "category": "markt",
-      "lat": 52.58564096,
-      "lon": 6.57413563,
-      "date": "2026-10-15T10:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/allerhande-herfstmarkt-hardenberg-15-oktober-2026/"
-    },
-    {
-      "id": "mm-donderdagmarkt-middelburg-15-oktober-2026",
-      "title": "Donderdagmarkt Middelburg (Koorkerkplein) – 15 oktober 2026",
-      "category": "markt",
-      "lat": 51.50315836,
-      "lon": 3.65083605,
-      "date": "2026-10-15T10:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/donderdagmarkt-middelburg-15-oktober-2026/"
-    },
     {
       "id": "mm-nederlandse-breidagen-nijkerk-16-en-17-oktober-2026",
       "title": "Nederlandse Breidagen Nijkerk – 16 en 17 oktober 2026",
@@ -1772,6 +1752,26 @@
       "url": "https://marktenmeer.nl/markt/de-smaak-van-deventer-5-november-2026/"
     },
     {
+      "id": "mm-winterfair-workum-in-workum-6-november-2026",
+      "title": "Winterfair Workum in Workum – 6 november 2026",
+      "category": "markt",
+      "lat": 52.97476196,
+      "lon": 5.40091456,
+      "date": "2026-11-06T15:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/winterfair-workum-in-workum-6-november-2026/"
+    },
+    {
+      "id": "mm-shoppingnight-anna-paulowna-6-november-2026",
+      "title": "Shoppingnight Anna Paulowna – 6 november 2026",
+      "category": "markt",
+      "lat": 52.86034354,
+      "lon": 4.83618732,
+      "date": "2026-11-06T18:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/shoppingnight-anna-paulowna-6-november-2026/"
+    },
+    {
       "id": "mm-vlooienmarkt-wormer-25-oktober-2026",
       "title": "Vlooienmarkt Wormer – 25 oktober 2026",
       "category": "markt",
@@ -1962,6 +1962,16 @@
       "url": "https://marktenmeer.nl/markt/vlooienmarkt-hoogvliet-25-oktober-2026/"
     },
     {
+      "id": "mm-amnesty-boeken-en-platenmarkt-6-november-2026",
+      "title": "Amnesty Boeken en Platenmarkt in Ulft – 6 november 2026",
+      "category": "markt",
+      "lat": 51.89623207,
+      "lon": 6.38337283,
+      "date": "2026-11-06T19:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/amnesty-boeken-en-platenmarkt-6-november-2026/"
+    },
+    {
       "id": "mm-avondmarkt-hoeselt-16-oktober-2026",
       "title": "Avondmarkt Hoeselt – 16 oktober 2026",
       "category": "markt",
@@ -2070,6 +2080,16 @@
       "date": "2026-10-18T10:00:00+02:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/tweedehandsbeurs-gezinsbond-schellebelle-18-oktober-2026/"
+    },
+    {
+      "id": "mm-winterfair-borssele-6-november-2026",
+      "title": "Winterfair Borssele op 6 november 2026",
+      "category": "evenement",
+      "lat": 51.42372166,
+      "lon": 3.73556669,
+      "date": "2026-11-06T16:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/winterfair-borssele-6-november-2026/"
     },
     {
       "id": "mm-snuffelmarkt-heelsum-31-oktober-2026",
@@ -2990,6 +3010,36 @@
       "date": "2026-11-04T19:30:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/kinderkleding-en-speelgoedbeurs-boxtel-4-november-2026/"
+    },
+    {
+      "id": "mm-bloemenmarkt-22-oktober-2026",
+      "title": "Bloemenmarkt Londerzeel – 22 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-22T09:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/bloemenmarkt-22-oktober-2026/"
+    },
+    {
+      "id": "mm-halloweenmarkt-hippolytushoef-30-oktober-2026",
+      "title": "Halloweenmarkt Hippolytushoef – 30 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-30T14:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/halloweenmarkt-hippolytushoef-30-oktober-2026/"
+    },
+    {
+      "id": "mm-adrillen-allerheiligenmarkt-2-november-2026",
+      "title": "Adrillen – Allerheiligenmarkt Winschoten – 2 november 2026",
+      "category": "markt",
+      "lat": 53.14063765,
+      "lon": 7.03498977,
+      "date": "2026-11-02T09:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/adrillen-allerheiligenmarkt-2-november-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-14930",

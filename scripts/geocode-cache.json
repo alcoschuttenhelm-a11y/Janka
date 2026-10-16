@@ -4978,5 +4978,25 @@
   "Excelsior, Jette (BE)": {
     "lat": 52.75180122,
     "lon": 5.96778501
+  },
+  "SSP-hal, DRU Industriepark, Ulft": {
+    "lat": 51.89623207,
+    "lon": 6.38337283
+  },
+  "Plein, Borssele": {
+    "lat": 51.42372166,
+    "lon": 3.73556669
+  },
+  "Boerderij Guido Robberechts en Nancy De Moor, Londerzeel (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Kerkplein, Hippolytushoef": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Binnenstad van Winschoten, Winschoten": {
+    "lat": 53.14063765,
+    "lon": 7.03498977
   }
 }
