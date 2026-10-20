@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T08:37:07.895Z",
+  "generatedAt": "2026-10-20T08:18:21.064Z",
   "events": [
     {
       "id": "mm-rommelmarkt-domein-den-asberg-in-westerlo-24-oktober-2026",
@@ -40,16 +40,6 @@
       "date": "2026-10-24T09:00:00+02:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/grote-vlooienmarkt-dalfsen-24-oktober-2026/"
-    },
-    {
-      "id": "mm-wekelijkse-brocantemarkt-citadel-diest-19-oktober-2026",
-      "title": "Wekelijkse brocantemarkt Citadel Diest – 19 oktober 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-19T11:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/wekelijkse-brocantemarkt-citadel-diest-19-oktober-2026/"
     },
     {
       "id": "mm-maandelijkse-markt-in-st-vith-20-oktober-2026",
@@ -550,16 +540,6 @@
       "date": "2026-10-25T11:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/struunnmarkt-diever-25-oktober-2026/"
-    },
-    {
-      "id": "mm-suikermarkt-vintage-curiosa-bij-em2-groningen-25-oktober-2026",
-      "title": "Suikermarkt – Vintage & Curiosa bij EM2 Groningen | 25 oktober 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-25T11:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/suikermarkt-vintage-curiosa-bij-em2-groningen-25-oktober-2026/"
     },
     {
       "id": "mm-de-helmondse-platenmarkt-tijdens-bluesroute-helmond-25-oktober-2026",
@@ -1552,6 +1532,16 @@
       "url": "https://marktenmeer.nl/markt/braderie-ganzenmarkt-centrum-coevorden-9-november-2026/"
     },
     {
+      "id": "mm-rommelmarkt-parking-ambulance-dienst-in-ramsel-10-november-2026",
+      "title": "Rommelmarkt Parking Ambulance Dienst in Ramsel – 10 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-10T07:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-parking-ambulance-dienst-in-ramsel-10-november-2026/"
+    },
+    {
       "id": "mm-vlooienmarkt-wormer-25-oktober-2026",
       "title": "Vlooienmarkt Wormer – 25 oktober 2026",
       "category": "markt",
@@ -1960,16 +1950,6 @@
       "date": "2026-10-30T11:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/sunday-market-amstel-1-30-oktober-2026/"
-    },
-    {
-      "id": "mm-jaarmarkt-dendermonde-19-oktober-2026",
-      "title": "Jaarmarkt Dendermonde – 19 oktober 2026",
-      "category": "kermis",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-19T08:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/jaarmarkt-dendermonde-19-oktober-2026/"
     },
     {
       "id": "mm-boekenmarkt-wieringerwaard-31-oktober-2026",
@@ -2752,14 +2732,24 @@
       "url": "https://marktenmeer.nl/markt/herfstfair-oosterwijtwerd-24-oktober-2026/"
     },
     {
-      "id": "mm-kerstmarkt-huldenberg-19-oktober-2026",
-      "title": "Kerstmarkt Huldenberg – 19 december",
+      "id": "mm-suikermarkt-vintage-curiosa-bij-em2-groningen-25-oktober-2026",
+      "title": "GEANNULEERD: Suikermarkt – Vintage & Curiosa bij EM2 Groningen | 25 oktober 2026",
       "category": "markt",
       "lat": 52.75180122,
       "lon": 5.96778501,
-      "date": "2026-12-19T16:00:00+01:00",
+      "date": "2026-10-25T11:00:00+01:00",
       "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/kerstmarkt-huldenberg-19-oktober-2026/"
+      "url": "https://marktenmeer.nl/markt/suikermarkt-vintage-curiosa-bij-em2-groningen-25-oktober-2026/"
+    },
+    {
+      "id": "mm-halloweekend-in-eibergen-30-oktober-2026",
+      "title": "Halloweekend Eibergen – 30 oktober t/m 1 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-30T18:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/halloweekend-in-eibergen-30-oktober-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-14932",
