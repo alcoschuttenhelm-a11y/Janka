@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T08:18:21.064Z",
+  "generatedAt": "2026-10-21T08:21:57.950Z",
   "events": [
     {
       "id": "mm-rommelmarkt-domein-den-asberg-in-westerlo-24-oktober-2026",
@@ -40,46 +40,6 @@
       "date": "2026-10-24T09:00:00+02:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/grote-vlooienmarkt-dalfsen-24-oktober-2026/"
-    },
-    {
-      "id": "mm-maandelijkse-markt-in-st-vith-20-oktober-2026",
-      "title": "Maandelijkse Markt in St. Vith – 20 oktober 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-20T07:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/maandelijkse-markt-in-st-vith-20-oktober-2026/"
-    },
-    {
-      "id": "mm-rommelmarkt-parking-ambulance-dienst-in-ramsel-20-oktober-2026",
-      "title": "Rommelmarkt Parking Ambulance Dienst in Ramsel – 20 oktober 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-20T07:30:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/rommelmarkt-parking-ambulance-dienst-in-ramsel-20-oktober-2026/"
-    },
-    {
-      "id": "mm-jaarmarkt-centrum-rijen-20-oktober-2026",
-      "title": "Jaarmarkt Centrum Rijen – dinsdag 20 oktober 2026",
-      "category": "markt",
-      "lat": 51.55958578,
-      "lon": 4.91857499,
-      "date": "2026-10-20T09:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/jaarmarkt-centrum-rijen-20-oktober-2026/"
-    },
-    {
-      "id": "mm-herfstmarkt-zoutelande-20-oktober-2026",
-      "title": "Herfstmarkt Zoutelande – dinsdag 20 oktober 2026",
-      "category": "markt",
-      "lat": 51.50967806,
-      "lon": 3.48572139,
-      "date": "2026-10-20T10:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/herfstmarkt-zoutelande-20-oktober-2026/"
     },
     {
       "id": "mm-stoffen-spektakel-nijkerk-21-oktober-2026",
@@ -1542,6 +1502,56 @@
       "url": "https://marktenmeer.nl/markt/rommelmarkt-parking-ambulance-dienst-in-ramsel-10-november-2026/"
     },
     {
+      "id": "mm-cd-platenbeurs-11-november-2026",
+      "title": "CD & Platenbeurs in Tielt – 11 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-11",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/cd-platenbeurs-11-november-2026/"
+    },
+    {
+      "id": "mm-najaarsmarkt-in-hoorn-11-november-2026",
+      "title": "Najaarsmarkt in Hoorn – 11 november 2026",
+      "category": "markt",
+      "lat": 52.62993233,
+      "lon": 5.07192464,
+      "date": "2026-11-11T09:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/najaarsmarkt-in-hoorn-11-november-2026/"
+    },
+    {
+      "id": "mm-stoffen-spektakel-kortrijk-11-november-2026",
+      "title": "Stoffen Spektakel Kortrijk – 11 november 2026",
+      "category": "markt",
+      "lat": 52.34339156,
+      "lon": 4.80233902,
+      "date": "2026-11-11T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/stoffen-spektakel-kortrijk-11-november-2026/"
+    },
+    {
+      "id": "mm-stoffenmarkt-turnhout-11-november-2026",
+      "title": "Stoffenmarkt Turnhout – 11 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-11T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/stoffenmarkt-turnhout-11-november-2026/"
+    },
+    {
+      "id": "mm-tweedehandsbeurs-vosselaar-11-november-2026",
+      "title": "Tweedehandsbeurs voor Spelletjes en Boeken Vosselaar – 11 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-11T13:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/tweedehandsbeurs-vosselaar-11-november-2026/"
+    },
+    {
       "id": "mm-vlooienmarkt-wormer-25-oktober-2026",
       "title": "Vlooienmarkt Wormer – 25 oktober 2026",
       "category": "markt",
@@ -2022,16 +2032,6 @@
       "url": "https://marktenmeer.nl/markt/mini-verzamelmarkt-oktober-kindermaand-24-oktober-2026/"
     },
     {
-      "id": "mm-zuidlaardermarkt-20-oktober-2026",
-      "title": "Zuidlaardermarkt Zuidlaren – 20 oktober 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-20T06:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/zuidlaardermarkt-20-oktober-2026/"
-    },
-    {
       "id": "mm-boekenbeurs-zutphen-2026-8-november-2026",
       "title": "Boekenbeurs Zutphen – 8 november 2026",
       "category": "evenement",
@@ -2362,16 +2362,6 @@
       "url": "https://marktenmeer.nl/markt/jaarlijkse-pennemes-bazaar-7-november-2026/"
     },
     {
-      "id": "mm-herfstbraderie-op-landal-kijkduin-20-oktober-2026",
-      "title": "Herfstbraderie op Landal Kijkduin – 20 oktober 2026",
-      "category": "braderie",
-      "lat": 51.7420112,
-      "lon": 3.79100415,
-      "date": "2026-10-20T10:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/herfstbraderie-op-landal-kijkduin-20-oktober-2026/"
-    },
-    {
       "id": "mm-binnen-rommelmarkt-8-november-2026",
       "title": "Binnen rommelmarkt Heist-aan-zee – 8 november 2026",
       "category": "markt",
@@ -2420,6 +2410,16 @@
       "date": "2026-11-07T09:30:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/antiek-rommelmarkt-te-deinze-7-november-2026/"
+    },
+    {
+      "id": "mm-antiek-rommelmarkt-te-tielt-11-november-2026",
+      "title": "Antiek & Rommelmarkt Tielt – 11 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-11T09:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/antiek-rommelmarkt-te-tielt-11-november-2026/"
     },
     {
       "id": "mm-binnen-rommelmarkt-8-november-2026-2",
@@ -2510,6 +2510,16 @@
       "date": "2026-11-01T08:30:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/kerst-rommelmarkt-booischot-1-november-2026/"
+    },
+    {
+      "id": "mm-bric-a-brac-de-letrange-11-november-2026",
+      "title": "Bric a Brac de l'étrange Saint-Gilles – 11 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-11T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/bric-a-brac-de-letrange-11-november-2026/"
     },
     {
       "id": "mm-postzegel-en-muntenbeurs-veldhoven-oerle-25-oktober-2026",
@@ -2750,6 +2760,16 @@
       "date": "2026-10-30T18:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/halloweekend-in-eibergen-30-oktober-2026/"
+    },
+    {
+      "id": "mm-garageverkoop-op-de-slek-25-oktober-2026",
+      "title": "Garageverkoop op de Slek Echt – 25 oktober 2026",
+      "category": "evenement",
+      "lat": 51.08742753,
+      "lon": 5.88421893,
+      "date": "2026-10-25T09:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/garageverkoop-op-de-slek-25-oktober-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-14932",

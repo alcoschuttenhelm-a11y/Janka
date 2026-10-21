@@ -5306,5 +5306,33 @@
   "Centrum, Eibergen": {
     "lat": 52.75180122,
     "lon": 5.96778501
+  },
+  "Europahal JOC, Tielt": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Kortrijk XPO hal 6, Kortrijk": {
+    "lat": 52.34339156,
+    "lon": 4.80233902
+  },
+  "Grote Markt, Turnhout": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Vosselaar (BE), Vosselaar": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Europahal, Tielt (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Centre d'Art Fantastique, Saint-Gilles": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Haverbeekstraat 6, Echt": {
+    "lat": 51.08742753,
+    "lon": 5.88421893
   }
 }
