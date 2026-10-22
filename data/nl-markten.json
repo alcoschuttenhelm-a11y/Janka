@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T08:21:57.950Z",
+  "generatedAt": "2026-10-22T08:25:03.102Z",
   "events": [
     {
       "id": "mm-rommelmarkt-domein-den-asberg-in-westerlo-24-oktober-2026",
@@ -40,26 +40,6 @@
       "date": "2026-10-24T09:00:00+02:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/grote-vlooienmarkt-dalfsen-24-oktober-2026/"
-    },
-    {
-      "id": "mm-stoffen-spektakel-nijkerk-21-oktober-2026",
-      "title": "Stoffen Spektakel Nijkerk – 21 oktober 2026",
-      "category": "evenement",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-21T09:30:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/stoffen-spektakel-nijkerk-21-oktober-2026/"
-    },
-    {
-      "id": "mm-herfst-braderie-capfun-wondermolen-molenschot-21-oktober-2026",
-      "title": "Herfst Braderie Capfun Wondermolen – Molenschot – 21 oktober 2026",
-      "category": "braderie",
-      "lat": 51.56357172,
-      "lon": 4.88510824,
-      "date": "2026-10-21T10:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/herfst-braderie-capfun-wondermolen-molenschot-21-oktober-2026/"
     },
     {
       "id": "mm-oener-koefeest-22-oktober-2026",
@@ -1552,6 +1532,26 @@
       "url": "https://marktenmeer.nl/markt/tweedehandsbeurs-vosselaar-11-november-2026/"
     },
     {
+      "id": "mm-the-kick-off-utrecht-12-november-2026",
+      "title": "The Kick Off – Utrecht – 12 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-12T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/the-kick-off-utrecht-12-november-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-nkhr-12-november-2026",
+      "title": "Noorse Kerstmarkt NKHR in Rotterdam – 12 t/m 15 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-12T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-nkhr-12-november-2026/"
+    },
+    {
       "id": "mm-vlooienmarkt-wormer-25-oktober-2026",
       "title": "Vlooienmarkt Wormer – 25 oktober 2026",
       "category": "markt",
@@ -1560,16 +1560,6 @@
       "date": "2026-10-25T11:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/vlooienmarkt-wormer-25-oktober-2026/"
-    },
-    {
-      "id": "mm-trotsmarkt-in-de-kasteeltuin-25-oktober-2026",
-      "title": "Trotsmarkt in de Kasteeltuin in Wijchen – 25-10-2026",
-      "category": "markt",
-      "lat": 51.81673503,
-      "lon": 5.70191338,
-      "date": "2026-10-25T12:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/trotsmarkt-in-de-kasteeltuin-25-oktober-2026/"
     },
     {
       "id": "mm-herfstfair-24-oktober-2026",
@@ -1610,16 +1600,6 @@
       "date": "2026-10-31T11:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/boekenmarkt-kursief-31-oktober-2026/"
-    },
-    {
-      "id": "mm-najaarsmarkt-delfzijl-21-oktober-2026",
-      "title": "Najaarsmarkt Delfzijl – 21 oktober 2026",
-      "category": "markt",
-      "lat": 53.36024875,
-      "lon": 6.9523714,
-      "date": "2026-10-21T12:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/najaarsmarkt-delfzijl-21-oktober-2026/"
     },
     {
       "id": "mm-rommelmarkt-antiekmarkt-gaasbeek-in-lennik-25-oktober-2026",
@@ -2770,6 +2750,46 @@
       "date": "2026-10-25T09:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/garageverkoop-op-de-slek-25-oktober-2026/"
+    },
+    {
+      "id": "mm-wintermarkt-in-de-kas-1-november-2026",
+      "title": "Wintermarkt in de Kas Kraggenburg – 1 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-01T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/wintermarkt-in-de-kas-1-november-2026/"
+    },
+    {
+      "id": "mm-hubertusmarkt-gulpen-7-november-2026",
+      "title": "Hubertusmarkt Gulpen – 7 november 2026",
+      "category": "markt",
+      "lat": 50.8023435,
+      "lon": 5.90014363,
+      "date": "2026-11-07T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/hubertusmarkt-gulpen-7-november-2026/"
+    },
+    {
+      "id": "mm-trotsmarkt-in-de-kasteeltuin-25-oktober-2026",
+      "title": "GEANNULEERD: Trotsmarkt in de Kasteeltuin in Wijchen – 25-10-2026",
+      "category": "markt",
+      "lat": 51.81673503,
+      "lon": 5.70191338,
+      "date": "2026-10-25T12:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/trotsmarkt-in-de-kasteeltuin-25-oktober-2026/"
+    },
+    {
+      "id": "mm-speelgoedmarkt-22-oktober-2026",
+      "title": "Speelgoedmarkt Breukelen – 22 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-22T13:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/speelgoedmarkt-22-oktober-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-14932",

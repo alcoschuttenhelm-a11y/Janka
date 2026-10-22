@@ -5334,5 +5334,25 @@
   "Haverbeekstraat 6, Echt": {
     "lat": 51.08742753,
     "lon": 5.88421893
+  },
+  "The Kick Off, Utrecht, Utrecht": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "NKHR, Rotterdam, Rotterdam": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "de Kas, Recreatiepark Netl, Kraggenburg": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Centrum Gulpen, Gulpen": {
+    "lat": 50.8023435,
+    "lon": 5.90014363
+  },
+  "Bonifatiushuis, Breukelen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
   }
 }
