@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T08:25:03.102Z",
+  "generatedAt": "2026-10-23T08:21:47.920Z",
   "events": [
     {
       "id": "mm-rommelmarkt-domein-den-asberg-in-westerlo-24-oktober-2026",
@@ -40,26 +40,6 @@
       "date": "2026-10-24T09:00:00+02:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/grote-vlooienmarkt-dalfsen-24-oktober-2026/"
-    },
-    {
-      "id": "mm-oener-koefeest-22-oktober-2026",
-      "title": "Oener Koefeest in Oene – 22 oktober 2026",
-      "category": "evenement",
-      "lat": 52.34513311,
-      "lon": 6.05542594,
-      "date": "2026-10-22T08:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/oener-koefeest-22-oktober-2026/"
-    },
-    {
-      "id": "mm-donderdagmarkt-middelburg-22-oktober-2026",
-      "title": "Donderdagmarkt Middelburg (Koorkerkplein) – 22 oktober 2026",
-      "category": "markt",
-      "lat": 51.50315836,
-      "lon": 3.65083605,
-      "date": "2026-10-22T10:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/donderdagmarkt-middelburg-22-oktober-2026/"
     },
     {
       "id": "mm-seizoensmarkt-delflandplein-in-amsterdam-23-oktober-2026",
@@ -1552,6 +1532,36 @@
       "url": "https://marktenmeer.nl/markt/kerstmarkt-nkhr-12-november-2026/"
     },
     {
+      "id": "mm-winterland-hasselt-13-november-2026",
+      "title": "Winterland Hasselt (BE) – 13 november 2026 – 4 januari 2027",
+      "category": "markt",
+      "lat": 52.58016863,
+      "lon": 6.10586942,
+      "date": "2026-11-13",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/winterland-hasselt-13-november-2026/"
+    },
+    {
+      "id": "mm-winterglow-valkenburg-13-november-2026",
+      "title": "WinterGlow Valkenburg – 13 november 2026 t/m 3 januari 2027",
+      "category": "evenement",
+      "lat": 50.8630853,
+      "lon": 5.83388276,
+      "date": "2026-11-13",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/winterglow-valkenburg-13-november-2026/"
+    },
+    {
+      "id": "mm-marche-de-noel-13-november-2026",
+      "title": "Marché de Noël in Denée – 13 november t/m 20 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-13T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/marche-de-noel-13-november-2026/"
+    },
+    {
       "id": "mm-vlooienmarkt-wormer-25-oktober-2026",
       "title": "Vlooienmarkt Wormer – 25 oktober 2026",
       "category": "markt",
@@ -2422,16 +2432,6 @@
       "url": "https://marktenmeer.nl/markt/kinderkleding-en-speelgoedbeurs-boxtel-4-november-2026/"
     },
     {
-      "id": "mm-bloemenmarkt-22-oktober-2026",
-      "title": "Bloemenmarkt Londerzeel – 22 oktober 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-22T09:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/bloemenmarkt-22-oktober-2026/"
-    },
-    {
       "id": "mm-halloweenmarkt-hippolytushoef-30-oktober-2026",
       "title": "Halloweenmarkt Hippolytushoef – 30 oktober 2026",
       "category": "markt",
@@ -2450,6 +2450,16 @@
       "date": "2026-11-02T09:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/adrillen-allerheiligenmarkt-2-november-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-essen-13-november-2026",
+      "title": "Kerstmarkt Essen – 13 november t/m 23 december 2026",
+      "category": "markt",
+      "lat": 53.19057673,
+      "lon": 6.60299639,
+      "date": "2026-11-13",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-essen-13-november-2026/"
     },
     {
       "id": "mm-vlooienmarkt-de-vaart-1-november-2026",
@@ -2510,6 +2520,16 @@
       "date": "2026-10-25T09:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/postzegel-en-muntenbeurs-veldhoven-oerle-25-oktober-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-fluweelengrot-valkenburg-13-november-2026",
+      "title": "Kerstmarkt Fluweelengrot Valkenburg – 13 november t/m 30 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-13",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-fluweelengrot-valkenburg-13-november-2026/"
     },
     {
       "id": "mm-peters-huis-woondag-24-oktober-2026",
@@ -2782,14 +2802,104 @@
       "url": "https://marktenmeer.nl/markt/trotsmarkt-in-de-kasteeltuin-25-oktober-2026/"
     },
     {
-      "id": "mm-speelgoedmarkt-22-oktober-2026",
-      "title": "Speelgoedmarkt Breukelen – 22 oktober 2026",
+      "id": "mm-boekenmarkt-kursief-31-oktober-2026-2",
+      "title": "Boekenmarkt Kursief Wilrijk – 31 oktober 2026",
+      "category": "markt",
+      "lat": 51.4559931,
+      "lon": 3.77285408,
+      "date": "2026-10-31T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boekenmarkt-kursief-31-oktober-2026-2/"
+    },
+    {
+      "id": "mm-brocante-halloween-la-recuperatheque-29-oktober-2026",
+      "title": "Brocante – Halloween La Récupérathèque Koekelberg – 29 oktober 2026",
       "category": "markt",
       "lat": 52.75180122,
       "lon": 5.96778501,
-      "date": "2026-10-22T13:00:00+02:00",
+      "date": "2026-10-29T18:00:00+01:00",
       "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/speelgoedmarkt-22-oktober-2026/"
+      "url": "https://marktenmeer.nl/markt/brocante-halloween-la-recuperatheque-29-oktober-2026/"
+    },
+    {
+      "id": "mm-speelgoedbeurs-duiven-31-oktober-2026",
+      "title": "Speelgoedbeurs Duiven – 31 oktober 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-31T12:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/speelgoedbeurs-duiven-31-oktober-2026/"
+    },
+    {
+      "id": "mm-boekenmarkt-oostwold-7-november-2026",
+      "title": "Boekenmarkt Oostwold – 7 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-07T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boekenmarkt-oostwold-7-november-2026/"
+    },
+    {
+      "id": "mm-rommelmarkt-wijkhuis-de-wieken-1-november-2026",
+      "title": "Rommelmarkt Wijkhuis De Wieken Roosendaal – 1 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-01T10:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-wijkhuis-de-wieken-1-november-2026/"
+    },
+    {
+      "id": "mm-najaars-tweedehandsbeurs-en-speelgoedbeurs-7-november-2026",
+      "title": "Najaars tweedehandsbeurs en speelgoedbeurs Ekeren – 7 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-07T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/najaars-tweedehandsbeurs-en-speelgoedbeurs-7-november-2026/"
+    },
+    {
+      "id": "mm-tweedehandsbeurs-voor-kinderkleding-en-speelgoed-8-november-2026",
+      "title": "Tweedehandsbeurs voor kinderkleding en speelgoed Lommel – 8 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-08T14:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/tweedehandsbeurs-voor-kinderkleding-en-speelgoed-8-november-2026/"
+    },
+    {
+      "id": "mm-wekelijkse-rommelmarkt-lokeren-1-november-2026",
+      "title": "Wekelijkse rommelmarkt Lokeren",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-01T07:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/wekelijkse-rommelmarkt-lokeren-1-november-2026/"
+    },
+    {
+      "id": "mm-brocante-dautomne-brocante-au-profit-de-lasbl-compagnons-depanneurs-11-november-2026",
+      "title": "Brocante d'Automne Saint-Gilles – 11 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-11T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/brocante-dautomne-brocante-au-profit-de-lasbl-compagnons-depanneurs-11-november-2026/"
+    },
+    {
+      "id": "mm-gezellige-binnenrommelmarkt-11-november-2026",
+      "title": "Binnenrommelmarkt Aarschot – 11 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-11T09:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/gezellige-binnenrommelmarkt-11-november-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-14932",
