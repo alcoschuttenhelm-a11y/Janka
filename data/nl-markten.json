@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T08:21:47.920Z",
+  "generatedAt": "2026-10-24T07:58:51.426Z",
   "events": [
     {
       "id": "mm-rommelmarkt-domein-den-asberg-in-westerlo-24-oktober-2026",
@@ -40,16 +40,6 @@
       "date": "2026-10-24T09:00:00+02:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/grote-vlooienmarkt-dalfsen-24-oktober-2026/"
-    },
-    {
-      "id": "mm-seizoensmarkt-delflandplein-in-amsterdam-23-oktober-2026",
-      "title": "Seizoensmarkt Delflandplein in Amsterdam – 23 oktober 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-23T10:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/seizoensmarkt-delflandplein-in-amsterdam-23-oktober-2026/"
     },
     {
       "id": "mm-antiek-en-brocantemarkt-hasselt-24-oktober-2026",
@@ -120,16 +110,6 @@
       "date": "2026-10-24T10:00:00+02:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/disneymarkt-hoensbroek-24-oktober-2026/"
-    },
-    {
-      "id": "mm-herfstmarkt-puttershoek-24-oktober-2026",
-      "title": "Herfstmarkt Puttershoek – 24 oktober 2026",
-      "category": "markt",
-      "lat": 51.8016656,
-      "lon": 4.56277737,
-      "date": "2026-10-24T10:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/herfstmarkt-puttershoek-24-oktober-2026/"
     },
     {
       "id": "mm-herfstmarkt-callantsoog-25-oktober-2026",
@@ -1562,6 +1542,136 @@
       "url": "https://marktenmeer.nl/markt/marche-de-noel-13-november-2026/"
     },
     {
+      "id": "mm-sinterklaasintocht-ouddorp-14-november-2026",
+      "title": "Sinterklaasintocht Ouddorp – 14 november 2026",
+      "category": "evenement",
+      "lat": 51.80043096,
+      "lon": 3.94273302,
+      "date": "2026-11-14",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/sinterklaasintocht-ouddorp-14-november-2026/"
+    },
+    {
+      "id": "mm-antiek-en-rommelmarkt-koning-albertplein-in-hamme-14-november-2026",
+      "title": "Antiek- en rommelmarkt Koning Albertplein in Hamme – 14 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-14T08:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/antiek-en-rommelmarkt-koning-albertplein-in-hamme-14-november-2026/"
+    },
+    {
+      "id": "mm-weerselose-markt-zaterdagmarkt-in-weerselo-14-november-2026",
+      "title": "Weerselose Markt zaterdagmarkt in Weerselo – 14 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-14T08:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/weerselose-markt-zaterdagmarkt-in-weerselo-14-november-2026/"
+    },
+    {
+      "id": "mm-kadomarkt-vinkenplein-bilthoven-14-november-2026",
+      "title": "Kadomarkt Vinkenplein Bilthoven – zaterdag 14 november 2026 | Bilthoven",
+      "category": "markt",
+      "lat": 52.1286528,
+      "lon": 5.20627894,
+      "date": "2026-11-14T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kadomarkt-vinkenplein-bilthoven-14-november-2026/"
+    },
+    {
+      "id": "mm-najaarsbraderie-baarn-14-november-2026",
+      "title": "Najaarsbraderie Baarn – Brink & Laanstraat | 14 november 2026",
+      "category": "braderie",
+      "lat": 52.20712881,
+      "lon": 5.27134105,
+      "date": "2026-11-14T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/najaarsbraderie-baarn-14-november-2026/"
+    },
+    {
+      "id": "mm-boekenmarkt-ringvaartkerk-in-nieuwerkerk-aan-den-ijssel-14-november-2026",
+      "title": "Boekenmarkt Ringvaartkerk in Nieuwerkerk aan den IJssel – 14 november 2026",
+      "category": "markt",
+      "lat": 51.96558666,
+      "lon": 4.61830127,
+      "date": "2026-11-14T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boekenmarkt-ringvaartkerk-in-nieuwerkerk-aan-den-ijssel-14-november-2026/"
+    },
+    {
+      "id": "mm-leute-op-de-markt-geschenkenmarktje-14-november-2026",
+      "title": "Leute op de Markt – Geschenkenmarktje in Brugge – 14 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-14T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/leute-op-de-markt-geschenkenmarktje-14-november-2026/"
+    },
+    {
+      "id": "mm-verzamelbeurs-alblasserdam-14-november-2026",
+      "title": "Algemene verzamelbeurs Alblasserdam – zaterdag 14 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-14T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/verzamelbeurs-alblasserdam-14-november-2026/"
+    },
+    {
+      "id": "mm-landelijke-intocht-van-sinterklaas-14-november-2026",
+      "title": "Landelijke intocht van Sinterklaas in Grave – 14 november 2026",
+      "category": "evenement",
+      "lat": 51.76069505,
+      "lon": 5.74144394,
+      "date": "2026-11-14T12:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/landelijke-intocht-van-sinterklaas-14-november-2026/"
+    },
+    {
+      "id": "mm-sinterklaasintocht-zevenbergen-14-november-2026",
+      "title": "Sinterklaasintocht Zevenbergen – 14 november 2026",
+      "category": "evenement",
+      "lat": 51.64841993,
+      "lon": 4.60525576,
+      "date": "2026-11-14T13:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/sinterklaasintocht-zevenbergen-14-november-2026/"
+    },
+    {
+      "id": "mm-intocht-sinterklaas-bergen-op-zoom-14-november-2026",
+      "title": "Intocht Sinterklaas Bergen op Zoom – 14 november 2026",
+      "category": "evenement",
+      "lat": 51.48958551,
+      "lon": 4.29725393,
+      "date": "2026-11-14T13:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/intocht-sinterklaas-bergen-op-zoom-14-november-2026/"
+    },
+    {
+      "id": "mm-sinterklaasintocht-middelharnis-14-november-2026",
+      "title": "Sinterklaasintocht Middelharnis – 14 november 2026",
+      "category": "evenement",
+      "lat": 51.75945013,
+      "lon": 4.19773081,
+      "date": "2026-11-14T14:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/sinterklaasintocht-middelharnis-14-november-2026/"
+    },
+    {
+      "id": "mm-intocht-sinterklaas-14-november-2026",
+      "title": "Intocht Sinterklaas in Voorthuizen – 14 november 2026",
+      "category": "evenement",
+      "lat": 52.18659368,
+      "lon": 5.6077449,
+      "date": "2026-11-14T15:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/intocht-sinterklaas-14-november-2026/"
+    },
+    {
       "id": "mm-vlooienmarkt-wormer-25-oktober-2026",
       "title": "Vlooienmarkt Wormer – 25 oktober 2026",
       "category": "markt",
@@ -1592,16 +1702,6 @@
       "url": "https://marktenmeer.nl/markt/gezellige-rommelmarkt-teunenberg-7-november-2026/"
     },
     {
-      "id": "mm-lichtjesloop-23-oktober-2026",
-      "title": "Lichtjesloop in Den Helder – 23 oktober 2026",
-      "category": "evenement",
-      "lat": 52.93997585,
-      "lon": 4.78522541,
-      "date": "2026-10-23T19:30:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/lichtjesloop-23-oktober-2026/"
-    },
-    {
       "id": "mm-boekenmarkt-kursief-31-oktober-2026",
       "title": "Boekenmarkt Kursief in Wilrijk – 31 oktober 2026",
       "category": "markt",
@@ -1610,6 +1710,26 @@
       "date": "2026-10-31T11:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/boekenmarkt-kursief-31-oktober-2026/"
+    },
+    {
+      "id": "mm-sinterklaasintocht-14-november-2026",
+      "title": "Sinterklaasintocht in Putten – 14 november 2026",
+      "category": "evenement",
+      "lat": 52.2615377,
+      "lon": 5.60676861,
+      "date": "2026-11-14T14:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/sinterklaasintocht-14-november-2026/"
+    },
+    {
+      "id": "mm-intocht-sinterklaas-14-november-2026-2",
+      "title": "Intocht Sinterklaas in Oud-Beijerland – 14 november 2026",
+      "category": "evenement",
+      "lat": 51.80970132,
+      "lon": 4.41337721,
+      "date": "2026-11-14T14:45:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/intocht-sinterklaas-14-november-2026-2/"
     },
     {
       "id": "mm-rommelmarkt-antiekmarkt-gaasbeek-in-lennik-25-oktober-2026",
@@ -1662,16 +1782,6 @@
       "url": "https://marktenmeer.nl/markt/sfeermarkt-7-november-2026/"
     },
     {
-      "id": "mm-vlooienmarkt-hoogvliet-25-oktober-2026",
-      "title": "Vlooienmarkt Hoogvliet – 25 oktober 2026",
-      "category": "markt",
-      "lat": 51.86546845,
-      "lon": 4.35498701,
-      "date": "2026-10-25T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/vlooienmarkt-hoogvliet-25-oktober-2026/"
-    },
-    {
       "id": "mm-amnesty-boeken-en-platenmarkt-6-november-2026",
       "title": "Amnesty Boeken en Platenmarkt in Ulft – 6 november 2026",
       "category": "markt",
@@ -1680,16 +1790,6 @@
       "date": "2026-11-06T19:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/amnesty-boeken-en-platenmarkt-6-november-2026/"
-    },
-    {
-      "id": "mm-avondmarkt-lanaken-halloween-23-oktober-2026",
-      "title": "Avondmarkt Lanaken Halloween – 23 oktober 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-23T16:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/avondmarkt-lanaken-halloween-23-oktober-2026/"
     },
     {
       "id": "mm-herfst-craft-crea-fair-24-oktober-2026",
@@ -1742,6 +1842,16 @@
       "url": "https://marktenmeer.nl/markt/streekproductenmarkt-nienoord-in-leek-7-november-2026/"
     },
     {
+      "id": "mm-sinterklaas-intocht-hoorn-14-november-2026",
+      "title": "Sinterklaas intocht Hoorn – 14 november 2026",
+      "category": "evenement",
+      "lat": 52.62993233,
+      "lon": 5.07192464,
+      "date": "2026-11-14T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/sinterklaas-intocht-hoorn-14-november-2026/"
+    },
+    {
       "id": "mm-herfstcrea-beurs-24-oktober-2026",
       "title": "Herfstcrea Beurs in Oldemarkt – 24 en 25 oktober 2026",
       "category": "markt",
@@ -1750,6 +1860,16 @@
       "date": "2026-10-24T11:00:00+02:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/herfstcrea-beurs-24-oktober-2026/"
+    },
+    {
+      "id": "mm-intocht-sinterklaas-de-heen-14-november-2026",
+      "title": "Intocht Sinterklaas De Heen – 14 november 2026",
+      "category": "evenement",
+      "lat": 51.61105324,
+      "lon": 4.25280586,
+      "date": "2026-11-14T14:15:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/intocht-sinterklaas-de-heen-14-november-2026/"
     },
     {
       "id": "mm-spirituele-beurs-strijen-1-november-2026",
@@ -1790,6 +1910,16 @@
       "date": "2026-10-31T10:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/snuffelmarkt-heelsum-31-oktober-2026/"
+    },
+    {
+      "id": "mm-winterbraderie-op-wintereiland-vakantiepark-eiland-van-maurik-14-november-2026",
+      "title": "Winterbraderie op Wintereiland Maurik – 14 november 2026",
+      "category": "braderie",
+      "lat": 51.97540517,
+      "lon": 5.41674009,
+      "date": "2026-11-14",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/winterbraderie-op-wintereiland-vakantiepark-eiland-van-maurik-14-november-2026/"
     },
     {
       "id": "mm-creatieve-markt-lieshout-8-november-2026",
@@ -2012,6 +2142,16 @@
       "url": "https://marktenmeer.nl/markt/supervlooi-1-november-2026/"
     },
     {
+      "id": "mm-herfstmarkt-14-november-2026",
+      "title": "Herfstmarkt ’s-Gravendeel – 14 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-14T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/herfstmarkt-14-november-2026/"
+    },
+    {
       "id": "mm-mini-verzamelmarkt-oktober-kindermaand-24-oktober-2026",
       "title": "Mini-Verzamelmarkt Nieuw-Dordrecht – 24 en 25 oktober 2026",
       "category": "markt",
@@ -2200,6 +2340,16 @@
       "date": "2026-10-31T10:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/boerenstreekmarkt-31-oktober-2026/"
+    },
+    {
+      "id": "mm-boerenstreekmarkt-14-november-2026",
+      "title": "BoerenStreekMarkt Alde Leie – 14 november 2026",
+      "category": "markt",
+      "lat": 53.28678456,
+      "lon": 5.73320995,
+      "date": "2026-11-14T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boerenstreekmarkt-14-november-2026/"
     },
     {
       "id": "mm-vlooienmarkt-jacoba-hallen-25-oktober-2026",
@@ -2502,6 +2652,16 @@
       "url": "https://marktenmeer.nl/markt/kerst-rommelmarkt-booischot-1-november-2026/"
     },
     {
+      "id": "mm-brocante-marie-rose-14-november-2026",
+      "title": "Brocante Marie-Rose Molenbeek-Saint-Jean – 14 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-14T07:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/brocante-marie-rose-14-november-2026/"
+    },
+    {
       "id": "mm-bric-a-brac-de-letrange-11-november-2026",
       "title": "Bric a Brac de l'étrange Saint-Gilles – 11 november 2026",
       "category": "markt",
@@ -2542,6 +2702,16 @@
       "url": "https://marktenmeer.nl/markt/peters-huis-woondag-24-oktober-2026/"
     },
     {
+      "id": "mm-sinterklaasintocht-wageningen-14-november-2026",
+      "title": "Sinterklaasintocht Wageningen – 14 november 2026",
+      "category": "evenement",
+      "lat": 51.95432816,
+      "lon": 5.63161695,
+      "date": "2026-11-14T12:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/sinterklaasintocht-wageningen-14-november-2026/"
+    },
+    {
       "id": "mm-rommelmarkt-wijkhuis-de-ontmoeting-24-oktober-2026",
       "title": "Rommelmarkt Wijkhuis de Ontmoeting Den Haag – 24 oktober 2026",
       "category": "markt",
@@ -2550,16 +2720,6 @@
       "date": "2026-10-24T10:00:00+02:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/rommelmarkt-wijkhuis-de-ontmoeting-24-oktober-2026/"
-    },
-    {
-      "id": "mm-tweedehandskledingbeurs-ten-bate-van-team-alpe-dhuzes-klarenbeek-23-oktober-2026",
-      "title": "Tweedehandskledingbeurs Klarenbeek – 23 oktober 2026",
-      "category": "evenement",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-23T11:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/tweedehandskledingbeurs-ten-bate-van-team-alpe-dhuzes-klarenbeek-23-oktober-2026/"
     },
     {
       "id": "mm-snuffelmarkt-veldhoven-25-oktober-2026",
@@ -2622,26 +2782,6 @@
       "url": "https://marktenmeer.nl/markt/boekenmarkt-lions-rivierenland-24-oktober-2026/"
     },
     {
-      "id": "mm-braderie-de-bogaard-rijswijk-24-oktober-2026",
-      "title": "Braderie De Bogaard Rijswijk – zaterdag 24 oktober 2026",
-      "category": "braderie",
-      "lat": 52.03619628,
-      "lon": 4.32603246,
-      "date": "2026-10-24T10:00:00+02:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/braderie-de-bogaard-rijswijk-24-oktober-2026/"
-    },
-    {
-      "id": "mm-braderie-de-bogaard-rijswijk-25-oktober-2026",
-      "title": "Braderie De Bogaard Rijswijk – zondag 25 oktober 2026",
-      "category": "braderie",
-      "lat": 52.03619628,
-      "lon": 4.32603246,
-      "date": "2026-10-25T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/braderie-de-bogaard-rijswijk-25-oktober-2026/"
-    },
-    {
       "id": "mm-rommelmarkt-wijkplein-where-24-oktober-2026",
       "title": "Rommelmarkt Wijkplein Where Purmerend – 24 oktober 2026",
       "category": "markt",
@@ -2700,16 +2840,6 @@
       "date": "2026-10-25T09:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/rommelmarkt-huis-van-de-wijk-het-middelpunt-rotterdam-zuidwijk-25-oktober-2026/"
-    },
-    {
-      "id": "mm-muziekbeurs-van-stichting-boeken-steunen-mensen-23-oktober-2026",
-      "title": "Muziekbeurs Venlo – 23 en 24 oktober 2026",
-      "category": "evenement",
-      "lat": 51.36022523,
-      "lon": 6.13519256,
-      "date": "2026-10-23",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/muziekbeurs-van-stichting-boeken-steunen-mensen-23-oktober-2026/"
     },
     {
       "id": "mm-kofferbakverkoop-rijsoord-25-oktober-2026",
@@ -2842,6 +2972,16 @@
       "url": "https://marktenmeer.nl/markt/boekenmarkt-oostwold-7-november-2026/"
     },
     {
+      "id": "mm-rommelbeurs-antiek-en-brocante-14-november-2026",
+      "title": "Rommelbeurs (Antiek en Brocante) Wieze – 14 en 15 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-14T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelbeurs-antiek-en-brocante-14-november-2026/"
+    },
+    {
       "id": "mm-rommelmarkt-wijkhuis-de-wieken-1-november-2026",
       "title": "Rommelmarkt Wijkhuis De Wieken Roosendaal – 1 november 2026",
       "category": "markt",
@@ -2900,6 +3040,66 @@
       "date": "2026-11-11T09:30:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/gezellige-binnenrommelmarkt-11-november-2026/"
+    },
+    {
+      "id": "mm-braderie-de-bogaard-rijswijk-24-oktober-2026",
+      "title": "GEANNULEERD: Braderie De Bogaard Rijswijk – zaterdag 24 oktober 2026",
+      "category": "braderie",
+      "lat": 52.03619628,
+      "lon": 4.32603246,
+      "date": "2026-10-24T10:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/braderie-de-bogaard-rijswijk-24-oktober-2026/"
+    },
+    {
+      "id": "mm-braderie-de-bogaard-rijswijk-25-oktober-2026",
+      "title": "GEANNULEERD: Braderie De Bogaard Rijswijk – zondag 25 oktober 2026",
+      "category": "braderie",
+      "lat": 52.03619628,
+      "lon": 4.32603246,
+      "date": "2026-10-25T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/braderie-de-bogaard-rijswijk-25-oktober-2026/"
+    },
+    {
+      "id": "mm-herfstmarkt-puttershoek-24-oktober-2026",
+      "title": "GEANNULEERD: Herfstmarkt Puttershoek – 24 oktober 2026",
+      "category": "markt",
+      "lat": 51.8016656,
+      "lon": 4.56277737,
+      "date": "2026-10-24T10:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/herfstmarkt-puttershoek-24-oktober-2026/"
+    },
+    {
+      "id": "mm-vlooienmarkt-hoogvliet-25-oktober-2026",
+      "title": "GEANNULEERD: Vlooienmarkt Hoogvliet – 25 oktober 2026",
+      "category": "markt",
+      "lat": 51.86546845,
+      "lon": 4.35498701,
+      "date": "2026-10-25T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/vlooienmarkt-hoogvliet-25-oktober-2026/"
+    },
+    {
+      "id": "mm-herfstmarkt-bij-balkinn-24-oktober-2026",
+      "title": "Herfstmarkt bij BalkInn Balk – 24 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-24T10:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/herfstmarkt-bij-balkinn-24-oktober-2026/"
+    },
+    {
+      "id": "mm-neijiers-merk-24-oktober-2026",
+      "title": "Neijiers Merk Wergea – 24 oktober 2026",
+      "category": "markt",
+      "lat": 53.14600305,
+      "lon": 5.8483662,
+      "date": "2026-10-24T13:00:00+02:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/neijiers-merk-24-oktober-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-14932",

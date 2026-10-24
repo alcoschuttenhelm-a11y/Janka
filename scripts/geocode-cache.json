@@ -5410,5 +5410,77 @@
   "Stadsfeestzaal, Aarschot": {
     "lat": 52.75180122,
     "lon": 5.96778501
+  },
+  "Ouddorpse Haven, Ouddorp": {
+    "lat": 51.80043096,
+    "lon": 3.94273302
+  },
+  "Vinkenplein, Bilthoven, Bilthoven": {
+    "lat": 52.1286528,
+    "lon": 5.20627894
+  },
+  "Baarn, Centrum, Baarn": {
+    "lat": 52.20712881,
+    "lon": 5.27134105
+  },
+  "Velotel, Brugge": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Maaskade, Grave": {
+    "lat": 51.76069505,
+    "lon": 5.74144394
+  },
+  "Haven van Middelharnis en Diekhuusplein, Middelharnis": {
+    "lat": 51.75945013,
+    "lon": 4.19773081
+  },
+  "Centrum Voorthuizen, Bunckmanplein, Voorthuizen": {
+    "lat": 52.18659368,
+    "lon": 5.6077449
+  },
+  "Winkelcentrum Putten, Fontanusplein, Putten": {
+    "lat": 52.2615377,
+    "lon": 5.60676861
+  },
+  "Haven Oud-Beijerland, Oud-Beijerland": {
+    "lat": 51.80970132,
+    "lon": 4.41337721
+  },
+  "Haven van Hoorn en centrum, Hoorn": {
+    "lat": 52.62993233,
+    "lon": 5.07192464
+  },
+  "Gemeenschapshuis De Stelle, De Heen": {
+    "lat": 51.61105324,
+    "lon": 4.25280586
+  },
+  "Vakantiepark Eiland van Maurik, Maurik": {
+    "lat": 51.97540517,
+    "lon": 5.41674009
+  },
+  "Immanuël, ’s-Gravendeel": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Square des Libérateurs / bd du Jubilé, Molenbeek-Saint-Jean": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Wageningse haven en centrum, Wageningen": {
+    "lat": 51.95432816,
+    "lon": 5.63161695
+  },
+  "Oktoberhallen, Wieze": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Natuurboerderij BalkInn, Balk": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Wergea, Wergea": {
+    "lat": 53.14600305,
+    "lon": 5.8483662
   }
 }
