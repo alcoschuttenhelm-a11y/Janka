@@ -5642,5 +5642,61 @@
   "De schuur, Ugchelen": {
     "lat": 52.75180122,
     "lon": 5.96778501
+  },
+  "Huis van de Wijk de Schelf, Raamsdonksveer": {
+    "lat": 51.582344,
+    "lon": 5.17903694
+  },
+  "Dorpshuis Marijke, Burgerveen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Huis van de Wijk Rivierenbuurt, Amsterdam": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Gezellige Rommelmarkt, Musselkanaal": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Vrijheidskerk Alkmaar, Alkmaar": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Marktplein, Schoten": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Belseledorp, Belsele": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Centrum, Sint-Lievens-Houtem": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "centrum, Sint-Pieters-Leeuw, Sint-Pieters-Leeuw": {
+    "lat": 53.17739318,
+    "lon": 5.99610514
+  },
+  "Houtmarkt, Watertorenplein en aanpalende straten, Aalst": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Grote Markt, Sint-Niklaas, Sint-Niklaas": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Commissaris van den Hartenbrug, Kruisland": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Centrum, Nieuw-Vossemeer": {
+    "lat": 51.58675955,
+    "lon": 4.22643388
+  },
+  "Marktplein Ossendrecht, Ossendrecht": {
+    "lat": 51.39506366,
+    "lon": 4.33529985
   }
 }

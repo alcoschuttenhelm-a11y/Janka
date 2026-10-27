@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-10-26T08:39:01.160Z",
+  "generatedAt": "2026-10-27T08:45:22.753Z",
   "events": [
-    {
-      "id": "mm-wekelijkse-brocantemarkt-citadel-diest-26-oktober-2026",
-      "title": "Wekelijkse brocantemarkt Citadel Diest – 26 oktober 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-26T11:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/wekelijkse-brocantemarkt-citadel-diest-26-oktober-2026/"
-    },
     {
       "id": "mm-rommelmarkt-parking-ambulance-dienst-in-ramsel-27-oktober-2026",
       "title": "Rommelmarkt Parking Ambulance Dienst in Ramsel – 27 oktober 2026",
@@ -1372,6 +1362,26 @@
       "url": "https://marktenmeer.nl/markt/sinterklaasintocht-dinxperlo-15-november-2026/"
     },
     {
+      "id": "mm-maandelijkse-markt-in-st-vith-17-november-2026",
+      "title": "Maandelijkse Markt in St. Vith – 17 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-17T07:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/maandelijkse-markt-in-st-vith-17-november-2026/"
+    },
+    {
+      "id": "mm-rommelmarkt-parking-ambulance-dienst-in-ramsel-17-november-2026",
+      "title": "Rommelmarkt Parking Ambulance Dienst in Ramsel – 17 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-17T07:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-parking-ambulance-dienst-in-ramsel-17-november-2026/"
+    },
+    {
       "id": "mm-sint-intocht-wijchen-15-november-2026",
       "title": "Sint Intocht Wijchen – 15 november 2026",
       "category": "markt",
@@ -1682,16 +1692,6 @@
       "url": "https://marktenmeer.nl/markt/winterfair-lemmer-bij-de-brekken-15-november-2026/"
     },
     {
-      "id": "mm-antiek-en-brocante-ieper-brocante-van-a-tot-z-26-oktober-2026",
-      "title": "Antiek en Brocante Ieper – 26 oktober 2026",
-      "category": "evenement",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-26T14:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/antiek-en-brocante-ieper-brocante-van-a-tot-z-26-oktober-2026/"
-    },
-    {
       "id": "mm-zadenruilmarkt-2026-31-oktober-2026",
       "title": "Zadenruilmarkt Schin op Geul – 31 oktober 2026",
       "category": "markt",
@@ -1880,16 +1880,6 @@
       "date": "2026-10-31T12:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/buzz-market-31-oktober-2026/"
-    },
-    {
-      "id": "mm-rommelmarkt-26-oktober-2026",
-      "title": "Rommelmarkt Borgloon (BE) – 26 oktober 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-26T13:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/rommelmarkt-26-oktober-2026/"
     },
     {
       "id": "mm-seasons-kerst-7-november-2026",
@@ -2520,6 +2510,146 @@
       "date": "2026-10-30T09:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/rommelmarkt-opbrengst-voor-de-mensen-in-de-minima-30-oktober-2026/"
+    },
+    {
+      "id": "mm-kledingbeurs-rommelmarkt-31-oktober-2026",
+      "title": "Kledingbeurs/rommelmarkt Raamsdonksveer – 31 oktober 2026",
+      "category": "markt",
+      "lat": 51.582344,
+      "lon": 5.17903694,
+      "date": "2026-10-31T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kledingbeurs-rommelmarkt-31-oktober-2026/"
+    },
+    {
+      "id": "mm-tweedehands-boekenmarkt-in-burgerveen-31-oktober-2026",
+      "title": "Tweedehands boekenmarkt Burgerveen – 31 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-31T12:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/tweedehands-boekenmarkt-in-burgerveen-31-oktober-2026/"
+    },
+    {
+      "id": "mm-boekenmarkt-huis-van-de-wijk-rivierenbuurt-amsterdam-31-oktober-2026",
+      "title": "Boekenmarkt Huis van de Wijk Rivierenbuurt Amsterdam – 31 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-31T13:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boekenmarkt-huis-van-de-wijk-rivierenbuurt-amsterdam-31-oktober-2026/"
+    },
+    {
+      "id": "mm-gezellige-rommelmarkt-31-oktober-2026",
+      "title": "Rommelmarkt Musselkanaal – 31 oktober t/m 1 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-31T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/gezellige-rommelmarkt-31-oktober-2026/"
+    },
+    {
+      "id": "mm-boeken-cd-en-platenmarkt-31-oktober-2026",
+      "title": "Boeken-, CD- en platenmarkt Alkmaar – 31 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-31T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boeken-cd-en-platenmarkt-31-oktober-2026/"
+    },
+    {
+      "id": "mm-halloweenmarkt-schoten-31-oktober-2026",
+      "title": "Halloweenmarkt Schoten – 31 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-31T16:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/halloweenmarkt-schoten-31-oktober-2026/"
+    },
+    {
+      "id": "mm-jaarmarkt-belsele-11-november-2026",
+      "title": "Jaarmarkt Belsele – 11 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-11T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/jaarmarkt-belsele-11-november-2026/"
+    },
+    {
+      "id": "mm-jaarmarkt-sint-lievens-houtem-12-november-2026",
+      "title": "Jaarmarkt Sint-Lievens-Houtem – 12 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-12T08:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/jaarmarkt-sint-lievens-houtem-12-november-2026/"
+    },
+    {
+      "id": "mm-jaarmarkt-sint-pieters-leeuw-11-november-2026",
+      "title": "Jaarmarkt Sint-Pieters-Leeuw – 11 november 2026",
+      "category": "markt",
+      "lat": 53.17739318,
+      "lon": 5.99610514,
+      "date": "2026-11-11T08:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/jaarmarkt-sint-pieters-leeuw-11-november-2026/"
+    },
+    {
+      "id": "mm-sint-maartens-jaarmarkt-aalst-11-november-2026",
+      "title": "Sint-Maartens Jaarmarkt Aalst – 11 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-11T08:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/sint-maartens-jaarmarkt-aalst-11-november-2026/"
+    },
+    {
+      "id": "mm-sint-niklaas-halloweenmarkt-31-oktober-2026",
+      "title": "Sint-Niklaas Halloweenmarkt – 31 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-31T15:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/sint-niklaas-halloweenmarkt-31-oktober-2026/"
+    },
+    {
+      "id": "mm-intocht-sinterklaas-kruisland-15-november-2026",
+      "title": "Intocht Sinterklaas Kruisland – 15 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-15T13:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/intocht-sinterklaas-kruisland-15-november-2026/"
+    },
+    {
+      "id": "mm-intocht-sinterklaas-nieuw-vossemeer-15-november-2026",
+      "title": "Intocht Sinterklaas Nieuw-Vossemeer – 15 november 2026",
+      "category": "evenement",
+      "lat": 51.58675955,
+      "lon": 4.22643388,
+      "date": "2026-11-15T13:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/intocht-sinterklaas-nieuw-vossemeer-15-november-2026/"
+    },
+    {
+      "id": "mm-intocht-sinterklaas-ossendrecht-14-november-2026",
+      "title": "Intocht Sinterklaas Ossendrecht – 14 november 2026",
+      "category": "markt",
+      "lat": 51.39506366,
+      "lon": 4.33529985,
+      "date": "2026-11-14T16:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/intocht-sinterklaas-ossendrecht-14-november-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-11581",
