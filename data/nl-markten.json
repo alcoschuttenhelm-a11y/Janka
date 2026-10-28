@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-10-27T08:45:22.753Z",
+  "generatedAt": "2026-10-28T09:28:35.897Z",
   "events": [
-    {
-      "id": "mm-rommelmarkt-parking-ambulance-dienst-in-ramsel-27-oktober-2026",
-      "title": "Rommelmarkt Parking Ambulance Dienst in Ramsel – 27 oktober 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-27T07:30:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/rommelmarkt-parking-ambulance-dienst-in-ramsel-27-oktober-2026/"
-    },
     {
       "id": "mm-najaarsmarkt-appingedam-28-oktober-2026",
       "title": "Najaarsmarkt Appingedam – 28 oktober 2026",
@@ -2650,6 +2640,316 @@
       "date": "2026-11-14T16:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/intocht-sinterklaas-ossendrecht-14-november-2026/"
+    },
+    {
+      "id": "mm-binnemarkt-wijkhuis-de-haard-oss-1-november-2026",
+      "title": "Rommelmarkt Oss – 1 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-01T09:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/binnemarkt-wijkhuis-de-haard-oss-1-november-2026/"
+    },
+    {
+      "id": "mm-gezellige-overdekte-rommelmarkt-met-live-muziek-1-november-2026",
+      "title": "Rommelmarkt Kiel-windeweer – 1 november 2026",
+      "category": "markt",
+      "lat": 53.11203043,
+      "lon": 6.77425439,
+      "date": "2026-11-01T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/gezellige-overdekte-rommelmarkt-met-live-muziek-1-november-2026/"
+    },
+    {
+      "id": "mm-garagesale-heerde-op-zoek-naar-leuke-koopjes-31-oktober-2026",
+      "title": "Garagesale Heerde – 31 oktober 2026",
+      "category": "evenement",
+      "lat": 52.39012656,
+      "lon": 6.03072964,
+      "date": "2026-10-31T10:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/garagesale-heerde-op-zoek-naar-leuke-koopjes-31-oktober-2026/"
+    },
+    {
+      "id": "mm-curiosa-verzamel-en-vlooienmarkt-1-november-2026",
+      "title": "Curiosa, verzamel- en vlooienmarkt Enschede – 1 november 2026",
+      "category": "markt",
+      "lat": 52.21764291,
+      "lon": 6.897952,
+      "date": "2026-11-01T12:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/curiosa-verzamel-en-vlooienmarkt-1-november-2026/"
+    },
+    {
+      "id": "mm-kinderbeurs-nijkerk-31-oktober-2026",
+      "title": "Kinderbeurs Nijkerk – 31 oktober 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-31T09:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kinderbeurs-nijkerk-31-oktober-2026/"
+    },
+    {
+      "id": "mm-garageverkoop-harkema-31-oktober-2026",
+      "title": "Garageverkoop Harkema – 31 oktober 2026",
+      "category": "evenement",
+      "lat": 53.18564539,
+      "lon": 6.13004639,
+      "date": "2026-10-31T09:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/garageverkoop-harkema-31-oktober-2026/"
+    },
+    {
+      "id": "mm-snuffelmarkt-heerlen-1-november-2026",
+      "title": "Snuffelmarkt Heerlen – 1 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-01T09:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/snuffelmarkt-heerlen-1-november-2026/"
+    },
+    {
+      "id": "mm-grote-kinderkleding-en-speelgoedmarkt-1-november-2026",
+      "title": "Grote kinderkleding en speelgoedmarkt Swalmen – 1 november 2026",
+      "category": "markt",
+      "lat": 51.22780601,
+      "lon": 6.03697569,
+      "date": "2026-11-01T14:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/grote-kinderkleding-en-speelgoedmarkt-1-november-2026/"
+    },
+    {
+      "id": "mm-boeken-en-platenmarkt-oerle-31-oktober-2026",
+      "title": "Boeken- en Platenmarkt Oerle Veldhoven – 31 oktober t/m 1 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-31T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boeken-en-platenmarkt-oerle-31-oktober-2026/"
+    },
+    {
+      "id": "mm-jaarlijkse-vlooienmarkt-1-november-2026",
+      "title": "Vlooienmarkt Eindhoven – 1 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-01T12:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/jaarlijkse-vlooienmarkt-1-november-2026/"
+    },
+    {
+      "id": "mm-klaasmarkt-dukenburg-31-oktober-2026",
+      "title": "Klaasmarkt Dukenburg Nijmegen – 31 oktober 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-31T09:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/klaasmarkt-dukenburg-31-oktober-2026/"
+    },
+    {
+      "id": "mm-neuzelbeurs-31-oktober-2026",
+      "title": "Neuzelbeurs Rijswijk – 31 oktober en 1 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-31T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/neuzelbeurs-31-oktober-2026/"
+    },
+    {
+      "id": "mm-vintage-curiosa-markt-hendrick-de-keijser-1-november-2026",
+      "title": "Vintage & curiosa markt Hendrick de Keijser Amsterdam – 1 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-01T12:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/vintage-curiosa-markt-hendrick-de-keijser-1-november-2026/"
+    },
+    {
+      "id": "mm-mega-rommelmarkt-1-november-2026",
+      "title": "Mega rommelmarkt Temse – 1 en 2 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-01T09:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/mega-rommelmarkt-1-november-2026/"
+    },
+    {
+      "id": "mm-garageverkoop-met-antiek-en-curiosa-gereedschap-paardenkarren-etc-1-november-2026",
+      "title": "Garageverkoop Heiloo – 1 november 2026",
+      "category": "evenement",
+      "lat": 52.58851595,
+      "lon": 4.6953015,
+      "date": "2026-11-01T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/garageverkoop-met-antiek-en-curiosa-gereedschap-paardenkarren-etc-1-november-2026/"
+    },
+    {
+      "id": "mm-rommelbeurs-sint-andries-sint-lodewijkscollege-org-jovan-1-november-2026",
+      "title": "Rommelbeurs Sint-Andries – 1 november 2026",
+      "category": "evenement",
+      "lat": 51.80260316,
+      "lon": 5.36541583,
+      "date": "2026-11-01T08:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelbeurs-sint-andries-sint-lodewijkscollege-org-jovan-1-november-2026/"
+    },
+    {
+      "id": "mm-rommelmarkt-wijkcentrum-de-lapvoet-1-november-2026",
+      "title": "Rommelmarkt Veghel – 1 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-01T12:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-wijkcentrum-de-lapvoet-1-november-2026/"
+    },
+    {
+      "id": "mm-vanalleswa-rommelmarkt-1-november-2026",
+      "title": "VanAllesWà Rommelmarkt Helmond – 1 november 2026",
+      "category": "markt",
+      "lat": 51.48191609,
+      "lon": 5.65779543,
+      "date": "2026-11-01T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/vanalleswa-rommelmarkt-1-november-2026/"
+    },
+    {
+      "id": "mm-bric-brac-curiosa-en-rommelmarkt-31-oktober-2026",
+      "title": "Bric & brac curiosa en rommelmarkt Stompetoren – 31 oktober 2026",
+      "category": "markt",
+      "lat": 52.61344989,
+      "lon": 4.80707949,
+      "date": "2026-10-31T09:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/bric-brac-curiosa-en-rommelmarkt-31-oktober-2026/"
+    },
+    {
+      "id": "mm-sinterklaasintocht-elst-14-november-2026",
+      "title": "Sinterklaasintocht Elst – 14 november 2026",
+      "category": "evenement",
+      "lat": 51.92114569,
+      "lon": 5.84184846,
+      "date": "2026-11-14",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/sinterklaasintocht-elst-14-november-2026/"
+    },
+    {
+      "id": "mm-sinterklaas-komt-weer-naar-arnhem-14-november-2026",
+      "title": "Sinterklaasintocht Arnhem – 14 november 2026",
+      "category": "evenement",
+      "lat": 52.02332876,
+      "lon": 5.92538876,
+      "date": "2026-11-14T15:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/sinterklaas-komt-weer-naar-arnhem-14-november-2026/"
+    },
+    {
+      "id": "mm-boekenbeurs-14-november-2026",
+      "title": "Boekenbeurs Thorn – 14 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-14T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boekenbeurs-14-november-2026/"
+    },
+    {
+      "id": "mm-voddemet-brussels-flea-market-in-gare-maritime-1-november-2026",
+      "title": "VODDEMET Brussels Flea Market in Gare Maritime – 1 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-01T09:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/voddemet-brussels-flea-market-in-gare-maritime-1-november-2026/"
+    },
+    {
+      "id": "mm-opnieuw-co-wintert-5-november-2026",
+      "title": "Opnieuw & Co Wintert Mortsel – 5 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-05T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/opnieuw-co-wintert-5-november-2026/"
+    },
+    {
+      "id": "mm-tweedehandsbeurs-neerpelt-15-november-2026",
+      "title": "Tweedehandsbeurs Neerpelt – 15 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-15T13:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/tweedehandsbeurs-neerpelt-15-november-2026/"
+    },
+    {
+      "id": "mm-tweedehandsspeelgoedbeurs-11-november-2026",
+      "title": "Tweedehandsspeelgoedbeurs Hove – 11 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-11T13:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/tweedehandsspeelgoedbeurs-11-november-2026/"
+    },
+    {
+      "id": "mm-grote-vintage-en-rommelmarkt-8-november-2026",
+      "title": "Grote Vintage en Rommelmarkt Edegem – 8 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-08T09:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/grote-vintage-en-rommelmarkt-8-november-2026/"
+    },
+    {
+      "id": "mm-gezellige-binnenrommelmarkt-1-november-2026",
+      "title": "Gezellige binnenrommelmarkt Nijlen – 1 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-01T09:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/gezellige-binnenrommelmarkt-1-november-2026/"
+    },
+    {
+      "id": "mm-brocante-dautomne-8-november-2026",
+      "title": "Brocante d’automne Woluwe-Saint-Pierre – 8 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-08T09:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/brocante-dautomne-8-november-2026/"
+    },
+    {
+      "id": "mm-grote-garageverkoop-zedelgem-7-november-2026",
+      "title": "Grote Garageverkoop Zedelgem – 7 november 2026",
+      "category": "markt",
+      "lat": 52.67043765,
+      "lon": 6.31507953,
+      "date": "2026-11-07T07:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/grote-garageverkoop-zedelgem-7-november-2026/"
+    },
+    {
+      "id": "mm-vintage-partijen-curiosa-nog-wat-nieuw-15-november-2026",
+      "title": "Vintage – partijen – curiosa – nog wat nieuw Ravels – 15 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-15T09:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/vintage-partijen-curiosa-nog-wat-nieuw-15-november-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-11581",
