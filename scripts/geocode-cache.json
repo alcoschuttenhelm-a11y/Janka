@@ -5802,5 +5802,13 @@
   "Diverse straten in Zedelgem (o.a. Wijk De Groene Meersen en Wijk De Linde), Zedelgem": {
     "lat": 52.67043765,
     "lon": 6.31507953
+  },
+  "Elberfelder Innenstadt, Wuppertal": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Hansaplatz, Dortmund, Dortmund": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
   }
 }

@@ -1,26 +1,6 @@
 {
-  "generatedAt": "2026-10-28T09:28:35.897Z",
+  "generatedAt": "2026-10-29T09:34:07.592Z",
   "events": [
-    {
-      "id": "mm-najaarsmarkt-appingedam-28-oktober-2026",
-      "title": "Najaarsmarkt Appingedam – 28 oktober 2026",
-      "category": "markt",
-      "lat": 53.31714113,
-      "lon": 6.84954546,
-      "date": "2026-10-28T09:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/najaarsmarkt-appingedam-28-oktober-2026/"
-    },
-    {
-      "id": "mm-stoffenmarkt-emmeloord-28-oktober-2026",
-      "title": "Stoffenmarkt Emmeloord – 28 oktober 2026",
-      "category": "markt",
-      "lat": 52.71031776,
-      "lon": 5.75228057,
-      "date": "2026-10-28T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/stoffenmarkt-emmeloord-28-oktober-2026/"
-    },
     {
       "id": "mm-donderdagmarkt-middelburg-29-oktober-2026",
       "title": "Donderdagmarkt Middelburg (Koorkerkplein) – 29 oktober 2026",
@@ -340,16 +320,6 @@
       "date": "2026-11-01T09:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/vlooienmarkt-hoogerheide-mfc-kloosterhof-1-november-2026/"
-    },
-    {
-      "id": "mm-trotsmarkt-pekingtuin-baarn-1-november-2026",
-      "title": "Trotsmarkt Pekingtuin Baarn – zondag 1 november 2026 | Baarn",
-      "category": "markt",
-      "lat": 52.20383396,
-      "lon": 5.26414159,
-      "date": "2026-11-01T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/trotsmarkt-pekingtuin-baarn-1-november-2026/"
     },
     {
       "id": "mm-rommelmarkt-bossche-buurt-bazaar-den-bosch-1-november-2026",
@@ -1592,6 +1562,16 @@
       "url": "https://marktenmeer.nl/markt/creatieve-markt-lieshout-8-november-2026/"
     },
     {
+      "id": "mm-wuppertaler-winterzauber-19-november-2026",
+      "title": "Wuppertaler Winterzauber – 19 november t/m 28 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-19T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/wuppertaler-winterzauber-19-november-2026/"
+    },
+    {
       "id": "mm-rommelmarkt-s-gravenpolder-7-november-2026",
       "title": "Rommelmarkt ’s-Gravenpolder – 7 november 2026",
       "category": "markt",
@@ -1680,6 +1660,16 @@
       "date": "2026-11-15T12:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/winterfair-lemmer-bij-de-brekken-15-november-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-dortmund-19-november-2026",
+      "title": "Kerstmarkt Dortmund – 19 november t/m 30 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-19",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-dortmund-19-november-2026/"
     },
     {
       "id": "mm-zadenruilmarkt-2026-31-oktober-2026",
@@ -2950,6 +2940,16 @@
       "date": "2026-11-15T09:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/vintage-partijen-curiosa-nog-wat-nieuw-15-november-2026/"
+    },
+    {
+      "id": "mm-trotsmarkt-pekingtuin-baarn-1-november-2026",
+      "title": "Trotsmarkt Pekingtuin Baarn – zondag 1 november 2026 | Baarn",
+      "category": "markt",
+      "lat": 52.20383396,
+      "lon": 5.26414159,
+      "date": "2026-11-01T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/trotsmarkt-pekingtuin-baarn-1-november-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-11581",
