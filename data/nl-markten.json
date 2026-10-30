@@ -1,36 +1,6 @@
 {
-  "generatedAt": "2026-10-29T09:34:07.592Z",
+  "generatedAt": "2026-10-30T09:44:37.805Z",
   "events": [
-    {
-      "id": "mm-donderdagmarkt-middelburg-29-oktober-2026",
-      "title": "Donderdagmarkt Middelburg (Koorkerkplein) – 29 oktober 2026",
-      "category": "markt",
-      "lat": 51.50315836,
-      "lon": 3.65083605,
-      "date": "2026-10-29T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/donderdagmarkt-middelburg-29-oktober-2026/"
-    },
-    {
-      "id": "mm-halloweenmarkt-lelystad-29-oktober-2026",
-      "title": "Halloweenmarkt Lelystad – 29 oktober 2026",
-      "category": "markt",
-      "lat": 52.54272549,
-      "lon": 5.37476449,
-      "date": "2026-10-29T14:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/halloweenmarkt-lelystad-29-oktober-2026/"
-    },
-    {
-      "id": "mm-halloweenmarkt-den-helder-29-oktober-2026",
-      "title": "Halloweenmarkt Den Helder – 29 oktober 2026",
-      "category": "markt",
-      "lat": 52.93997585,
-      "lon": 4.78522541,
-      "date": "2026-10-29T15:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/halloweenmarkt-den-helder-29-oktober-2026/"
-    },
     {
       "id": "mm-sunte-martn-30-oktober-2026",
       "title": "Sunte Mart’n in Wierden – 30 oktober t/m 2 november 2026",
@@ -1342,6 +1312,26 @@
       "url": "https://marktenmeer.nl/markt/rommelmarkt-parking-ambulance-dienst-in-ramsel-17-november-2026/"
     },
     {
+      "id": "mm-winter-in-de-kas-20-november-2026",
+      "title": "Winter in de Kas in Frederiksoord – 20, 21 & 22 november 2026",
+      "category": "evenement",
+      "lat": 52.84647497,
+      "lon": 6.1845764,
+      "date": "2026-11-20",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/winter-in-de-kas-20-november-2026/"
+    },
+    {
+      "id": "mm-wintergloed-20-november-2026",
+      "title": "Wintergloed in Brugge – 20 november 2026 t/m 14 februari 2027",
+      "category": "markt",
+      "lat": 51.84671626,
+      "lon": 4.50868209,
+      "date": "2026-11-20",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/wintergloed-20-november-2026/"
+    },
+    {
       "id": "mm-sint-intocht-wijchen-15-november-2026",
       "title": "Sint Intocht Wijchen – 15 november 2026",
       "category": "markt",
@@ -1462,6 +1452,16 @@
       "url": "https://marktenmeer.nl/markt/boekenmarkt-kerkelijk-centrum-bergen-op-zoom-7-november-2026/"
     },
     {
+      "id": "mm-kerstmarkt-donderen-20-november-2026",
+      "title": "Kerstmarkt Donderen – 20 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-20T15:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-donderen-20-november-2026/"
+    },
+    {
       "id": "mm-boeken-en-platenmarkt-1-november-2026",
       "title": "Boeken en platenmarkt in Hoogeveen – 1 november 2026",
       "category": "markt",
@@ -1520,6 +1520,16 @@
       "date": "2026-11-01T11:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/spirituele-beurs-strijen-1-november-2026/"
+    },
+    {
+      "id": "mm-winterfair-old-ruitenborgh-20-november-2026-2",
+      "title": "GEANNULEERD: Winterfair Old Ruitenborgh in Vollenhove – 20 en 21 november 2026",
+      "category": "evenement",
+      "lat": 52.2765048,
+      "lon": 6.80118776,
+      "date": "2026-11-20",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/winterfair-old-ruitenborgh-20-november-2026-2/"
     },
     {
       "id": "mm-winterfair-borssele-6-november-2026",
@@ -1640,6 +1650,26 @@
       "date": "2026-11-07",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/adg-winter-testdag-7-november-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-aken-aachen-20-november-2026",
+      "title": "Kerstmarkt Aken – 20 november t/m 23 december 2026",
+      "category": "markt",
+      "lat": 51.75954173,
+      "lon": 5.74020491,
+      "date": "2026-11-20T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-aken-aachen-20-november-2026/"
+    },
+    {
+      "id": "mm-mulheimer-scheepskerstmarkt-2026-20-november-2026",
+      "title": "Mülheimer Scheepskerstmarkt – 20, 21, 27, 28 & 29 november 2026",
+      "category": "markt",
+      "lat": 52.06419807,
+      "lon": 4.38663282,
+      "date": "2026-11-20",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/mulheimer-scheepskerstmarkt-2026-20-november-2026/"
     },
     {
       "id": "mm-kerstmarkt-westfield-centro-oberhausen-15-november-2026",
@@ -2002,6 +2032,16 @@
       "url": "https://marktenmeer.nl/markt/jaarlijkse-pennemes-bazaar-7-november-2026/"
     },
     {
+      "id": "mm-kerstmarkt-munchen-munchner-christkindlmarkt-20-november-2026",
+      "title": "Kerstmarkt München – Münchner Christkindlmarkt – 20 november t/m 24 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-20T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-munchen-munchner-christkindlmarkt-20-november-2026/"
+    },
+    {
       "id": "mm-binnen-rommelmarkt-8-november-2026",
       "title": "Binnen rommelmarkt Heist-aan-zee – 8 november 2026",
       "category": "markt",
@@ -2132,16 +2172,6 @@
       "url": "https://marktenmeer.nl/markt/vlooienmarkt-hoorn-15-november-2026/"
     },
     {
-      "id": "mm-herfstfair-van-aeres-vmbo-sneek-29-oktober-2026",
-      "title": "Herfstfair van Aeres VMBO Sneek – 29 oktober 2026",
-      "category": "evenement",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-29T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/herfstfair-van-aeres-vmbo-sneek-29-oktober-2026/"
-    },
-    {
       "id": "mm-tweedehandsboeken-en-platenbeurs-31-oktober-2026",
       "title": "Tweedehandsboeken- en platenbeurs Dendermonde – 31 oktober en 1 november 2026",
       "category": "evenement",
@@ -2232,6 +2262,26 @@
       "url": "https://marktenmeer.nl/markt/halloweekend-in-eibergen-30-oktober-2026/"
     },
     {
+      "id": "mm-boekenmarkt-20-november-2026",
+      "title": "Boekenmarkt Middelharnis – 20 november 2026",
+      "category": "markt",
+      "lat": 51.75945013,
+      "lon": 4.19773081,
+      "date": "2026-11-20T14:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boekenmarkt-20-november-2026/"
+    },
+    {
+      "id": "mm-intocht-sinterklaas-op-rosendael-20-november-2026",
+      "title": "Intocht Sinterklaas op Rosendael Rozendaal – 20 november 2026",
+      "category": "evenement",
+      "lat": 52.00928429,
+      "lon": 5.96464771,
+      "date": "2026-11-20T15:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/intocht-sinterklaas-op-rosendael-20-november-2026/"
+    },
+    {
       "id": "mm-wintermarkt-in-de-kas-1-november-2026",
       "title": "Wintermarkt in de Kas Kraggenburg – 1 november 2026",
       "category": "markt",
@@ -2280,16 +2330,6 @@
       "date": "2026-11-15T10:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/winterfair-hart-van-spoordonk-15-november-2026-2/"
-    },
-    {
-      "id": "mm-brocante-halloween-la-recuperatheque-29-oktober-2026",
-      "title": "Brocante – Halloween La Récupérathèque Koekelberg – 29 oktober 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-10-29T18:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/brocante-halloween-la-recuperatheque-29-oktober-2026/"
     },
     {
       "id": "mm-speelgoedbeurs-duiven-31-oktober-2026",
@@ -2400,6 +2440,16 @@
       "date": "2026-11-11T09:30:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/gezellige-binnenrommelmarkt-11-november-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-buxushoeve-20-november-2026",
+      "title": "Kerstmarkt Buxushoeve Vlamertinge – 20, 21 en 22 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-20",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-buxushoeve-20-november-2026/"
     },
     {
       "id": "mm-herfstmarkt-callantsoog-1-november-2026",
@@ -2540,6 +2590,16 @@
       "date": "2026-10-31T11:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/boeken-cd-en-platenmarkt-31-oktober-2026/"
+    },
+    {
+      "id": "mm-winterfair-petrakerk-20-november-2026",
+      "title": "Winterfair Petrakerk Ede – 20 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-20T15:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/winterfair-petrakerk-20-november-2026/"
     },
     {
       "id": "mm-halloweenmarkt-schoten-31-oktober-2026",
@@ -2952,14 +3012,14 @@
       "url": "https://marktenmeer.nl/markt/trotsmarkt-pekingtuin-baarn-1-november-2026/"
     },
     {
-      "id": "ec-evenementenlijst.nl-11581",
-      "title": "Halloweenmarkt – Lelystad – 29 oktober 2026",
-      "category": "markt",
-      "lat": 52.54272549,
-      "lon": 5.37476449,
-      "date": "2026-10-29T14:00:00",
-      "source": "evenementenlijst.nl",
-      "url": "https://evenementenlijst.nl/evenement/halloweenmarkt-lelystad-29-oktober-2026/"
+      "id": "mm-platenbeurs-en-openloodsdag-van-mancavestuff-in-echt-susteren-31-oktober-2026",
+      "title": "Platenbeurs en openloodsdag Echt – 31 oktober en 1 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-10-31T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/platenbeurs-en-openloodsdag-van-mancavestuff-in-echt-susteren-31-oktober-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-14934",

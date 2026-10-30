@@ -5810,5 +5810,53 @@
   "Hansaplatz, Dortmund, Dortmund": {
     "lat": 52.75180122,
     "lon": 5.96778501
+  },
+  "De Proef, Tuinbouwschooltuin Frederiksoord, Frederiksoord": {
+    "lat": 52.84647497,
+    "lon": 6.1845764
+  },
+  "Centrum Brugge, Brugge": {
+    "lat": 51.84671626,
+    "lon": 4.50868209
+  },
+  "Donderboerkamp, Donderen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Stadspaleis Old Ruitenborgh, Vollenhove": {
+    "lat": 52.2765048,
+    "lon": 6.80118776
+  },
+  "Rondom het Rathaus (stadhuis), Dom (kathedraal), Markt, Katschhof, Münsterplatz, en omliggende steegjes, Aken": {
+    "lat": 51.75954173,
+    "lon": 5.74020491
+  },
+  "Schleuseninsel am Wasserbahnhof, Mülheim an der Ruhr": {
+    "lat": 52.06419807,
+    "lon": 4.38663282
+  },
+  "Marienplatz, München": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Bibliotheek Middelharnis, Middelharnis": {
+    "lat": 51.75945013,
+    "lon": 4.19773081
+  },
+  "Kasteel Rosendael, Rozendaal": {
+    "lat": 52.00928429,
+    "lon": 5.96464771
+  },
+  "Buxushoeve, Vlamertinge": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Petrakerk, Ede": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Salvaged by Max en vinyloutlet, Echt": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
   }
 }
