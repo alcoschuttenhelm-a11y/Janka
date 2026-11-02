@@ -6194,5 +6194,53 @@
   "Prinsengracht, Kerkplein, De Sluis, Meppel": {
     "lat": 52.75180122,
     "lon": 5.96778501
+  },
+  "St. Katharinen Spital, Spitalgarten, c": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Neupfarrplatz, Regensburg": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Stadtgarten Emden, Emden": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Rund um das Rathaus, Münster, Münster": {
+    "lat": 53.27419451,
+    "lon": 7.02721758
+  },
+  "Aegidiimarkt, Munster, Münster": {
+    "lat": 53.27419451,
+    "lon": 7.02721758
+  },
+  "Kirchplatz St. Lamberti, Prinzipalmarkt, Munster, Münster": {
+    "lat": 53.27419451,
+    "lon": 7.02721758
+  },
+  "Diverse locaties centrum Münster, Munster (DE)": {
+    "lat": 53.27419451,
+    "lon": 7.02721758
+  },
+  "Rathausmarkt Hamburg, Hamburg": {
+    "lat": 51.85165697,
+    "lon": 4.51101044
+  },
+  "Römerberg, Frankfurt am Main, Frankfurt am Main": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Altstadt, Marktplatz, Wittenberg, Wittenberg": {
+    "lat": 52.08907514,
+    "lon": 5.4727959
+  },
+  "Kulturhus Wekerom, Wekerom": {
+    "lat": 52.10262205,
+    "lon": 5.70526052
+  },
+  "De Muzenhof, Ermelo": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
   }
 }
