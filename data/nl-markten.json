@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T10:42:32.277Z",
+  "generatedAt": "2026-11-03T10:34:08.757Z",
   "events": [
     {
       "id": "mm-rommelmarkt-parking-ambulance-dienst-in-ramsel-3-november-2026",
@@ -1442,6 +1442,16 @@
       "url": "https://marktenmeer.nl/markt/winter-gelukskes-aan-t-water-22-november-2026/"
     },
     {
+      "id": "mm-rommelmarkt-parking-ambulance-dienst-in-ramsel-24-november-2026",
+      "title": "Rommelmarkt Parking Ambulance Dienst in Ramsel – 24 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-24T07:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-parking-ambulance-dienst-in-ramsel-24-november-2026/"
+    },
+    {
       "id": "mm-sint-intocht-wijchen-15-november-2026",
       "title": "Sint Intocht Wijchen – 15 november 2026",
       "category": "markt",
@@ -1662,6 +1672,16 @@
       "url": "https://marktenmeer.nl/markt/meesterlijk-herfst-fair-22-november-2026/"
     },
     {
+      "id": "mm-lamberti-kerstmarkt-in-oldenburg-24-november-2026",
+      "title": "Lamberti kerstmarkt Oldenburg 2026 – 53e editie",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-24T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/lamberti-kerstmarkt-in-oldenburg-24-november-2026/"
+    },
+    {
       "id": "mm-winterfair-borssele-6-november-2026",
       "title": "Winterfair Borssele op 6 november 2026",
       "category": "evenement",
@@ -1690,6 +1710,16 @@
       "date": "2026-11-23T10:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/de-regensburg-kerstmarkt-christkindlmarkt-23-november-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-berlijn-24-november-2026",
+      "title": "Kerstmarkt Berlijn – 24 november 2026 t/m 31 december 2026",
+      "category": "markt",
+      "lat": 51.85945872,
+      "lon": 4.4933103,
+      "date": "2026-11-24T12:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-berlijn-24-november-2026/"
     },
     {
       "id": "mm-binnenrommelmarkt-harderwijk-21-november-2026",
@@ -2232,16 +2262,6 @@
       "url": "https://marktenmeer.nl/markt/creamarkt-hof-ter-veste-21-november-2026/"
     },
     {
-      "id": "mm-adrillen-allerheiligenmarkt-2-november-2026",
-      "title": "Adrillen – Allerheiligenmarkt Winschoten – 2 november 2026",
-      "category": "markt",
-      "lat": 53.14063765,
-      "lon": 7.03498977,
-      "date": "2026-11-02T09:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/adrillen-allerheiligenmarkt-2-november-2026/"
-    },
-    {
       "id": "mm-kerstmarkt-essen-13-november-2026",
       "title": "Kerstmarkt Essen – 13 november t/m 23 december 2026",
       "category": "markt",
@@ -2722,6 +2742,16 @@
       "url": "https://marktenmeer.nl/markt/boekenbeurs-14-november-2026/"
     },
     {
+      "id": "mm-kerstmarkt-bamberg-24-november-2026",
+      "title": "Kerstmarkt Bamberg – 24 november tot 23 december 2026",
+      "category": "markt",
+      "lat": 52.23752563,
+      "lon": 6.00624354,
+      "date": "2026-11-24",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-bamberg-24-november-2026/"
+    },
+    {
       "id": "mm-kerstmarkt-frankfurt-am-main-23-november-2026",
       "title": "Kerstmarkt Frankfurt am Main – 23 november t/m 22 december 2026",
       "category": "markt",
@@ -2730,6 +2760,16 @@
       "date": "2026-11-23T10:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/kerstmarkt-frankfurt-am-main-23-november-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-in-passau-24-november-2026",
+      "title": "Kerstmarkt Passau – 24 november t/m 22 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-24",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-in-passau-24-november-2026/"
     },
     {
       "id": "mm-kerstmarkt-in-wittenberg-23-november-2026",
@@ -2930,6 +2970,146 @@
       "date": "2026-11-06T18:30:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/tweedehands-speelgoedmarkt-6-november-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-winteratelier-clinge-14-november-2026",
+      "title": "Kerstmarkt & Winteratelier Clinge – 14 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-14T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-winteratelier-clinge-14-november-2026/"
+    },
+    {
+      "id": "mm-hobby-en-kunstmarkt-roggel-8-november-2026",
+      "title": "Hobby en kunstmarkt Roggel – 8 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-08T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/hobby-en-kunstmarkt-roggel-8-november-2026/"
+    },
+    {
+      "id": "mm-grootste-indoor-tweedehandsbeurs-van-de-benelux-8-november-2026",
+      "title": "Grootste indoor tweedehandsbeurs van de Benelux Hasselt – 8 november 2026, 11 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-08T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/grootste-indoor-tweedehandsbeurs-van-de-benelux-8-november-2026/"
+    },
+    {
+      "id": "mm-kerstdmarkt-lingen-23-november-2026",
+      "title": "Kerstmarkt Lingen – 23 november tot en met 30 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-23",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstdmarkt-lingen-23-november-2026/"
+    },
+    {
+      "id": "mm-sinterklaasintocht-stad-aan-t-haringvliet-21-november-2026",
+      "title": "Sinterklaasintocht Stad aan 't Haringvliet – 21 november 2026",
+      "category": "evenement",
+      "lat": 51.73982989,
+      "lon": 4.24400838,
+      "date": "2026-11-21T14:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/sinterklaasintocht-stad-aan-t-haringvliet-21-november-2026/"
+    },
+    {
+      "id": "mm-verlichte-sinterklaas-intocht-zetten-14-november-2026",
+      "title": "Verlichte Sinterklaas intocht Zetten – 14 november 2026",
+      "category": "evenement",
+      "lat": 51.92794907,
+      "lon": 5.71833498,
+      "date": "2026-11-14",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/verlichte-sinterklaas-intocht-zetten-14-november-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-aurich-23-november-2026",
+      "title": "Kerstmarkt Aurich – 23 november t/m 30 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-23",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-aurich-23-november-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-in-moers-13-november-2026",
+      "title": "Kerstmarkt Moers – 13 november t/m 22 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-13T12:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-in-moers-13-november-2026/"
+    },
+    {
+      "id": "mm-de-kerstsfeerdagen-20-november-2026",
+      "title": "De Kerstsfeerdagen Drenthe – Oosterhesselen – 20 t/m 22 november 2026",
+      "category": "markt",
+      "lat": 52.75322333,
+      "lon": 6.73002262,
+      "date": "2026-11-20T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/de-kerstsfeerdagen-20-november-2026/"
+    },
+    {
+      "id": "mm-herfstgloed-en-winterlicht-fair-7-november-2026",
+      "title": "Herfstgloed en winterlicht fair Emmen – 7 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-07T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/herfstgloed-en-winterlicht-fair-7-november-2026/"
+    },
+    {
+      "id": "mm-kerst-op-landgoed-welgelegen-14-november-2026",
+      "title": "Kerst op Landgoed Welgelegen Koekange – 14 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-14T11:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerst-op-landgoed-welgelegen-14-november-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-donderboerkamp-20-november-2026",
+      "title": "Kerstmarkt Donderen – 20 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-20T15:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-donderboerkamp-20-november-2026/"
+    },
+    {
+      "id": "mm-intocht-sinterklaas-op-rosendael-20-november-2026-2",
+      "title": "Intocht Sinterklaas Rozendaal – 20 november 2026",
+      "category": "evenement",
+      "lat": 52.00928429,
+      "lon": 5.96464771,
+      "date": "2026-11-20T15:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/intocht-sinterklaas-op-rosendael-20-november-2026-2/"
+    },
+    {
+      "id": "mm-intocht-sinterklaas-otterlo-21-november-2026",
+      "title": "Intocht Sinterklaas Otterlo – 21 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-21T13:45:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/intocht-sinterklaas-otterlo-21-november-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-676",
