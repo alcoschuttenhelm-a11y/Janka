@@ -1,26 +1,6 @@
 {
-  "generatedAt": "2026-11-04T10:37:29.161Z",
+  "generatedAt": "2026-11-05T10:30:43.145Z",
   "events": [
-    {
-      "id": "mm-rommelmarkt-in-de-meeuw-amsterdam-4-november-2026",
-      "title": "Rommelmarkt in De Meeuw – Amsterdam – 4 november 2026",
-      "category": "markt",
-      "lat": 52.37344272,
-      "lon": 4.90454379,
-      "date": "2026-11-04T09:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/rommelmarkt-in-de-meeuw-amsterdam-4-november-2026/"
-    },
-    {
-      "id": "mm-braderie-najaarsmarkt-centrum-assen-4-november-2026",
-      "title": "Braderie Najaarsmarkt Centrum Assen – 4 november 2026",
-      "category": "braderie",
-      "lat": 53.00127298,
-      "lon": 6.55246624,
-      "date": "2026-11-04T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/braderie-najaarsmarkt-centrum-assen-4-november-2026/"
-    },
     {
       "id": "mm-leste-mert-druten-5-november-2026",
       "title": "Leste Mert Druten – donderdag 5 november 2026",
@@ -1952,6 +1932,16 @@
       "url": "https://marktenmeer.nl/markt/weihnachtsmarkte-munster-23-november-2026/"
     },
     {
+      "id": "mm-oberhausener-weihnachtswald-altstadt-26-november-2026",
+      "title": "Oberhausener Weihnachtswald (Altstadt) Oberhausen – 26 november t/m 20 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-26",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/oberhausener-weihnachtswald-altstadt-26-november-2026/"
+    },
+    {
       "id": "mm-kerstmarkt-westfield-centro-oberhausen-15-november-2026",
       "title": "Kerstmarkt Westfield CentrO Oberhausen – 15 november t/m 23 december 2026",
       "category": "markt",
@@ -2070,6 +2060,16 @@
       "date": "2026-11-14T11:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/herfstmarkt-14-november-2026/"
+    },
+    {
+      "id": "mm-wintermarkt-de-vermeer-26-november-2026",
+      "title": "Wintermarkt De Vermeer Assen – 26 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-26T12:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/wintermarkt-de-vermeer-26-november-2026/"
     },
     {
       "id": "mm-boekenbeurs-zutphen-2026-8-november-2026",
@@ -2260,16 +2260,6 @@
       "date": "2026-11-08T09:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/binnen-rommelmarkt-8-november-2026-2/"
-    },
-    {
-      "id": "mm-kinderkleding-en-speelgoedbeurs-boxtel-4-november-2026",
-      "title": "Kinderkleding- en speelgoedbeurs Boxtel – 4 november 2026",
-      "category": "evenement",
-      "lat": 51.58115372,
-      "lon": 5.32404125,
-      "date": "2026-11-04T19:30:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/kinderkleding-en-speelgoedbeurs-boxtel-4-november-2026/"
     },
     {
       "id": "mm-creamarkt-hof-ter-veste-21-november-2026",
@@ -2762,6 +2752,16 @@
       "url": "https://marktenmeer.nl/markt/boekenbeurs-14-november-2026/"
     },
     {
+      "id": "mm-amsterdam-light-festival-26-november-2026",
+      "title": "Amsterdam Light Festival Amsterdam – 26 november 2026 t/m 17 januari 2027",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-26T16:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/amsterdam-light-festival-26-november-2026/"
+    },
+    {
       "id": "mm-kerstmarkt-bamberg-24-november-2026",
       "title": "Kerstmarkt Bamberg – 24 november tot 23 december 2026",
       "category": "markt",
@@ -3060,6 +3060,16 @@
       "date": "2026-11-23",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/kerstmarkt-aurich-23-november-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-baden-baden-uniek-in-sfeer-en-beleving-baden-badener-christkindelsmarkt-26-november-2026",
+      "title": "Kerstmarkt Baden-Baden – 26 november 2026 t/m 6 januari 2027",
+      "category": "markt",
+      "lat": 51.69760836,
+      "lon": 5.31134533,
+      "date": "2026-11-26T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-baden-baden-uniek-in-sfeer-en-beleving-baden-badener-christkindelsmarkt-26-november-2026/"
     },
     {
       "id": "mm-kerstmarkt-in-moers-13-november-2026",
@@ -3422,6 +3432,76 @@
       "url": "https://marktenmeer.nl/markt/platen-en-cd-beurs-parochiecentrum-peer-7-november-2026/"
     },
     {
+      "id": "mm-winterfair-adorp-21-november-2026",
+      "title": "Winterfair Adorp – 21 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-21T15:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/winterfair-adorp-21-november-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-erfurt-24-november-2026",
+      "title": "Kerstmarkt Erfurt – 24 november t/m 22 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-24",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-erfurt-24-november-2026/"
+    },
+    {
+      "id": "mm-light-safari-beekse-bergen-26-november-2026",
+      "title": "Light Safari Beekse Bergen Hilvarenbeek – 26 november 2026 t/m 28 februari 2027",
+      "category": "evenement",
+      "lat": 51.5247693,
+      "lon": 5.11641934,
+      "date": "2026-11-26T17:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/light-safari-beekse-bergen-26-november-2026/"
+    },
+    {
+      "id": "mm-sprookjeskerstmarkt-in-kassel-23-november-2026",
+      "title": "Sprookjeskerstmarkt Kassel – 23 november t/m 30 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-23T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/sprookjeskerstmarkt-in-kassel-23-november-2026/"
+    },
+    {
+      "id": "mm-vintage-brocante-kerst-festival-in-warenhuis-strant-21-november-2026",
+      "title": "Vintage & Brocante Kerst Festival Haren – 21 t/m 22 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-21",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/vintage-brocante-kerst-festival-in-warenhuis-strant-21-november-2026/"
+    },
+    {
+      "id": "mm-indoor-kerstmarkt-aarschot-21-november-2026",
+      "title": "Indoor Kerstmarkt Aarschot – 21 & 22 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-21T12:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/indoor-kerstmarkt-aarschot-21-november-2026/"
+    },
+    {
+      "id": "mm-jaarlijkse-bazaar-fancy-fair-christusgemeente-11-november-2026",
+      "title": "Jaarlijkse Bazaar en Rommelmarkt Antwerpen – 11 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-11T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/jaarlijkse-bazaar-fancy-fair-christusgemeente-11-november-2026/"
+    },
+    {
       "id": "ec-evenementenlijst.nl-676",
       "title": "Braderie Mijdrecht zaterdag 7 november 2026",
       "category": "braderie",
@@ -3440,16 +3520,6 @@
       "date": "2026-11-21T10:00:00",
       "source": "evenementenlijst.nl",
       "url": "https://evenementenlijst.nl/evenement/braderie-zaterdag-21-november-2026-centrum-baarn-u/"
-    },
-    {
-      "id": "ec-wildro.nl-612",
-      "title": "Braderie Najaarsmarkt Centrum Assen",
-      "category": "braderie",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-04T10:00:00",
-      "source": "wildro.nl",
-      "url": "https://wildro.nl/event/braderie-najaarsmarkt-centrum-assen/"
     },
     {
       "id": "ec-wildro.nl-703",
