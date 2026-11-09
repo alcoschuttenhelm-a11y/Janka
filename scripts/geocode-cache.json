@@ -6958,5 +6958,93 @@
   "MFC De Drieschaar, Ossendrecht": {
     "lat": 52.75180122,
     "lon": 5.96778501
+  },
+  "SGO Nederweert, Nederweert": {
+    "lat": 51.29435762,
+    "lon": 5.7733212
+  },
+  "Scoutinggebouw Horn, Horn": {
+    "lat": 51.21438721,
+    "lon": 5.93263192
+  },
+  "Burchhorndplatz, Friedrichshafen, Friendrichshafen (D)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Altstadt, Rathausplatz, Kiel, Kiel (D)": {
+    "lat": 52.86447787,
+    "lon": 6.73523278
+  },
+  "Wasserturm, Mannheim, Mannheim (D)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Binnenplein stadhuis, Genk (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Nieuwe Graanmarkt, Brussel (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "FCS Mariekerke - Branst, Bornem (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "GC De Pit, Buggenhout (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Hartje Brasschaat (Hemelweide), Brasschaat (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Sporthal aan de Steensedijk, Oostende (BE) (kust)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Ebrius Artis, Brussel (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Binnenplaats Nationaal Gevangenismuseum, Veenhuizen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Catharinakerk, Doetinchem (achterhoek)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Brinkstraat 69, Putten": {
+    "lat": 52.26283302,
+    "lon": 5.60636191
+  },
+  "Le Silex, Sint-Lambrechts-Woluwe (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Boerderij De Moriaan, Lunteren": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Woonzorgpark De Hartenberg, Wekerom": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Centrum Eenheid, Wezemaal (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Zaal Ter Wilgen, Petegem-Aan-De-Leie (BE)": {
+    "lat": 52.26604867,
+    "lon": 4.76198271
+  },
+  "Salle des fêtes (gemeentelijke feestzaal), Sint-Agatha-Berchem (BE)": {
+    "lat": 51.70875296,
+    "lon": 5.90440016
+  },
+  "Trefcentrum Moorsel, Moorsel (BE)": {
+    "lat": 51.41495599,
+    "lon": 5.6538329
   }
 }
