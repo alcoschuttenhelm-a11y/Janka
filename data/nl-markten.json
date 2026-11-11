@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-11-10T10:53:54.549Z",
+  "generatedAt": "2026-11-11T10:32:23.414Z",
   "events": [
-    {
-      "id": "mm-rommelmarkt-parking-ambulance-dienst-in-ramsel-10-november-2026",
-      "title": "Rommelmarkt Parking Ambulance Dienst in Ramsel – 10 november 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-10T07:30:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/rommelmarkt-parking-ambulance-dienst-in-ramsel-10-november-2026/"
-    },
     {
       "id": "mm-cd-platenbeurs-11-november-2026",
       "title": "CD & Platenbeurs in Tielt – 11 november 2026",
@@ -1652,6 +1642,26 @@
       "url": "https://marktenmeer.nl/markt/rommelmarkt-parking-ambulance-dienst-in-ramsel-1-december-2026/"
     },
     {
+      "id": "mm-rommelmarkt-in-de-meeuw-amsterdam-2-december-2026",
+      "title": "Rommelmarkt in De Meeuw – Amsterdam – 2 december 2026",
+      "category": "markt",
+      "lat": 52.37344272,
+      "lon": 4.90454379,
+      "date": "2026-12-02T09:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-in-de-meeuw-amsterdam-2-december-2026/"
+    },
+    {
+      "id": "mm-rommelmarkt-in-de-meeuw-2-december-2026",
+      "title": "Rommelmarkt in de Meeuw in Amsterdam – 2 december 2026",
+      "category": "markt",
+      "lat": 52.33307961,
+      "lon": 6.6345404,
+      "date": "2026-12-02T09:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-in-de-meeuw-2-december-2026/"
+    },
+    {
       "id": "mm-smaak-van-de-winter-28-november-2026",
       "title": "Smaak van de Winter in Den Haag – 28 & 29 november 2026",
       "category": "markt",
@@ -3022,6 +3032,16 @@
       "url": "https://marktenmeer.nl/markt/jaarmarkt-sint-lievens-houtem-12-november-2026/"
     },
     {
+      "id": "mm-jaarmarkt-sint-niklaas-2-december-2026",
+      "title": "Jaarmarkt Sint-Niklaas – 2 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-02T13:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/jaarmarkt-sint-niklaas-2-december-2026/"
+    },
+    {
       "id": "mm-jaarmarkt-sint-pieters-leeuw-11-november-2026",
       "title": "Jaarmarkt Sint-Pieters-Leeuw – 11 november 2026",
       "category": "markt",
@@ -4110,6 +4130,56 @@
       "date": "2026-11-15T10:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/gezellige-overdekte-rommelmarkt-met-live-muziek-15-november-2026/"
+    },
+    {
+      "id": "mm-verkoping-tweedehands-boeken-leerdam-20-november-2026",
+      "title": "Verkoping Tweedehands boeken Leerdam – 20 en 21 november 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-20T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/verkoping-tweedehands-boeken-leerdam-20-november-2026/"
+    },
+    {
+      "id": "mm-vlooien-curiosa-en-verzamelmarkt-15-november-2026",
+      "title": "Vlooien- Curiosa- en Verzamelmarkt Enschede – 15 november 2026",
+      "category": "markt",
+      "lat": 52.21764291,
+      "lon": 6.897952,
+      "date": "2026-11-15T12:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/vlooien-curiosa-en-verzamelmarkt-15-november-2026/"
+    },
+    {
+      "id": "mm-kerst-rommelmarkt-kampen-20-november-2026",
+      "title": "Kerst rommelmarkt Kampen – 20 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-20T12:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerst-rommelmarkt-kampen-20-november-2026/"
+    },
+    {
+      "id": "mm-tweedehands-boekenverkoop-in-kerk-van-poesele-deinze-15-november-2026",
+      "title": "Tweedehands boekenverkoop Poesele – 15 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-15T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/tweedehands-boekenverkoop-in-kerk-van-poesele-deinze-15-november-2026/"
+    },
+    {
+      "id": "mm-2dehands-volwassenkledingmarkt-nunspeet-14-november-2026",
+      "title": "2dehands volwassenkledingmarkt Nunspeet – 14 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-14T19:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/2dehands-volwassenkledingmarkt-nunspeet-14-november-2026/"
     },
     {
       "id": "ec-evenementenlijst.nl-14936",
