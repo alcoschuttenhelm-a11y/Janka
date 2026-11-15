@@ -1,36 +1,6 @@
 {
-  "generatedAt": "2026-11-14T09:57:15.053Z",
+  "generatedAt": "2026-11-15T10:31:58.497Z",
   "events": [
-    {
-      "id": "mm-sinterklaasintocht-ouddorp-14-november-2026",
-      "title": "Sinterklaasintocht Ouddorp – 14 november 2026",
-      "category": "evenement",
-      "lat": 51.80043096,
-      "lon": 3.94273302,
-      "date": "2026-11-14",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/sinterklaasintocht-ouddorp-14-november-2026/"
-    },
-    {
-      "id": "mm-antiek-en-rommelmarkt-koning-albertplein-in-hamme-14-november-2026",
-      "title": "Antiek- en rommelmarkt Koning Albertplein in Hamme – 14 november 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T08:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/antiek-en-rommelmarkt-koning-albertplein-in-hamme-14-november-2026/"
-    },
-    {
-      "id": "mm-weerselose-markt-zaterdagmarkt-in-weerselo-14-november-2026",
-      "title": "Weerselose Markt zaterdagmarkt in Weerselo – 14 november 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T08:30:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/weerselose-markt-zaterdagmarkt-in-weerselo-14-november-2026/"
-    },
     {
       "id": "mm-ij-hallen-vlooienmarkt-amsterdam-14-15-november-2026",
       "title": "IJ-Hallen Vlooienmarkt Amsterdam – 14 & 15 november 2026",
@@ -40,26 +10,6 @@
       "date": "2026-11-14T09:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/ij-hallen-vlooienmarkt-amsterdam-14-15-november-2026/"
-    },
-    {
-      "id": "mm-kadomarkt-vinkenplein-bilthoven-14-november-2026",
-      "title": "Kadomarkt Vinkenplein Bilthoven – zaterdag 14 november 2026 | Bilthoven",
-      "category": "markt",
-      "lat": 52.1286528,
-      "lon": 5.20627894,
-      "date": "2026-11-14T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/kadomarkt-vinkenplein-bilthoven-14-november-2026/"
-    },
-    {
-      "id": "mm-najaarsbraderie-baarn-14-november-2026",
-      "title": "Najaarsbraderie Baarn – Brink & Laanstraat | 14 november 2026",
-      "category": "braderie",
-      "lat": 52.20712881,
-      "lon": 5.27134105,
-      "date": "2026-11-14T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/najaarsbraderie-baarn-14-november-2026/"
     },
     {
       "id": "mm-krea-kado-en-ambachtenmarkt-hoogerheide-14-en-15-november-2026",
@@ -80,86 +30,6 @@
       "date": "2026-11-14T10:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/rommel-en-brocantemarkt-karteria-diest-14-15-november-2026/"
-    },
-    {
-      "id": "mm-boekenmarkt-ringvaartkerk-in-nieuwerkerk-aan-den-ijssel-14-november-2026",
-      "title": "Boekenmarkt Ringvaartkerk in Nieuwerkerk aan den IJssel – 14 november 2026",
-      "category": "markt",
-      "lat": 51.96558666,
-      "lon": 4.61830127,
-      "date": "2026-11-14T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/boekenmarkt-ringvaartkerk-in-nieuwerkerk-aan-den-ijssel-14-november-2026/"
-    },
-    {
-      "id": "mm-leute-op-de-markt-geschenkenmarktje-14-november-2026",
-      "title": "Leute op de Markt – Geschenkenmarktje in Brugge – 14 november 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/leute-op-de-markt-geschenkenmarktje-14-november-2026/"
-    },
-    {
-      "id": "mm-verzamelbeurs-alblasserdam-14-november-2026",
-      "title": "Algemene verzamelbeurs Alblasserdam – zaterdag 14 november 2026",
-      "category": "evenement",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T11:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/verzamelbeurs-alblasserdam-14-november-2026/"
-    },
-    {
-      "id": "mm-landelijke-intocht-van-sinterklaas-14-november-2026",
-      "title": "Landelijke intocht van Sinterklaas in Grave – 14 november 2026",
-      "category": "evenement",
-      "lat": 51.76069505,
-      "lon": 5.74144394,
-      "date": "2026-11-14T12:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/landelijke-intocht-van-sinterklaas-14-november-2026/"
-    },
-    {
-      "id": "mm-sinterklaasintocht-zevenbergen-14-november-2026",
-      "title": "Sinterklaasintocht Zevenbergen – 14 november 2026",
-      "category": "evenement",
-      "lat": 51.64841993,
-      "lon": 4.60525576,
-      "date": "2026-11-14T13:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/sinterklaasintocht-zevenbergen-14-november-2026/"
-    },
-    {
-      "id": "mm-intocht-sinterklaas-bergen-op-zoom-14-november-2026",
-      "title": "Intocht Sinterklaas Bergen op Zoom – 14 november 2026",
-      "category": "evenement",
-      "lat": 51.48958551,
-      "lon": 4.29725393,
-      "date": "2026-11-14T13:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/intocht-sinterklaas-bergen-op-zoom-14-november-2026/"
-    },
-    {
-      "id": "mm-sinterklaasintocht-middelharnis-14-november-2026",
-      "title": "Sinterklaasintocht Middelharnis – 14 november 2026",
-      "category": "evenement",
-      "lat": 51.75945013,
-      "lon": 4.19773081,
-      "date": "2026-11-14T14:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/sinterklaasintocht-middelharnis-14-november-2026/"
-    },
-    {
-      "id": "mm-intocht-sinterklaas-14-november-2026",
-      "title": "Intocht Sinterklaas in Voorthuizen – 14 november 2026",
-      "category": "evenement",
-      "lat": 52.18659368,
-      "lon": 5.6077449,
-      "date": "2026-11-14T15:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/intocht-sinterklaas-14-november-2026/"
     },
     {
       "id": "mm-intocht-sinterklaas-sprundel-15-november-2026",
@@ -1562,6 +1432,26 @@
       "url": "https://marktenmeer.nl/markt/rommelmarkt-in-de-meeuw-2-december-2026/"
     },
     {
+      "id": "mm-vorstelijke-winterfair-kasteel-groeneveld-4-6-december-2026",
+      "title": "Vorstelijke WinterFair Kasteel Groeneveld – 4 t/m 6 december 2026 | Baarn",
+      "category": "evenement",
+      "lat": 52.2159211,
+      "lon": 5.25282031,
+      "date": "2026-12-04T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/vorstelijke-winterfair-kasteel-groeneveld-4-6-december-2026/"
+    },
+    {
+      "id": "mm-christmas-fair-vorden-4-5-6-december-2026",
+      "title": "Christmas Fair Vorden – 4, 5 & 6 december 2026 | Kasteel Vorden",
+      "category": "evenement",
+      "lat": 52.1015288,
+      "lon": 6.34079887,
+      "date": "2026-12-04T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/christmas-fair-vorden-4-5-6-december-2026/"
+    },
+    {
       "id": "mm-wintermarkt-nieuwrode-4-december-2026",
       "title": "Wintermarkt Nieuwrode – 4 en 5 december 2026",
       "category": "markt",
@@ -1672,6 +1562,16 @@
       "url": "https://marktenmeer.nl/markt/rommelmarkt-strijp-eindhoven-5-december-2026-t-struikske/"
     },
     {
+      "id": "mm-rommelbeurs-antiek-en-brocante-wieze-5-en-6-december-2026",
+      "title": "Rommelbeurs (Antiek en Brocante) Wieze – 5 en 6 december 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-05T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelbeurs-antiek-en-brocante-wieze-5-en-6-december-2026/"
+    },
+    {
       "id": "mm-boerenmarkt-vijzelstraat-leeuwarden-5-december-2026",
       "title": "Boerenmarkt in de Vijzelstraat – Zaterdag 5 december 2026 – Leeuwarden",
       "category": "markt",
@@ -1710,6 +1610,256 @@
       "date": "2026-12-05T12:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/vintagebeurs-utrecht-5-december-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-ichthuskerk-alblasserdam-6-december-2026",
+      "title": "Kerstmarkt Ichthuskerk in Alblasserdam op 6 december 2026",
+      "category": "markt",
+      "lat": 51.86465403,
+      "lon": 4.6657289,
+      "date": "2026-12-06",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-ichthuskerk-alblasserdam-6-december-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-dinxperlo-6-december-2026",
+      "title": "Kerstmarkt Dinxperlo – 6 december 2026",
+      "category": "markt",
+      "lat": 51.86511076,
+      "lon": 6.48617146,
+      "date": "2026-12-06",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-dinxperlo-6-december-2026/"
+    },
+    {
+      "id": "mm-antiekmarkt-tongeren-6-december-2026",
+      "title": "Antiekmarkt Tongeren – 6 december 2026",
+      "category": "markt",
+      "lat": 51.59059195,
+      "lon": 5.29373009,
+      "date": "2026-12-06T07:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/antiekmarkt-tongeren-6-december-2026/"
+    },
+    {
+      "id": "mm-mega-vlooienmarkt-expo-greater-amsterdam-6-december-2026",
+      "title": "MEGA VLOOIENMARKT EXPO Greater Amsterdam in Vijfhuizen – 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T09:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/mega-vlooienmarkt-expo-greater-amsterdam-6-december-2026/"
+    },
+    {
+      "id": "mm-vlooienmarkt-vught-martinihal-6-december-2026",
+      "title": "Vlooienmarkt Martinihal in Vught – 6 december 2026",
+      "category": "markt",
+      "lat": 51.65035998,
+      "lon": 5.24260833,
+      "date": "2026-12-06T09:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/vlooienmarkt-vught-martinihal-6-december-2026/"
+    },
+    {
+      "id": "mm-vlooienmarkt-sporthal-in-de-bandert-6-december-2026",
+      "title": "Vlooienmarkt Sporthal In De Bandert in Echt – 6 december 2026",
+      "category": "markt",
+      "lat": 51.1030499,
+      "lon": 5.89612942,
+      "date": "2026-12-06T09:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/vlooienmarkt-sporthal-in-de-bandert-6-december-2026/"
+    },
+    {
+      "id": "mm-mega-snuffelmarkt-breda-6-december-2026",
+      "title": "Mega Snuffelmarkt Breda – 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T09:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/mega-snuffelmarkt-breda-6-december-2026/"
+    },
+    {
+      "id": "mm-antiek-rommelmarkt-te-oudenaarde-6-december-2026",
+      "title": "Antiek & Rommelmarkt in Oudenaarde – 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T09:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/antiek-rommelmarkt-te-oudenaarde-6-december-2026/"
+    },
+    {
+      "id": "mm-platenbeurs-leiden-6-december-2026",
+      "title": "Platenbeurs – Leiden – 6 december 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/platenbeurs-leiden-6-december-2026/"
+    },
+    {
+      "id": "mm-rommelmarkt-bossche-buurt-bazaar-den-bosch-6-december-2026",
+      "title": "Rommelmarkt Bossche Buurt Bazaar – Den Bosch – 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-bossche-buurt-bazaar-den-bosch-6-december-2026/"
+    },
+    {
+      "id": "mm-flowerdome-eelde-vlooienmarkt-6-december-2026",
+      "title": "Eelde Flowerdome vlooienmarkt – vlooienmarkt in Eelde (6 december 2026)",
+      "category": "markt",
+      "lat": 53.13060127,
+      "lon": 6.57415851,
+      "date": "2026-12-06T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/flowerdome-eelde-vlooienmarkt-6-december-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-schelle-op-6-december-2026",
+      "title": "Kerstmarkt Schelle op 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-schelle-op-6-december-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-achtmaal-6-december-2026",
+      "title": "Kerstmarkt Achtmaal – 6 december 2026",
+      "category": "markt",
+      "lat": 51.45481816,
+      "lon": 4.57112349,
+      "date": "2026-12-06T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-achtmaal-6-december-2026/"
+    },
+    {
+      "id": "mm-stoffenmarkt-sint-niklaas-6-december-2026",
+      "title": "Stoffenmarkt Sint-Niklaas – 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/stoffenmarkt-sint-niklaas-6-december-2026/"
+    },
+    {
+      "id": "mm-internationale-platenbeurs-flanders-expo-gent-6-december-2026",
+      "title": "Internationale Platenbeurs Flanders Expo Gent – 6 december 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/internationale-platenbeurs-flanders-expo-gent-6-december-2026/"
+    },
+    {
+      "id": "mm-rommelmarkt-wijkcentrum-de-wieken-6-december-2026",
+      "title": "Rommelmarkt Wijkcentrum de Wieken in Roosendaal – 6 december 2026",
+      "category": "markt",
+      "lat": 51.51319146,
+      "lon": 4.42451062,
+      "date": "2026-12-06T10:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkt-wijkcentrum-de-wieken-6-december-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-krommenie-6-december-2026",
+      "title": "Kerstmarkt Krommenie – Krommenie – 6 december 2026",
+      "category": "markt",
+      "lat": 52.5068598,
+      "lon": 4.76153385,
+      "date": "2026-12-06T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-krommenie-6-december-2026/"
+    },
+    {
+      "id": "mm-vlooienmarkt-schiedam-centrum-6-december-2026",
+      "title": "Vlooienmarkt Schiedam Centrum – Schiedam – 6 december 2026",
+      "category": "markt",
+      "lat": 51.91784676,
+      "lon": 4.40167506,
+      "date": "2026-12-06T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/vlooienmarkt-schiedam-centrum-6-december-2026/"
+    },
+    {
+      "id": "mm-winter-dog-fair-in-sint-willebrord-6-december-2026",
+      "title": "Winter & Dog Fair in Sint Willebrord – 6 december 2026",
+      "category": "markt",
+      "lat": 51.551021,
+      "lon": 4.58785914,
+      "date": "2026-12-06T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/winter-dog-fair-in-sint-willebrord-6-december-2026/"
+    },
+    {
+      "id": "mm-posterenks-winterdorp-6-december-2026",
+      "title": "Posterenks Winterdorp in Posterenk – 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/posterenks-winterdorp-6-december-2026/"
+    },
+    {
+      "id": "mm-binnen-en-buiten-kerstmarkt-6-december-2026",
+      "title": "Binnen- en buiten Kerstmarkt in Landgraaf – 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/binnen-en-buiten-kerstmarkt-6-december-2026/"
+    },
+    {
+      "id": "mm-swan-market-delft-6-december-2026",
+      "title": "Swan Market Delft – 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T12:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/swan-market-delft-6-december-2026/"
+    },
+    {
+      "id": "mm-snuffelmarkt-veerplein-vlaardingen-centrum-6-december-2026",
+      "title": "Snuffelmarkt Veerplein Vlaardingen – 6 december 2026.",
+      "category": "markt",
+      "lat": 51.91023065,
+      "lon": 4.34030195,
+      "date": "2026-12-06T12:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/snuffelmarkt-veerplein-vlaardingen-centrum-6-december-2026/"
+    },
+    {
+      "id": "mm-boekenmarkt-ossendrecht-6-december-2026",
+      "title": "Boekenmarkt Gertrudiskerk in Ossendrecht – 6 december 2026",
+      "category": "markt",
+      "lat": 51.39506366,
+      "lon": 4.33529985,
+      "date": "2026-12-06T13:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boekenmarkt-ossendrecht-6-december-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-bornem-6-december-2026",
+      "title": "Kerstmarkt Bornem – 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T14:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-bornem-6-december-2026/"
     },
     {
       "id": "mm-smaak-van-de-winter-28-november-2026",
@@ -1790,26 +1940,6 @@
       "date": "2026-11-29T11:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/nostalgische-kerstmarkt-29-november-2026/"
-    },
-    {
-      "id": "mm-sinterklaasintocht-14-november-2026",
-      "title": "Sinterklaasintocht in Putten – 14 november 2026",
-      "category": "evenement",
-      "lat": 52.2615377,
-      "lon": 5.60676861,
-      "date": "2026-11-14T14:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/sinterklaasintocht-14-november-2026/"
-    },
-    {
-      "id": "mm-intocht-sinterklaas-14-november-2026-2",
-      "title": "Intocht Sinterklaas in Oud-Beijerland – 14 november 2026",
-      "category": "evenement",
-      "lat": 51.80970132,
-      "lon": 4.41337721,
-      "date": "2026-11-14T14:45:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/intocht-sinterklaas-14-november-2026-2/"
     },
     {
       "id": "mm-sinterklaas-in-zuidhorn-21-november-2026",
@@ -1942,16 +2072,6 @@
       "url": "https://marktenmeer.nl/markt/streekproductenmarkt-nienoord-in-leek-5-december-2026/"
     },
     {
-      "id": "mm-sinterklaas-intocht-hoorn-14-november-2026",
-      "title": "Sinterklaas intocht Hoorn – 14 november 2026",
-      "category": "evenement",
-      "lat": 52.62993233,
-      "lon": 5.07192464,
-      "date": "2026-11-14T11:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/sinterklaas-intocht-hoorn-14-november-2026/"
-    },
-    {
       "id": "mm-wintermarkt-bij-camping-meck-28-november-2026",
       "title": "Wintermarkt bij Camping Meck in Maarsbergen – 28 november 2026",
       "category": "markt",
@@ -1970,16 +2090,6 @@
       "date": "2026-11-15T11:30:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/sinterklaasintocht-best-15-november-2026/"
-    },
-    {
-      "id": "mm-intocht-sinterklaas-de-heen-14-november-2026",
-      "title": "Intocht Sinterklaas De Heen – 14 november 2026",
-      "category": "evenement",
-      "lat": 51.61105324,
-      "lon": 4.25280586,
-      "date": "2026-11-14T14:15:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/intocht-sinterklaas-de-heen-14-november-2026/"
     },
     {
       "id": "mm-winterfair-old-ruitenborgh-20-november-2026-2",
@@ -2070,16 +2180,6 @@
       "date": "2026-11-21T09:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/binnenrommelmarkt-harderwijk-21-november-2026/"
-    },
-    {
-      "id": "mm-winterbraderie-op-wintereiland-vakantiepark-eiland-van-maurik-14-november-2026",
-      "title": "Winterbraderie op Wintereiland Maurik – 14 november 2026",
-      "category": "braderie",
-      "lat": 51.97540517,
-      "lon": 5.41674009,
-      "date": "2026-11-14",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/winterbraderie-op-wintereiland-vakantiepark-eiland-van-maurik-14-november-2026/"
     },
     {
       "id": "mm-winterbraderie-op-wintereiland-28-november-2026",
@@ -2402,6 +2502,16 @@
       "url": "https://marktenmeer.nl/markt/sunday-market-de-koepel-29-november-2026/"
     },
     {
+      "id": "mm-sunday-market-westergas-6-december-2026",
+      "title": "Sunday Market Westergas Amsterdam – 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T12:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/sunday-market-westergas-6-december-2026/"
+    },
+    {
       "id": "mm-snuffelmarkt-28-november-2026",
       "title": "Snuffelmarkt Heelsum – 28 november 2026",
       "category": "markt",
@@ -2452,16 +2562,6 @@
       "url": "https://marktenmeer.nl/markt/supervlooi-leeuwarden-22-november-2026/"
     },
     {
-      "id": "mm-herfstmarkt-14-november-2026",
-      "title": "Herfstmarkt ’s-Gravendeel – 14 november 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T11:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/herfstmarkt-14-november-2026/"
-    },
-    {
       "id": "mm-wintermarkt-de-vermeer-26-november-2026",
       "title": "Wintermarkt De Vermeer Assen – 26 november 2026",
       "category": "markt",
@@ -2470,6 +2570,16 @@
       "date": "2026-11-26T12:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/wintermarkt-de-vermeer-26-november-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-diepenheim-6-december-2026",
+      "title": "Kerstmarkt Diepenheim – 6 december 2026",
+      "category": "markt",
+      "lat": 52.20036032,
+      "lon": 6.55140877,
+      "date": "2026-12-06T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-diepenheim-6-december-2026/"
     },
     {
       "id": "mm-historische-kerstmarkt-nurnberg-nurnberger-christkindlesmarkt-27-november-2026",
@@ -2490,16 +2600,6 @@
       "date": "2026-11-23T11:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/kerstmarkt-hamburg-historischer-weihnachtsmarkt-rathausmarkt-23-november-2026/"
-    },
-    {
-      "id": "mm-boerenstreekmarkt-14-november-2026",
-      "title": "BoerenStreekMarkt Alde Leie – 14 november 2026",
-      "category": "markt",
-      "lat": 53.28678456,
-      "lon": 5.73320995,
-      "date": "2026-11-14T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/boerenstreekmarkt-14-november-2026/"
     },
     {
       "id": "mm-boerenstreekmarkt-28-november-2026",
@@ -2562,6 +2662,16 @@
       "url": "https://marktenmeer.nl/markt/winterfair-nieuwkoop-28-november-2026/"
     },
     {
+      "id": "mm-kerstmarkt-leeuwarden-schrans-6-december-2026",
+      "title": "GEANNULEERD: Schrans Kerstmarkt Leeuwarden – 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-leeuwarden-schrans-6-december-2026/"
+    },
+    {
       "id": "mm-sint-kerstmarkt-28-november-2026",
       "title": "Sint-Kerstmarkt Wormerveer – 28 november 2026",
       "category": "markt",
@@ -2570,6 +2680,16 @@
       "date": "2026-11-28T10:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/sint-kerstmarkt-28-november-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-landweert-6-december-2026",
+      "title": "Kerstmarkt Landweert Venray – 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-landweert-6-december-2026/"
     },
     {
       "id": "mm-kerstmarkt-kloster-graefenthal-27-november-2026",
@@ -2620,6 +2740,16 @@
       "date": "2026-11-22T10:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/jazz-for-sundays-met-platenbeurs-22-november-2026/"
+    },
+    {
+      "id": "mm-print-buddies-amsterdam-6-december-2026",
+      "title": "Print Buddies Amsterdam – 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/print-buddies-amsterdam-6-december-2026/"
     },
     {
       "id": "mm-creamarkt-hof-ter-veste-21-november-2026",
@@ -2682,16 +2812,6 @@
       "url": "https://marktenmeer.nl/markt/sinterklaas-in-veessen-vorchten-en-marle-21-november-2026/"
     },
     {
-      "id": "mm-brocante-marie-rose-14-november-2026",
-      "title": "Brocante Marie-Rose Molenbeek-Saint-Jean – 14 november 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T07:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/brocante-marie-rose-14-november-2026/"
-    },
-    {
       "id": "mm-winterfair-intratuin-arnhem-28-november-2026",
       "title": "Winterfair Intratuin Arnhem – 28 en 29 november 2026",
       "category": "evenement",
@@ -2742,16 +2862,6 @@
       "url": "https://marktenmeer.nl/markt/kerstmarkt-annaberg-buchholz-27-november-2026/"
     },
     {
-      "id": "mm-sinterklaasintocht-wageningen-14-november-2026",
-      "title": "Sinterklaasintocht Wageningen – 14 november 2026",
-      "category": "evenement",
-      "lat": 51.95432816,
-      "lon": 5.63161695,
-      "date": "2026-11-14T12:30:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/sinterklaasintocht-wageningen-14-november-2026/"
-    },
-    {
       "id": "mm-wintermarkt-living-inn-15-november-2026",
       "title": "Wintermarkt Living-Inn Lent – 15 november 2026",
       "category": "markt",
@@ -2772,6 +2882,16 @@
       "url": "https://marktenmeer.nl/markt/winterfair-markt-de-goorn-29-november-2026/"
     },
     {
+      "id": "mm-het-stift-in-kerstsfeer-6-december-2026",
+      "title": "GEANNULEERD: Het Stift in kerstsfeer in Weerselo – 6 december 2026",
+      "category": "markt",
+      "lat": 52.35581959,
+      "lon": 6.84348429,
+      "date": "2026-12-06T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/het-stift-in-kerstsfeer-6-december-2026/"
+    },
+    {
       "id": "mm-winterfair-spijk-28-november-2026",
       "title": "Winterfair Spijk – 28 november 2026",
       "category": "markt",
@@ -2790,6 +2910,16 @@
       "date": "2026-11-20T14:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/boekenmarkt-20-november-2026/"
+    },
+    {
+      "id": "mm-wijvenkraam-vintage-designmarkt-6-december-2026",
+      "title": "Wijvenkraam Arnhem – 6 december 2026",
+      "category": "markt",
+      "lat": 51.95546376,
+      "lon": 5.87566088,
+      "date": "2026-12-06T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/wijvenkraam-vintage-designmarkt-6-december-2026/"
     },
     {
       "id": "mm-wintermarkt-odendael-21-november-2026",
@@ -2892,6 +3022,16 @@
       "url": "https://marktenmeer.nl/markt/de-antilliaanse-kerstmarkt-5-december-2026/"
     },
     {
+      "id": "mm-kerstmarkt-dorpshuis-vaesrade-6-december-2026",
+      "title": "Kerstmarkt Dorpshuis Vaesrade – 6 december 2026",
+      "category": "markt",
+      "lat": 50.93026737,
+      "lon": 5.90184558,
+      "date": "2026-12-06T12:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-dorpshuis-vaesrade-6-december-2026/"
+    },
+    {
       "id": "mm-winterfair-hoveniersbedrijf-kik-21-november-2026",
       "title": "Winterfair Hoveniersbedrijf Kik Oude Tonge – 21 november 2026",
       "category": "evenement",
@@ -2942,16 +3082,6 @@
       "url": "https://marktenmeer.nl/markt/rommelroute-heeswijk-dinther-29-november-2026/"
     },
     {
-      "id": "mm-rommelbeurs-antiek-en-brocante-14-november-2026",
-      "title": "Rommelbeurs (Antiek en Brocante) Wieze – 14 en 15 november 2026",
-      "category": "evenement",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/rommelbeurs-antiek-en-brocante-14-november-2026/"
-    },
-    {
       "id": "mm-rommelbeurs-jabbeke-org-jovan-15-november-2026",
       "title": "Rommelbeurs Jabbeke – 15 november 2026",
       "category": "evenement",
@@ -3000,6 +3130,16 @@
       "date": "2026-11-21T14:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/kerstmarkt-op-het-palet-21-november-2026/"
+    },
+    {
+      "id": "mm-warme-kerstmiddag-bij-huize-bethanie-6-december-2026",
+      "title": "Kerstmarkt Horn – 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/warme-kerstmiddag-bij-huize-bethanie-6-december-2026/"
     },
     {
       "id": "mm-winterfair-petrakerk-20-november-2026",
@@ -3082,16 +3222,6 @@
       "url": "https://marktenmeer.nl/markt/intocht-sinterklaas-nieuw-vossemeer-15-november-2026/"
     },
     {
-      "id": "mm-intocht-sinterklaas-ossendrecht-14-november-2026",
-      "title": "Intocht Sinterklaas Ossendrecht – 14 november 2026",
-      "category": "markt",
-      "lat": 51.39506366,
-      "lon": 4.33529985,
-      "date": "2026-11-14T16:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/intocht-sinterklaas-ossendrecht-14-november-2026/"
-    },
-    {
       "id": "mm-tweedehands-kledingmarkt-ons-pakkie-an-28-november-2026",
       "title": "Tweedehands kledingmarkt Winsum – 28 november 2026",
       "category": "markt",
@@ -3132,16 +3262,6 @@
       "url": "https://marktenmeer.nl/markt/pure-markt-22-november-2026/"
     },
     {
-      "id": "mm-sinterklaasintocht-elst-14-november-2026",
-      "title": "Sinterklaasintocht Elst – 14 november 2026",
-      "category": "evenement",
-      "lat": 51.92114569,
-      "lon": 5.84184846,
-      "date": "2026-11-14",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/sinterklaasintocht-elst-14-november-2026/"
-    },
-    {
       "id": "mm-sinterklaas-in-renkum-21-november-2026",
       "title": "Sinterklaas in Renkum – 21 november 2026",
       "category": "evenement",
@@ -3150,26 +3270,6 @@
       "date": "2026-11-21",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/sinterklaas-in-renkum-21-november-2026/"
-    },
-    {
-      "id": "mm-sinterklaas-komt-weer-naar-arnhem-14-november-2026",
-      "title": "Sinterklaasintocht Arnhem – 14 november 2026",
-      "category": "evenement",
-      "lat": 52.02332876,
-      "lon": 5.92538876,
-      "date": "2026-11-14T15:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/sinterklaas-komt-weer-naar-arnhem-14-november-2026/"
-    },
-    {
-      "id": "mm-boekenbeurs-14-november-2026",
-      "title": "Boekenbeurs Thorn – 14 november 2026",
-      "category": "evenement",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/boekenbeurs-14-november-2026/"
     },
     {
       "id": "mm-amsterdam-light-festival-26-november-2026",
@@ -3200,6 +3300,16 @@
       "date": "2026-11-23T10:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/kerstmarkt-frankfurt-am-main-23-november-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-heldburg-6-december-2026",
+      "title": "Kerstmarkt Heldburg – 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T14:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-heldburg-6-december-2026/"
     },
     {
       "id": "mm-kerstmarkt-in-passau-24-november-2026",
@@ -3292,16 +3402,6 @@
       "url": "https://marktenmeer.nl/markt/kerstmarkt-depolim-28-november-2026/"
     },
     {
-      "id": "mm-intocht-sinterklaas-14-november-2026-3",
-      "title": "Intocht Sinterklaas Losser – 14 november 2026",
-      "category": "evenement",
-      "lat": 52.3028096,
-      "lon": 7.00274789,
-      "date": "2026-11-14T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/intocht-sinterklaas-14-november-2026-3/"
-    },
-    {
       "id": "mm-kerstmarkt-bogen-4-december-2026",
       "title": "Kerstmarkt Bogen – 4 t/m 6 december 2026",
       "category": "markt",
@@ -3332,16 +3432,6 @@
       "url": "https://marktenmeer.nl/markt/chiro-herenthout-kerstmarkt-28-november-2026/"
     },
     {
-      "id": "mm-sinterklaas-intocht-meppel-14-november-2026",
-      "title": "Sinterklaas Intocht Meppel – 14 november 2026",
-      "category": "evenement",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T13:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/sinterklaas-intocht-meppel-14-november-2026/"
-    },
-    {
       "id": "mm-winterfair-kulturhus-wekerom-21-november-2026",
       "title": "Winterfair Kulturhus Wekerom – 21 november 2026",
       "category": "markt",
@@ -3360,16 +3450,6 @@
       "date": "2026-11-27T15:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/winterfair-veen-27-november-2026/"
-    },
-    {
-      "id": "mm-kerstmarkt-winteratelier-clinge-14-november-2026",
-      "title": "Kerstmarkt & Winteratelier Clinge – 14 november 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/kerstmarkt-winteratelier-clinge-14-november-2026/"
     },
     {
       "id": "mm-wintermarkt-drachten-28-november-2026",
@@ -3422,6 +3502,16 @@
       "url": "https://marktenmeer.nl/markt/winterfair-oud-alblas-27-november-2026/"
     },
     {
+      "id": "mm-waluw-vintage-en-design-market-6-december-2026",
+      "title": "Waluw Vintage en Design Market Rotterdam Albrands – 6 december 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T10:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/waluw-vintage-en-design-market-6-december-2026/"
+    },
+    {
       "id": "mm-kerstdmarkt-lingen-23-november-2026",
       "title": "Kerstmarkt Lingen – 23 november tot en met 30 december 2026",
       "category": "markt",
@@ -3460,16 +3550,6 @@
       "date": "2026-11-28T13:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/sinterklaasintocht-stellendam-28-november-2026/"
-    },
-    {
-      "id": "mm-verlichte-sinterklaas-intocht-zetten-14-november-2026",
-      "title": "Verlichte Sinterklaas intocht Zetten – 14 november 2026",
-      "category": "evenement",
-      "lat": 51.92794907,
-      "lon": 5.71833498,
-      "date": "2026-11-14",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/verlichte-sinterklaas-intocht-zetten-14-november-2026/"
     },
     {
       "id": "mm-kerstmarkt-aurich-23-november-2026",
@@ -3532,16 +3612,6 @@
       "url": "https://marktenmeer.nl/markt/de-kerstsfeerdagen-20-november-2026/"
     },
     {
-      "id": "mm-kerst-op-landgoed-welgelegen-14-november-2026",
-      "title": "Kerst op Landgoed Welgelegen Koekange – 14 november 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T11:30:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/kerst-op-landgoed-welgelegen-14-november-2026/"
-    },
-    {
       "id": "mm-kerstmarkt-donderboerkamp-20-november-2026",
       "title": "Kerstmarkt Donderen – 20 november 2026",
       "category": "markt",
@@ -3600,6 +3670,16 @@
       "date": "2026-11-29T11:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/vintage-aan-de-maas-29-november-2026/"
+    },
+    {
+      "id": "mm-boekenmarkt-gertrudiskerk-ossendrecht-6-december-2026",
+      "title": "Boekenmarkt Ossendrecht – 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T13:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boekenmarkt-gertrudiskerk-ossendrecht-6-december-2026/"
     },
     {
       "id": "mm-lichtjes-festival-zenderen-22-november-2026",
@@ -3812,24 +3892,14 @@
       "url": "https://marktenmeer.nl/markt/winterfair-de-glind-27-november-2026/"
     },
     {
-      "id": "mm-rommelmarkt-bij-sgo-nederweert-14-november-2026",
-      "title": "Rommelmarkt Nederweert – 14 november 2026",
+      "id": "mm-kerstmarkt-beek-en-donk-6-december-2026",
+      "title": "Kerstmarkt Beek en Donk – 6 december 2026",
       "category": "markt",
-      "lat": 51.29435762,
-      "lon": 5.7733212,
-      "date": "2026-11-14T11:00:00+01:00",
+      "lat": 51.53824938,
+      "lon": 5.62873195,
+      "date": "2026-12-06T13:00:00+01:00",
       "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/rommelmarkt-bij-sgo-nederweert-14-november-2026/"
-    },
-    {
-      "id": "mm-sinterklaas-en-kerstmarkt-horn-14-november-2026",
-      "title": "Sinterklaas- en kerstmarkt Horn – 14 en 15 november 2026",
-      "category": "markt",
-      "lat": 51.21438721,
-      "lon": 5.93263192,
-      "date": "2026-11-14T11:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/sinterklaas-en-kerstmarkt-horn-14-november-2026/"
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-beek-en-donk-6-december-2026/"
     },
     {
       "id": "mm-kerstmarkt-in-friedrichshafen-27-november-2026",
@@ -3882,26 +3952,6 @@
       "url": "https://marktenmeer.nl/markt/geefmarkt-2026-21-november-2026/"
     },
     {
-      "id": "mm-grote-verkoop-leger-des-heils-14-november-2026",
-      "title": "Grote verkoop Leger des Heils Brussel – 14 november 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T09:30:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/grote-verkoop-leger-des-heils-14-november-2026/"
-    },
-    {
-      "id": "mm-robbie-robot-speelbabbel-xl-14-november-2026",
-      "title": "Robbie Robot & Speelbabbel XL Buggenhout – 14 november 2026",
-      "category": "evenement",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T09:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/robbie-robot-speelbabbel-xl-14-november-2026/"
-    },
-    {
       "id": "mm-wntr-brasschaat-20-november-2026",
       "title": "WNTR Brasschaat – vrijdag 20 november – zondag 3 januari 2027",
       "category": "kermis",
@@ -3920,6 +3970,16 @@
       "date": "2026-11-29T08:30:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/rommelmarkten-oostende-29-november-2026/"
+    },
+    {
+      "id": "mm-rommelmarkten-oostende-6-december-2026",
+      "title": "Rommelmarkt Oostende – 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T08:30:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommelmarkten-oostende-6-december-2026/"
     },
     {
       "id": "mm-la-mini-friperie-de-lebrius-et-du-calidum-15-november-2026",
@@ -3962,6 +4022,16 @@
       "url": "https://marktenmeer.nl/markt/winterplein-putten-27-november-2026/"
     },
     {
+      "id": "mm-winterfair-howa-terrein-vlissingen-6-december-2026",
+      "title": "WinterFair HOWA-terrein Vlissingen – 6 december",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/winterfair-howa-terrein-vlissingen-6-december-2026/"
+    },
+    {
       "id": "mm-bruisend-fortem-indoor-kerstmarkt-5-december-2026",
       "title": "BRUISEND FORTEM indoor kerstmarkt Alveringem – 5 – 6 december 2026",
       "category": "markt",
@@ -4000,6 +4070,26 @@
       "date": "2026-12-05T11:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/kertmis-weekend-bij-plek-5-december-2026/"
+    },
+    {
+      "id": "mm-rommel-en-brocantebeurs-flanders-expo-6-december-2026",
+      "title": "Rommel- en Brocantebeurs Gent – 6 december 2026",
+      "category": "evenement",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/rommel-en-brocantebeurs-flanders-expo-6-december-2026/"
+    },
+    {
+      "id": "mm-antiek-brocante-rommelmarkt-indoor-outdoor-molecule-vichte-6-december-2026",
+      "title": "Antiek- Brocante- Rommelmarkt Molecule Vichte – 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T08:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/antiek-brocante-rommelmarkt-indoor-outdoor-molecule-vichte-6-december-2026/"
     },
     {
       "id": "mm-kerstboomverkoop-en-kerstmarkt-bij-le-silex-28-november-2026",
@@ -4112,16 +4202,6 @@
       "url": "https://marktenmeer.nl/markt/sinterkerst-cadeautjesmarkt-21-november-2026/"
     },
     {
-      "id": "mm-cadeautjesmarkt-bij-mennistenerf-14-november-2026",
-      "title": "Cadeautjesmarkt bij Mennistenerf Zaandam – 14 november 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T13:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/cadeautjesmarkt-bij-mennistenerf-14-november-2026/"
-    },
-    {
       "id": "mm-cadeautjesmarkt-22-november-2026",
       "title": "Cadeautjesmarkt Wormerveer – 22 november 2026",
       "category": "markt",
@@ -4140,6 +4220,16 @@
       "date": "2026-11-28T10:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/kadootjesmarkt-28-november-2026/"
+    },
+    {
+      "id": "mm-idyllisch-kerstdorp-genhoeske-6-december-2026",
+      "title": "Idyllisch kerstdorp Genhoeske Schin op Geul – 6 december t/m 3 januari 2027",
+      "category": "evenement",
+      "lat": 50.84749129,
+      "lon": 5.86016857,
+      "date": "2026-12-06T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/idyllisch-kerstdorp-genhoeske-6-december-2026/"
     },
     {
       "id": "mm-kerstmarkt-freiberg-freiberger-christmarkt-24-november-2026",
@@ -4182,16 +4272,6 @@
       "url": "https://marktenmeer.nl/markt/kerstmarkt-millunia-in-miltenberg-4-december-2026/"
     },
     {
-      "id": "mm-winterfair-ooltgensplaat-14-november-2026",
-      "title": "Winterfair Ooltgensplaat – 14 november 2026",
-      "category": "evenement",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T15:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/winterfair-ooltgensplaat-14-november-2026/"
-    },
-    {
       "id": "mm-rommelmarkt-wijkplein-where-28-november-2026",
       "title": "Rommelmarkt Wijkplein Where Purmerend – 28 november 2026",
       "category": "markt",
@@ -4200,16 +4280,6 @@
       "date": "2026-11-28T11:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/rommelmarkt-wijkplein-where-28-november-2026/"
-    },
-    {
-      "id": "mm-rommelmarkt-in-de-nh-kerk-14-november-2026",
-      "title": "Rommelmarkt Ilpendam – 14 november 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/rommelmarkt-in-de-nh-kerk-14-november-2026/"
     },
     {
       "id": "mm-gezellige-overdekte-rommelmarkt-met-live-muziek-15-november-2026",
@@ -4262,16 +4332,6 @@
       "url": "https://marktenmeer.nl/markt/tweedehands-boekenverkoop-in-kerk-van-poesele-deinze-15-november-2026/"
     },
     {
-      "id": "mm-2dehands-volwassenkledingmarkt-nunspeet-14-november-2026",
-      "title": "2dehands volwassenkledingmarkt Nunspeet – 14 november 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T19:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/2dehands-volwassenkledingmarkt-nunspeet-14-november-2026/"
-    },
-    {
       "id": "mm-sinterklaasmarkt-in-sneek-19-november-2026",
       "title": "Sinterklaasmarkt Sneek – 19 november",
       "category": "markt",
@@ -4280,16 +4340,6 @@
       "date": "2026-11-19T19:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/sinterklaasmarkt-in-sneek-19-november-2026/"
-    },
-    {
-      "id": "mm-herfstfair-delfzijl-14-november-2026",
-      "title": "Herfstfair Delfzijl – 14 november 2026",
-      "category": "evenement",
-      "lat": 52.6359914,
-      "lon": 4.81607217,
-      "date": "2026-11-14T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/herfstfair-delfzijl-14-november-2026/"
     },
     {
       "id": "mm-platenbeurs-mechelen-de-vleeshalle-22-november-2026",
@@ -4302,26 +4352,6 @@
       "url": "https://marktenmeer.nl/markt/platenbeurs-mechelen-de-vleeshalle-22-november-2026/"
     },
     {
-      "id": "mm-wintermarkt-te-warnsveld-14-november-2026",
-      "title": "Wintermarkt Warnsveld – 14 november 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/wintermarkt-te-warnsveld-14-november-2026/"
-    },
-    {
-      "id": "mm-garage-sale-genderen-14-november-2026",
-      "title": "Garage sale Genderen – 14 november 2026",
-      "category": "evenement",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T09:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/garage-sale-genderen-14-november-2026/"
-    },
-    {
       "id": "mm-snuffelmarkt-wijkcentrum-noord-15-november-2026",
       "title": "Snuffelmarkt Wijkcentrum Noord Spijkenisse – 15 november 2026",
       "category": "markt",
@@ -4330,16 +4360,6 @@
       "date": "2026-11-15T10:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/snuffelmarkt-wijkcentrum-noord-15-november-2026/"
-    },
-    {
-      "id": "mm-bazar-doopsgezinde-gemeente-aalsmeer-14-november-2026",
-      "title": "Bazar Doopsgezinde Gemeente Aalsmeer – 14 november 2026",
-      "category": "markt",
-      "lat": 52.25769678,
-      "lon": 4.75502264,
-      "date": "2026-11-14T10:30:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/bazar-doopsgezinde-gemeente-aalsmeer-14-november-2026/"
     },
     {
       "id": "mm-sint-kerst-cadeaumarkt-15-november-2026",
@@ -4412,46 +4432,6 @@
       "url": "https://marktenmeer.nl/markt/antiek-rommelmarkt-te-vilvoorde-15-november-2026/"
     },
     {
-      "id": "mm-verzamelaarsjaarbeurs-14-november-2026",
-      "title": "VerzamelaarsJaarbeurs Utrecht – 14 en 15 november 2026",
-      "category": "markt",
-      "lat": 52.08725381,
-      "lon": 5.10087721,
-      "date": "2026-11-14T09:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/verzamelaarsjaarbeurs-14-november-2026/"
-    },
-    {
-      "id": "mm-gezellige-rommelmarkt-14-november-2026",
-      "title": "Rommelmarkt Musselkanaal – 14 t/m 15 november 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/gezellige-rommelmarkt-14-november-2026/"
-    },
-    {
-      "id": "mm-rommelmarkt-in-buurthuis-de-schuilhoek-14-november-2026",
-      "title": "Rommelmarkt Heemskerk – 14 november 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/rommelmarkt-in-buurthuis-de-schuilhoek-14-november-2026/"
-    },
-    {
-      "id": "mm-schuurverkoop-dorpskerk-bleiswijk-14-november-2026",
-      "title": "Schuurverkoop Dorpskerk Bleiswijk – 14 november 2026",
-      "category": "markt",
-      "lat": 52.01240959,
-      "lon": 4.52643387,
-      "date": "2026-11-14T09:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/schuurverkoop-dorpskerk-bleiswijk-14-november-2026/"
-    },
-    {
       "id": "mm-rommelmarkt-in-dorpshuis-de-berchplaets-15-november-2026",
       "title": "Rommelmarkt Berghem – 15 november 2026",
       "category": "markt",
@@ -4492,26 +4472,6 @@
       "url": "https://marktenmeer.nl/markt/lettermarkt-nieuw-zuid-5-december-2026/"
     },
     {
-      "id": "mm-bric-brac-curiosa-en-rommelmarkt-14-november-2026",
-      "title": "Bric & brac curiosa en rommelmarkt Stompetoren – 14 november 2026",
-      "category": "markt",
-      "lat": 52.61344989,
-      "lon": 4.80707949,
-      "date": "2026-11-14T09:30:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/bric-brac-curiosa-en-rommelmarkt-14-november-2026/"
-    },
-    {
-      "id": "mm-rommelmarkt-de-kronkel-14-november-2026",
-      "title": "Rommelmarkt De Kronkel Den Haag – 14 november 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T08:30:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/rommelmarkt-de-kronkel-14-november-2026/"
-    },
-    {
       "id": "mm-antiek-rommelmarkt-te-merelbeke-22-november-2026",
       "title": "Antiek & Rommelmarkt Merelbeke – 22 november 2026",
       "category": "markt",
@@ -4540,6 +4500,16 @@
       "date": "2026-11-22T09:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/goegekregen-rommelmarkt-parking-kinepolis-antwerpen-22-november-2026/"
+    },
+    {
+      "id": "mm-vlooienmarkt-gorredijk-6-december-2026",
+      "title": "Vlooienmarkt Gorredijk – 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T09:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/vlooienmarkt-gorredijk-6-december-2026/"
     },
     {
       "id": "mm-winterfair-nlc-28-november-2026",
@@ -4602,16 +4572,6 @@
       "url": "https://marktenmeer.nl/markt/wintermarkt-bij-die-buytenweye-22-november-2026/"
     },
     {
-      "id": "mm-herfstmarkt-14-november-2026-2",
-      "title": "Herfstmarkt Nagele – 14 november 2026",
-      "category": "markt",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/herfstmarkt-14-november-2026-2/"
-    },
-    {
       "id": "mm-rommelmarkt-iop-nederland-heinenoord-2026-5-december-2026",
       "title": "Rommelmarkt Heinenoord – 5 december 2026",
       "category": "markt",
@@ -4662,16 +4622,6 @@
       "url": "https://marktenmeer.nl/markt/xantener-kerstmarkt-20-november-2026/"
     },
     {
-      "id": "mm-grand-garage-sale-vide-grenier-14-november-2026",
-      "title": "Grand garage sale / vide-grenier Watermael-Boitsfort – 14 november 2026",
-      "category": "evenement",
-      "lat": 52.75180122,
-      "lon": 5.96778501,
-      "date": "2026-11-14T10:00:00+01:00",
-      "source": "marktenmeer.nl",
-      "url": "https://marktenmeer.nl/markt/grand-garage-sale-vide-grenier-14-november-2026/"
-    },
-    {
       "id": "mm-grote-tafelverkoop-van-kinderartikelen-inschrijving-vanaf-3-oktober-15-november-2026",
       "title": "Grote tafelverkoop van kinderartikelen Deinze – 15 november 2026",
       "category": "evenement",
@@ -4690,6 +4640,16 @@
       "date": "2026-11-28T12:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/eltheto-rommelmarkt-28-november-2026/"
+    },
+    {
+      "id": "mm-winterfair-bij-toms-creek-6-december-2026",
+      "title": "Winterfair bij Tom’s Creek Lelystad – 6 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T11:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/winterfair-bij-toms-creek-6-december-2026/"
     },
     {
       "id": "mm-pepernotenmarkt-s-gravendeel-28-november-2026",
@@ -4782,6 +4742,16 @@
       "url": "https://marktenmeer.nl/markt/kerstmarkt-in-plauen-24-november-2026/"
     },
     {
+      "id": "mm-boekenmarkt-en-kerstmarkt-29-november-2026",
+      "title": "Boekenmarkt en Kerstmarkt Kilder – 29 november 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-11-29T10:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/boekenmarkt-en-kerstmarkt-29-november-2026/"
+    },
+    {
       "id": "ec-evenementenlijst.nl-14936",
       "title": "Braderie zaterdag  21 november 2026 centrum Baarn (U)",
       "category": "braderie",
@@ -4830,6 +4800,16 @@
       "date": "2026-11-28T10:00:00",
       "source": "wildro.nl",
       "url": "https://wildro.nl/event/braderie-winkelcentrum-nobellaan-assen-4-2-5/"
+    },
+    {
+      "id": "ec-wildro.nl-948",
+      "title": "Winterfair  Centrum, Ruinen",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-06T10:00:00",
+      "source": "wildro.nl",
+      "url": "https://wildro.nl/event/kerstmarkt-ruinen/"
     }
   ]
 }
