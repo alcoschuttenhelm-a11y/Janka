@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T11:18:02.249Z",
+  "generatedAt": "2026-11-19T11:18:35.356Z",
   "events": [
     {
       "id": "mm-wintermarkt-uddel-20-en-21-november-2026",
@@ -1692,6 +1692,26 @@
       "url": "https://marktenmeer.nl/markt/kerstmarkt-bleiswijk-9-december-2026/"
     },
     {
+      "id": "mm-veluws-winter-paradijs-10-december-2026",
+      "title": "Veluws Winter Paradijs in Ermelo – 10 t/m 13 december 2026",
+      "category": "markt",
+      "lat": 52.2882477,
+      "lon": 5.66616371,
+      "date": "2026-12-10",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/veluws-winter-paradijs-10-december-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-bij-de-barones-10-december-2026",
+      "title": "Kerstmarkt bij De Barones in Dalfsen – 10 december 2026",
+      "category": "markt",
+      "lat": 52.51472783,
+      "lon": 6.27666931,
+      "date": "2026-12-10T16:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-bij-de-barones-10-december-2026/"
+    },
+    {
       "id": "mm-smaak-van-de-winter-28-november-2026",
       "title": "Smaak van de Winter in Den Haag – 28 & 29 november 2026",
       "category": "markt",
@@ -1900,6 +1920,16 @@
       "date": "2026-11-20",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/winterfair-old-ruitenborgh-20-november-2026-2/"
+    },
+    {
+      "id": "mm-de-groot-kerstmarkt-10-december-2026",
+      "title": "De Groot Kerstmarkt Volkel – 10 december 2026",
+      "category": "markt",
+      "lat": 52.75180122,
+      "lon": 5.96778501,
+      "date": "2026-12-10T16:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/de-groot-kerstmarkt-10-december-2026/"
     },
     {
       "id": "mm-meesterlijk-herfst-fair-22-november-2026",
@@ -2130,6 +2160,16 @@
       "date": "2026-11-28T13:30:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/cadeautjesmarkt-zonnehuis-oostergast-28-november-2026/"
+    },
+    {
+      "id": "mm-kerstmarkt-marum-10-december-2026",
+      "title": "Kerstmarkt Marum – 10 december 2026",
+      "category": "markt",
+      "lat": 53.13826735,
+      "lon": 6.24069452,
+      "date": "2026-12-10T16:00:00+01:00",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/kerstmarkt-marum-10-december-2026/"
     },
     {
       "id": "mm-engelkerstmarkt-emden-23-november-2026",
@@ -3660,6 +3700,16 @@
       "date": "2026-12-06T10:00:00+01:00",
       "source": "marktenmeer.nl",
       "url": "https://marktenmeer.nl/markt/winterfair-howa-terrein-vlissingen-6-december-2026/"
+    },
+    {
+      "id": "mm-winterfestival-de-kentering-10-december-2026",
+      "title": "Winterfestival De Kentering Vlissingen – 10 – 13 december 2026",
+      "category": "evenement",
+      "lat": 51.46533058,
+      "lon": 3.4810497,
+      "date": "2026-12-10",
+      "source": "marktenmeer.nl",
+      "url": "https://marktenmeer.nl/markt/winterfestival-de-kentering-10-december-2026/"
     },
     {
       "id": "mm-bruisend-fortem-indoor-kerstmarkt-5-december-2026",
