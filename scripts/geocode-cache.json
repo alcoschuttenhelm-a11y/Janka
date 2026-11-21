@@ -8042,5 +8042,49 @@
   "De Achtergracht (2e verdieping), Zwolle": {
     "lat": 52.75180122,
     "lon": 5.96778501
+  },
+  "ExpoGreater Amsterdam, Vijfhuizen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Centrum Lemmer, Vissersburen, Lemmer": {
+    "lat": 52.84388955,
+    "lon": 5.71337562
+  },
+  "Hotel Brasserie Smits, Wemeldinge, Wemeldinge": {
+    "lat": 51.52586594,
+    "lon": 3.9838956
+  },
+  "Zoutsloot, Harlingen": {
+    "lat": 53.17678191,
+    "lon": 5.41896975
+  },
+  "Javaplein Amsterdam Oost, Amsterdam": {
+    "lat": 52.36366978,
+    "lon": 4.93941961
+  },
+  "Spinetpad / Balalaikapad, rondom en in wijkcentrum Het Middelpunt, Amersfoort": {
+    "lat": 52.18211371,
+    "lon": 5.40526351
+  },
+  "Stadhuisplein, Neringpassage, De Wissel (Stadshart Lelystad), Lelystad": {
+    "lat": 52.50923963,
+    "lon": 5.47610761
+  },
+  "'t Warnshuus, Warnsveld": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Kerkplein, Sint-Oedenrode": {
+    "lat": 51.56356505,
+    "lon": 5.46050215
+  },
+  "Brink, Roden": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Markt, Gennep": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
   }
 }
