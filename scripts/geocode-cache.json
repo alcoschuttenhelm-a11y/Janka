@@ -8086,5 +8086,677 @@
   "Markt, Gennep": {
     "lat": 52.75180122,
     "lon": 5.96778501
+  },
+  "Gouda, Gouda": {
+    "lat": 52.0153015,
+    "lon": 4.70620369
+  },
+  "Wezup, Wezup": {
+    "lat": 52.8189425,
+    "lon": 6.71613233
+  },
+  "Wieringerwerf, Wieringerwerf": {
+    "lat": 52.88703035,
+    "lon": 5.1055454
+  },
+  "Openluchtmuseum Ellert &#038; Brammert, Schoonoord": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Heemskerk, Heemskerk": {
+    "lat": 52.51249252,
+    "lon": 4.64044923
+  },
+  "Woudrichem, Woudrichem": {
+    "lat": 51.80941124,
+    "lon": 4.98287353
+  },
+  "De Blokhut, Willemstad": {
+    "lat": 51.6493249,
+    "lon": 4.66615853
+  },
+  "Wijk Groendal, Mere, Mere (BE)": {
+    "lat": 50.99244053,
+    "lon": 5.87420477
+  },
+  "Vosseparkwijk, Leeuwarden": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "De Woldbrink, Onstwedde": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Oude Stadhuis, Culemborg": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Wintelre, Wintelre": {
+    "lat": 51.44660325,
+    "lon": 5.32870591
+  },
+  "Historische brink, Zuidlaren, Zuidlaren": {
+    "lat": 53.09324898,
+    "lon": 6.68805388
+  },
+  "Sliedrecht, Sliedrecht": {
+    "lat": 51.83068699,
+    "lon": 4.7729476
+  },
+  "Leusden, Leusden": {
+    "lat": 52.12222391,
+    "lon": 5.41644531
+  },
+  "Kaasmarkt, Purmerend, Purmerend": {
+    "lat": 52.50981976,
+    "lon": 4.94602825
+  },
+  "Oude-Tonge, Oude-Tonge": {
+    "lat": 51.68777796,
+    "lon": 4.21044408
+  },
+  "Suikerfabriek Groningen, Groningen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Emiclaerhof, Amersfoort, Amersfoort": {
+    "lat": 52.18600187,
+    "lon": 5.3968557
+  },
+  "Kerkplein en omgeving, centrum Woerden, Woerden": {
+    "lat": 52.08576007,
+    "lon": 4.88365447
+  },
+  "Utrecht, Lunetten, Utrecht": {
+    "lat": 52.05532627,
+    "lon": 5.13463642
+  },
+  "Dodewaard, Dodewaard": {
+    "lat": 51.91119335,
+    "lon": 5.6629364
+  },
+  "Zalencentrum de Hoendrik, Herveld": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Oude Kerk, Naaldwijk, Naaldwijk": {
+    "lat": 52.00038514,
+    "lon": 4.20729388
+  },
+  "Emelgem (BE), Emelgem": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Boseind, Pelt": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Winkelcentrum Putten, Putten": {
+    "lat": 52.24390009,
+    "lon": 5.5826715
+  },
+  "Zwartsluis, Zwartsluis": {
+    "lat": 52.63901772,
+    "lon": 6.07616515
+  },
+  "Hoevenen (BE), Hoevenen (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Meeuwen (BE), Meeuwen (BE)": {
+    "lat": 51.72694732,
+    "lon": 5.00959576
+  },
+  "Klim-Op Meeuwen, Oudsbergen, Oudsbergen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Beekstraat – Solterweg, Tongerlo-Bree, Tongerlo": {
+    "lat": 51.87649565,
+    "lon": 4.48018252
+  },
+  "Grote Kerk Monnickendam, Monnickendam": {
+    "lat": 52.45617817,
+    "lon": 5.02920115
+  },
+  "Historisch centrum Ootmarsum, Ootmarsum": {
+    "lat": 52.40904567,
+    "lon": 6.89973272
+  },
+  "Houtvenne (BE), Houtvenne": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Historisch centrum rond ’t Zand en de Markt, Bredevoort": {
+    "lat": 51.9441577,
+    "lon": 6.61806243
+  },
+  "Centrumstraten Lauwe, Lauwe": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Speeltuin Pinkeltje, Wapenveld": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Dorpskerk Grijpskerk, Grijpskerk": {
+    "lat": 53.26632877,
+    "lon": 6.30260018
+  },
+  "Grote Kerk, Varsseveld": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Klundert, Klundert": {
+    "lat": 51.66781477,
+    "lon": 4.53375166
+  },
+  "Nienoord, Leek": {
+    "lat": 53.16926563,
+    "lon": 6.39359805
+  },
+  "Centrum Heerlen, Heerlen": {
+    "lat": 50.88596462,
+    "lon": 5.96853294
+  },
+  "Binnenstad Zutphen, Zutphen": {
+    "lat": 52.13634665,
+    "lon": 6.23395013
+  },
+  "Cafetaria / fietscafé De Burg, Hamont, Hamont": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Dorpshuis de Berchplaets, Berghem, Berghem": {
+    "lat": 51.76838704,
+    "lon": 5.5749727
+  },
+  "&#8217;t Juphuis, Heerlen, Heerlen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "MFC de Drieschaar, Ossendrecht": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Zaal Brielpoort, Deinze, Deinze": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Sporthal Zuiderpark, Apeldoorn, Apeldoorn": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Hoeve Ravenstein, Landgoed Groeneveld, Baarn": {
+    "lat": 52.2159211,
+    "lon": 5.25282031
+  },
+  "Buurtcentrum Moesel, Weert": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Sint Lodewijkscollege, Brugge, Brugge": {
+    "lat": 51.84671626,
+    "lon": 4.50868209
+  },
+  "Binnenrotte, Rotterdam, Rotterdam": {
+    "lat": 51.92273132,
+    "lon": 4.48472982
+  },
+  "Thorn, Thorn": {
+    "lat": 51.16280428,
+    "lon": 5.8490352
+  },
+  "Sociaal Cultureel Centrum De Helftheuvel, Den Bosch": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Verstegen Tuinplanten, Schaijk": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Binnenstad Arnhem (o.a. Koningstraat, Jansplein en omgeving), Arnhem": {
+    "lat": 51.98275516,
+    "lon": 5.90787848
+  },
+  "Gemeenschapshuis De Rots, Boxtel, Boxtel": {
+    "lat": 51.58115372,
+    "lon": 5.32404125
+  },
+  "Neerkant, Neerkant": {
+    "lat": 51.37263456,
+    "lon": 5.86974256
+  },
+  "MFC de Hardenberg, Finsterwolde": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Schalkhaar, Schalkhaar": {
+    "lat": 52.28955443,
+    "lon": 6.21666328
+  },
+  "Winkelcentrum Woensel, Eindhoven": {
+    "lat": 51.46915009,
+    "lon": 5.47546157
+  },
+  "Loopuytpark, Den Helder, Den Helder": {
+    "lat": 52.89693124,
+    "lon": 4.75298645
+  },
+  "Diverse locaties bij bedrijven in en rondom Ruinerwold, Ruinerwold": {
+    "lat": 52.73237909,
+    "lon": 6.27063082
+  },
+  "Markt, Eersel": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Huis van de Wijk De Nieuwe Nachtegaal, Rotterdam": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "HJC Manege Tolbert, Tolbert": {
+    "lat": 53.18032416,
+    "lon": 6.35480691
+  },
+  "Bergkwartier (historische binnenstad) Deventer, Deventer": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Kennedyplein en de Kerkstraat, centrum Ulft, Ulft": {
+    "lat": 51.89086496,
+    "lon": 6.38381926
+  },
+  "Vinkenplein, Almelo": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Café ‘t Keerpunt, Spijkerboor": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Openluchttheater Lochem, Lochem": {
+    "lat": 52.17948247,
+    "lon": 6.34685481
+  },
+  "Centrum Wijchen, Wijchen": {
+    "lat": 51.81673503,
+    "lon": 5.70191338
+  },
+  "Gemeenschapshuis Kepel, Panningen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Kerkplein, Diepenveen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "'t Dorpshuus, Varsselder": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Dorpscentrum Boekelo, Boekelo": {
+    "lat": 51.99653378,
+    "lon": 5.66874656
+  },
+  "Kerkstraat en vesting, Woudrichem": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Feestzaal Ter Heyde, Pajottegem": {
+    "lat": 52.03000639,
+    "lon": 4.16835344
+  },
+  "Voorstraat, Vianen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Kulturhus De Klaampe, Westerhaar": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Victoriahal en hal van de voormalige gemeentewerken, Dirksland": {
+    "lat": 51.47446298,
+    "lon": 5.57019751
+  },
+  "Dorpshuis Assekolke, Drouwenermond": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Grote Brink – Achter de Brink, Borger": {
+    "lat": 52.92313258,
+    "lon": 6.79047288
+  },
+  "Goede Herderkerk, Hoogeveen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Centrum Axel, Axel": {
+    "lat": 51.27512448,
+    "lon": 3.9251649
+  },
+  "De Stegel, Molenbeersel": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Raadhuisplein, Zwijndrecht": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Openluchtmuseum Eynderhoof, Nederweert": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "D’n Haammaeker, Neer": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Maaskantje, Maaskantje": {
+    "lat": 51.6607975,
+    "lon": 5.36964392
+  },
+  "Rond de Stefanuskerk, Westerbork": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Lopik, Lopik": {
+    "lat": 51.98535812,
+    "lon": 4.94552285
+  },
+  "de Brink, Muiderberg": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Raaigras, wijk Keijzershof, Pijnacker, Pijnacker": {
+    "lat": 52.00495128,
+    "lon": 4.44458282
+  },
+  "Binnenstad Weesp, Nieuwstraat, Weesp": {
+    "lat": 52.30655806,
+    "lon": 5.0429542
+  },
+  "Raadhuisplein Arcen, Arcen": {
+    "lat": 51.47416542,
+    "lon": 6.17965852
+  },
+  "Markt Sittard, Sittard": {
+    "lat": 50.99777295,
+    "lon": 5.87046442
+  },
+  "Minderbroederskerk en omgeving, centrum Roermond, Roermond": {
+    "lat": 51.20119012,
+    "lon": 6.01147665
+  },
+  "Meredorp (kerstmarkt), wijk Groendal Mere (start tractorparade), Erpe-Mere": {
+    "lat": 50.99244053,
+    "lon": 5.87420477
+  },
+  "Vergeldermolenstraat, Oostnieuwkerke": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Hof Hämel, Niederbadinghagen 1, Meinerzhagen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Sporthal Marsana, Meerssen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "MFA de Loop'r, Olland": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "binnenstad van Franeker, Franeker": {
+    "lat": 53.18340776,
+    "lon": 5.54660593
+  },
+  "Centrum, Keijenborg": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "centrum Nijverdal, Nijverdal": {
+    "lat": 52.35929565,
+    "lon": 6.46859715
+  },
+  "Amber ijs, Tielt - Winge": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Wolsmastate Ouwsterhaule, Ouwsterhaule": {
+    "lat": 52.93616304,
+    "lon": 5.81506983
+  },
+  "De Hartkamp, Raalte": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "De Hoeksteen, Swifterbant": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Kasteel Doorwerth, Doorwerth": {
+    "lat": 51.97399584,
+    "lon": 5.78644813
+  },
+  "Grote of Maria Magdalena Kerk, Goes": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "MFC de Noordsuythoeve, Noordbroek": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Poppodium Drachten / Iduna, Drachten": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Molen de Ster, Utrecht": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Boerderijcomplex de Steenen Camer, Arnhem, Arnhem": {
+    "lat": 52.11599265,
+    "lon": 5.18283153
+  },
+  "Dorpshuis Lutjegast, Lutjegast": {
+    "lat": 53.23837073,
+    "lon": 6.25733266
+  },
+  "In en rondom de Dorpskerk en Drents museum de Buitenplaats, Eelde": {
+    "lat": 50.8573812,
+    "lon": 5.76401839
+  },
+  "Dorpshuus in Varsselder, Varsselder": {
+    "lat": 51.88815793,
+    "lon": 6.35193338
+  },
+  "Kasteelpark Born, Born": {
+    "lat": 51.02994853,
+    "lon": 5.81162012
+  },
+  "Kerk - Grote Dries - Huize Holtum, Holtum": {
+    "lat": 51.05124107,
+    "lon": 5.8233472
+  },
+  "IJzeren Man, rondom Madame Zita, Vught": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Centrum, Schijndel, Schijndel": {
+    "lat": 51.62210027,
+    "lon": 5.43651124
+  },
+  "Huis van het Dorp, Ezinge": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "centrum, Buggenhout": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "centrum, Peer": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "kerkplein, Puurs": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "RCN Zeewolde, Zeewolde": {
+    "lat": 52.34436139,
+    "lon": 5.45524194
+  },
+  "Plan_A, Nijmegen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Oranjepark, Apeldoorn": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Goede Herderkerk, Apeldoorn, Apeldoorn": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Centrum Meppel / Hart van Meppel, Meppel": {
+    "lat": 52.70470969,
+    "lon": 6.2016693
+  },
+  "Hoorn, Hoorn": {
+    "lat": 52.62993233,
+    "lon": 5.07192464
+  },
+  "Speelplaats GO! Basisschool De Bel, Muizen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "B&B Boerderaaj, Bilzen-Hoeselt (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "MFC De Baank, Leunen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Dorpsplein Vorden, Vorden (achterhoek)": {
+    "lat": 52.1015288,
+    "lon": 6.34079887
+  },
+  "Veerkracht, Goirle": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Volkstuinvereniging Delfzijl, Delfzijl": {
+    "lat": 53.36024875,
+    "lon": 6.9523714
+  },
+  "B&B Rijsterbosch, Rijs": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Buorren, Langweer": {
+    "lat": 52.95895579,
+    "lon": 5.72359225
+  },
+  "Dorfplatz Arnbruck, Arnbruck (D)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Kerkstraat, Noordwijk aan Zee": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Alpacafarm Vorstenbosch, Vorstenbosch": {
+    "lat": 51.66276617,
+    "lon": 5.55296917
+  },
+  "Centrum Oedelem (marktplein, kerk en Oudezakstraat), Beernem (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Eetcafé De Kastelein, Ruinerwold": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Ontmoetingsruimte De Tol (ambachtskwartier), Venray": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Kerk Steenhuffel, Steenhuffel (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Centrum, Huissen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Centrum Gendt, Gendt": {
+    "lat": 51.87767539,
+    "lon": 5.96390914
+  },
+  "Op het grasveld voor de kerk, Arnhem (veluwe)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Dries, Sinaai (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "centrum Doorn, Doorn": {
+    "lat": 52.03730908,
+    "lon": 5.34232027
+  },
+  "Historische kerk Souburg, Oost-Souburg": {
+    "lat": 51.46822624,
+    "lon": 3.60573339
+  },
+  "Heemtuin Muntendam, Muntendam": {
+    "lat": 53.14148479,
+    "lon": 6.86930085
+  },
+  "Brocante van A tot Z, Ieper (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Raadhuisplein Sevenum, Sevenum": {
+    "lat": 51.41129534,
+    "lon": 6.03743766
+  },
+  "Aartswoud, Aartswoud": {
+    "lat": 52.74678105,
+    "lon": 4.96056365
+  },
+  "Centrum Delden, Delden": {
+    "lat": 52.25874597,
+    "lon": 6.70581106
+  },
+  "GOUDasfalt, Gouda": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "standbeeld van Urbanus, Tollembeek (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Gemeentehal Vosselaar, Vosselaar (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "De Braambeier, Zedelgem (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Parking Kinepolis Antwerpen, Antwerpen (BE)": {
+    "lat": 51.95427899,
+    "lon": 6.26539837
+  },
+  "De Laurenskerk en openhuizenroute in het dorp, Kolhorn": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Bezoekerscentrum Aerden Plaats, Oudebildtzijl": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
   }
 }
