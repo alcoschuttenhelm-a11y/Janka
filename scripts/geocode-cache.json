@@ -9058,5 +9058,29 @@
   "Grasveld naast Burgemeester van Leeuwenlaan, Amsterdam": {
     "lat": 52.37841721,
     "lon": 4.81298044
+  },
+  "ASVZ Vincentius, Udenhout": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Fort de Roovere, Halsteren": {
+    "lat": 51.9097827,
+    "lon": 4.60840386
+  },
+  "Op het plein voor Kringloop De Vlinder, Sibculo": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Kleistad, Amersfoort": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Dorpshuis de Alkenhorst, Alkmaar": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Echt, Centrum, Echt": {
+    "lat": 51.08504222,
+    "lon": 5.90820095
   }
 }
