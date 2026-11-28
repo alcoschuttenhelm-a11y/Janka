@@ -9082,5 +9082,245 @@
   "Echt, Centrum, Echt": {
     "lat": 51.08504222,
     "lon": 5.90820095
+  },
+  "Grand Hotel Karel V, Utrecht": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Badhoevedorp, Badhoevedorp": {
+    "lat": 52.33122371,
+    "lon": 4.77899977
+  },
+  "Woudenberg, Woudenberg": {
+    "lat": 52.08115655,
+    "lon": 5.42663916
+  },
+  "Bovenstestraat, Plats, Ursulinenhof, Dakpannenfabriek, Echt": {
+    "lat": 51.10633101,
+    "lon": 5.86738032
+  },
+  "Speelplein Hampidoe, Tessenderlo-Ham, Tessenderlo-Ham": {
+    "lat": 52.46270358,
+    "lon": 6.50316679
+  },
+  "Kriekeput, Herpen, Herpen": {
+    "lat": 51.76636995,
+    "lon": 5.62358868
+  },
+  "Buiten, Groningen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Brink Eext, Eext": {
+    "lat": 53.01594996,
+    "lon": 6.73121262
+  },
+  "Stede Broec, Stede Broec": {
+    "lat": 52.70006845,
+    "lon": 5.22685099
+  },
+  "Evenemententerrein Het Middendorp (De Geitenwei), Bennebroek": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Centrum Beverwijk, Beverwijk": {
+    "lat": 52.48480822,
+    "lon": 4.64910613
+  },
+  "Grote Kerk, Zwolle, Zwolle": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Martinikerk en Schaapmarktplein Sneek, Sneek": {
+    "lat": 53.03238108,
+    "lon": 5.66108004
+  },
+  "Havelte, Havelte": {
+    "lat": 52.76497508,
+    "lon": 6.23525831
+  },
+  "HVV Heeklaan, Helmond": {
+    "lat": 51.4663377,
+    "lon": 5.64481594
+  },
+  "Dorpshart Castricum, Castricum": {
+    "lat": 52.55668977,
+    "lon": 4.67539409
+  },
+  "Centrum Hamme, Hamme": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Centrale Markthal, Amsterdam": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Raadhuisplein, Drunen": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Winkelcentrum De Scheepjeshof, Veenendaal": {
+    "lat": 52.02926924,
+    "lon": 5.55672397
+  },
+  "Art-nouveaufeestzaal, voormalig Sint-Angelaklooster (Ursulinenklooster), Tildonk": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Winkelcentrum Keizerswaard, Rotterdam": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Kaufven, Kelpen-Oler": {
+    "lat": 51.22331363,
+    "lon": 5.83035296
+  },
+  "Sportlaan 9A, Axel": {
+    "lat": 51.25957119,
+    "lon": 3.92131459
+  },
+  "Ruijsdaelplein bij de Utrechtse Poort, Naarden": {
+    "lat": 52.29561173,
+    "lon": 5.16537121
+  },
+  "Farmfabriek, Deinze (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Dorpsstraat 50, Valkenswaard": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Dorpshuis de Stoek, Hoorn": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Raadhuisplein, Centrumwaard, Heerhugowaard": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Lindeplein (deelnemersactiviteiten), centrum Brunssum, Brunssum": {
+    "lat": 50.9432922,
+    "lon": 5.97026982
+  },
+  "Centrum Veendam, Museumplein, Veendam": {
+    "lat": 53.10695293,
+    "lon": 6.87650271
+  },
+  "Wijndomein Haksberg, Tielt - Winge": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Raadhuisplein, Etten-Leur": {
+    "lat": 51.56898218,
+    "lon": 4.63545238
+  },
+  "Dorpsplein, Aspelare": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Binnenplaats De Bockenreyder, Esbeek": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Hoofdstraat, Epe": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Stouwdamsweg, Oldebroek": {
+    "lat": 52.4473877,
+    "lon": 5.905123
+  },
+  "Kwekerij Bandus, Hummelo": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Rondom de schaatsbaan (het plein wordt verlicht en versierd), Doorn": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Boortmeerbeek, Boortmeerbeek": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Kippeschuur, Wapenveld": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Historisch dorp Orvelte, Orvelte": {
+    "lat": 52.85135436,
+    "lon": 6.68192387
+  },
+  "Winkelcentrum Kastelenplein, Eindhoven": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Fort Pannerden, Doornenburg": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Binnenstad Bolsward, Bolsward": {
+    "lat": 53.06409394,
+    "lon": 5.52457403
+  },
+  "terrein van theatergezelschap Vis à Vis, Almere": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Winkelplein Kort Ambachtlaan, Zwijndrecht": {
+    "lat": 51.81230988,
+    "lon": 4.62713331
+  },
+  "In en rondom de kerk / Burghsering, Burgh-Haamstede": {
+    "lat": 51.74348286,
+    "lon": 5.74582377
+  },
+  "Binnenstad (Walstraat, Lange Zelke, Bellamypark), Vlissingen, Vlissingen (kust)": {
+    "lat": 51.44365685,
+    "lon": 3.57374659
+  },
+  "De Waldhoorn, Otterlo": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Grote of Mariakerk, Meppel": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Oosterkerk Amsterdam, Amsterdam": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Camping Blauwe Meer, Lommel (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "Historische binnenstad van Kampen, Kampen": {
+    "lat": 52.55835835,
+    "lon": 5.92332641
+  },
+  "De Ark en Eendrachtskerk, Zuid-Beijerland, Zuid-Beijerland": {
+    "lat": 51.74743361,
+    "lon": 4.34998523
+  },
+  "Winkelcentrum Puttershoek, Puttershoek": {
+    "lat": 51.80380403,
+    "lon": 4.57049582
+  },
+  "Steyl, Steyl": {
+    "lat": 51.33452131,
+    "lon": 6.12455045
+  },
+  "Hanzehal, Zutphen (achterhoek)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "BIG Art & Garden, Gees": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
+  },
+  "De Schuur, Gierle (BE)": {
+    "lat": 52.75180122,
+    "lon": 5.96778501
   }
 }
